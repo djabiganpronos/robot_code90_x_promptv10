@@ -1,111 +1,39 @@
 {
-  "generated_at": "2026-09-06T06:04:56.965377+00:00",
+  "generated_at": "2026-09-06T12:04:52.292707+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 32,
   "matchs": [
-    {
-      "match": "Nagoya Grampus vs FC Machida Zelvia",
-      "competition": "J League",
-      "commence_time": "2026-09-06T09:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": 0.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Fagiano Okayama vs Hiroshima Sanfrecce FC",
-      "competition": "J League",
-      "commence_time": "2026-09-06T09:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "JEF United Chiba vs Gamba Osaka",
-      "competition": "J League",
-      "commence_time": "2026-09-06T09:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": -0.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 52.4,
-            "ev_pct": 5.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Kashima Antlers vs Urawa Red Diamonds",
-      "competition": "J League",
-      "commence_time": "2026-09-06T09:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE KASHIMA ANTLERS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.64,
-        "lambda_exterieur": 1.0,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.98,
-            "probabilite_modele": 51.0,
-            "ev_pct": 0.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Cerezo Osaka vs Tokyo Verdy",
       "competition": "J League",
       "commence_time": "2026-09-06T10:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE CEREZO OSAKA",
-        "cote": 1.83,
-        "indice_fixe": 78
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.03,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.7,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": 0.7,
+        "lambda_domicile": 0.09,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": 7.0,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 51.6,
-            "ev_pct": 2.7
+            "marche": "PLUS DE 0.5 BUTS",
+            "cote": 14.82,
+            "probabilite_modele": 13.1,
+            "ev_pct": 93.7
+          },
+          {
+            "marche": "VICTOIRE CEREZO OSAKA",
+            "cote": 17.7,
+            "probabilite_modele": 10.3,
+            "ev_pct": 82.1
+          },
+          {
+            "marche": "VICTOIRE TOKYO VERDY",
+            "cote": 40.25,
+            "probabilite_modele": 4.3,
+            "ev_pct": 75.1
           }
         ]
       },
@@ -119,24 +47,24 @@
       "competition": "K League 1",
       "commence_time": "2026-09-06T10:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 0.05,
+        "lambda_exterieur": 3.16,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 52.0,
-            "ev_pct": 5.7
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 10.78,
+            "probabilite_modele": 40.1,
+            "ev_pct": 331.8
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -146,37 +74,759 @@
       "competition": "K League 1",
       "commence_time": "2026-09-06T10:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE SANGJU SANGMU FC",
-        "cote": 1.57,
-        "indice_fixe": 78
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 88
       },
       "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 1.9,
-        "value_bets": []
+        "lambda_domicile": 2.3,
+        "lambda_exterieur": 1.88,
+        "divergence_pinnacle_public_pct": 25.4,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE GWANGJU FC",
+            "cote": 23.94,
+            "probabilite_modele": 22.2,
+            "ev_pct": 432.1
+          },
+          {
+            "marche": "VICTOIRE SANGJU SANGMU FC",
+            "cote": 12.28,
+            "probabilite_modele": 40.4,
+            "ev_pct": 395.8
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 9.75,
+            "probabilite_modele": 44.1,
+            "ev_pct": 330.4
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Kashiwa Reysol vs Yokohama F Marinos",
       "competition": "J League",
       "commence_time": "2026-09-06T10:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.05,
+        "lambda_exterieur": 2.76,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 24.65,
+            "probabilite_modele": 52.0,
+            "ev_pct": 1181.1
+          },
+          {
+            "marche": "NUL",
+            "cote": 73.0,
+            "probabilite_modele": 6.9,
+            "ev_pct": 402.3
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Kawasaki Frontale vs Shimizu S Pulse",
+      "competition": "J League",
+      "commence_time": "2026-09-06T10:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE KASHIWA REYSOL",
-        "cote": 1.68,
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.33,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 3.52,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 5.86,
+            "probabilite_modele": 28.6,
+            "ev_pct": 67.9
+          },
+          {
+            "marche": "NUL",
+            "cote": 33.29,
+            "probabilite_modele": 3.3,
+            "ev_pct": 11.0
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Vissel Kobe vs V-Varen Nagasaki",
+      "competition": "J League",
+      "commence_time": "2026-09-06T10:03:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 3.52,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 7.77,
+            "probabilite_modele": 47.7,
+            "ev_pct": 270.4
+          },
+          {
+            "marche": "NUL",
+            "cote": 80.67,
+            "probabilite_modele": 3.3,
+            "ev_pct": 168.9
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Groningen vs FC Twente Enschede",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-09-06T10:15:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.0,
+        "lambda_exterieur": 2.2,
+        "divergence_pinnacle_public_pct": 11.0,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE GRONINGEN",
+            "cote": 9.71,
+            "probabilite_modele": 28.3,
+            "ev_pct": 175.1
+          },
+          {
+            "marche": "VICTOIRE FC TWENTE ENSCHEDE",
+            "cote": 6.45,
+            "probabilite_modele": 36.9,
+            "ev_pct": 138.0
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 4.07,
+            "probabilite_modele": 43.9,
+            "ev_pct": 78.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Tokyo vs Kyoto Purple Sanga",
+      "competition": "J League",
+      "commence_time": "2026-09-06T10:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.04,
+        "lambda_exterieur": 0.42,
+        "divergence_pinnacle_public_pct": -33.3,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE KYOTO PURPLE SANGA",
+            "cote": 36.71,
+            "probabilite_modele": 13.4,
+            "ev_pct": 393.3
+          },
+          {
+            "marche": "NUL",
+            "cote": 6.59,
+            "probabilite_modele": 36.1,
+            "ev_pct": 138.1
+          },
+          {
+            "marche": "MOINS DE 1.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 56.1,
+            "ev_pct": 17.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Birmingham City vs Wolverhampton Wanderers",
+      "competition": "Championship",
+      "commence_time": "2026-09-06T11:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.7,
+        "lambda_exterieur": 2.82,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE BIRMINGHAM CITY",
+            "cote": 3.31,
+            "probabilite_modele": 33.4,
+            "ev_pct": 10.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Chongqing Tonglianglong FC vs Shanghai Shenhua FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-09-06T11:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.56,
+        "lambda_exterieur": 3.06,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE CHONGQING TONGLIANGLONG FC",
+            "cote": 26.25,
+            "probabilite_modele": 3.9,
+            "ev_pct": 1.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Gazovik Orenburg vs FC Akron Tolyatti",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-09-06T11:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.25 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.02,
+        "lambda_exterieur": 0.5,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE FC AKRON TOLYATTI",
+            "cote": 15.75,
+            "probabilite_modele": 7.0,
+            "ev_pct": 11.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Greuther Fürth vs 1. FC Heidenheim",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-06T11:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.72,
-        "lambda_exterieur": 0.88,
-        "divergence_pinnacle_public_pct": 1.5,
+        "lambda_domicile": 1.3,
+        "lambda_exterieur": 2.46,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.34,
+            "probabilite_modele": 52.3,
+            "ev_pct": 22.1
+          },
+          {
+            "marche": "VICTOIRE GREUTHER FÜRTH",
+            "cote": 6.38,
+            "probabilite_modele": 17.1,
+            "ev_pct": 9.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Hertha Berlin vs 1. FC Magdeburg",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-06T11:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE HERTHA BERLIN",
+        "cote": 1.39,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 2.6,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": 8.8,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE HERTHA BERLIN",
+            "cote": 1.59,
+            "probabilite_modele": 68.7,
+            "ev_pct": 9.1
+          },
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 51.1,
+            "ev_pct": 8.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Cercle Brugge KSV vs Gent",
+      "competition": "Belgium First Div",
+      "commence_time": "2026-09-06T11:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE GENT",
+        "cote": 1.42,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 0.68,
+        "lambda_exterieur": 1.92,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE CERCLE BRUGGE KSV",
+            "cote": 8.83,
+            "probabilite_modele": 11.5,
+            "ev_pct": 1.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "VfL Osnabrück vs Eintracht Braunschweig",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-06T11:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.82,
+        "lambda_exterieur": 0.84,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 1.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 51.1,
+            "ev_pct": 2.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Würzburger Kickers vs VfB Stuttgart II",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-09-06T11:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 1.92,
+        "divergence_pinnacle_public_pct": -18.7,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE VFB STUTTGART II",
+            "cote": 3.86,
+            "probabilite_modele": 44.6,
+            "ev_pct": 72.0
+          },
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 53.2,
+            "ev_pct": 7.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Henan FC vs Chengdu Rongcheng FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-09-06T11:35:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": 1.1,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.15,
+            "probabilite_modele": 49.2,
+            "ev_pct": 5.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Yunnan Yukun vs Liaoning Tieren FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-09-06T11:35:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.58,
+        "lambda_exterieur": 0.98,
+        "divergence_pinnacle_public_pct": 1.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "SonderjyskE vs AC Horsens",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-09-06T12:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": -0.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Servette vs FC St Gallen",
+      "competition": "Swiss Superleague",
+      "commence_time": "2026-09-06T12:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.86,
+        "lambda_exterieur": 1.64,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "SD Eibar vs Granada CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-06T12:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 1.02,
+        "divergence_pinnacle_public_pct": 1.3,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 48.1,
+            "ev_pct": 1.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Örgryte IS vs Hammarby IF",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-09-06T12:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.78,
+        "lambda_exterieur": 2.82,
+        "divergence_pinnacle_public_pct": -0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.75 BUTS",
+            "cote": 2.01,
+            "probabilite_modele": 51.3,
+            "ev_pct": 3.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Tianjin Jinmen Tiger FC vs Zhejiang",
+      "competition": "Super League - China",
+      "commence_time": "2026-09-06T12:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "VfL Wolfsburg vs Werder Bremen",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-09-06T12:00:19Z",
+      "modele_a": {
+        "pari": "VICTOIRE VFL WOLFSBURG",
+        "cote": 1.37,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 2.56,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": 3.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 50.8,
+            "ev_pct": 3.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Heerenveen vs AZ Alkmaar",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-09-06T12:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 2.06,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 51.6,
+            "ev_pct": 6.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "SC Telstar vs SC Cambuur",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-09-06T12:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.34,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Cracovia Kraków vs Górnik Zabrze",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-09-06T12:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.34,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": -0.8,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Modena vs Avellino",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-09-06T13:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.78,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 1.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 52.4,
+            "ev_pct": 4.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Cesena FC vs Mantova",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-09-06T13:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.0,
+            "cote": 1.94,
             "probabilite_modele": 51.8,
-            "ev_pct": 3.8
+            "ev_pct": 0.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Everton vs Manchester United",
+      "competition": "EPL",
+      "commence_time": "2026-09-06T13:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 2.08,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 51.5,
+            "ev_pct": 11.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Frosinone vs Venezia",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-09-06T13:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.9,
+        "lambda_exterieur": 1.78,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 49.3,
+            "ev_pct": 1.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Juve Stabia vs Pisa",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-09-06T13:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": -1.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 50.5,
+            "ev_pct": 5.9
           }
         ]
       },
