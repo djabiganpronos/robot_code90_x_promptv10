@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T06:05:40.244391+00:00",
+  "generated_at": "2026-09-07T12:05:10.361440+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,22 +9,12 @@
       "commence_time": "2026-09-07T15:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.58,
+        "lambda_domicile": 1.56,
         "lambda_exterieur": 0.98,
-        "divergence_pinnacle_public_pct": 1.8,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 47.7,
-            "ev_pct": 0.6
-          }
-        ]
+        "divergence_pinnacle_public_pct": 1.1,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Al-Khaleej vs Al-Riyadh",
@@ -32,19 +22,19 @@
       "commence_time": "2026-09-07T15:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.83,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": -0.8,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 51.6,
-            "ev_pct": 6.0
+            "cote": 2.04,
+            "probabilite_modele": 52.4,
+            "ev_pct": 7.1
           }
         ]
       },
@@ -59,25 +49,19 @@
       "commence_time": "2026-09-07T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.79,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.56,
-        "lambda_exterieur": 2.12,
-        "divergence_pinnacle_public_pct": 2.4,
+        "lambda_exterieur": 2.24,
+        "divergence_pinnacle_public_pct": 1.2,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
             "cote": 2.15,
-            "probabilite_modele": 50.6,
-            "ev_pct": 8.8
-          },
-          {
-            "marche": "VICTOIRE UNION BERLIN",
-            "cote": 3.69,
-            "probabilite_modele": 27.6,
-            "ev_pct": 1.5
+            "probabilite_modele": 52.8,
+            "ev_pct": 13.3
           }
         ]
       },
@@ -92,15 +76,15 @@
       "commence_time": "2026-09-07T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.58,
-        "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": -1.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 49.4,
-            "ev_pct": 2.7
+            "cote": 2.09,
+            "probabilite_modele": 48.7,
+            "ev_pct": 2.0
           }
         ]
       },
@@ -113,27 +97,17 @@
       "match": "Cagliari vs Lecce",
       "competition": "Serie A - Italy",
       "commence_time": "2026-09-07T16:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.29,
-            "probabilite_modele": 52.5,
-            "ev_pct": 20.4
-          },
-          {
-            "marche": "VICTOIRE LECCE",
-            "cote": 4.19,
-            "probabilite_modele": 24.4,
-            "ev_pct": 2.3
+            "marche": "MOINS DE 2.0 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 51.6,
+            "ev_pct": 6.7
           }
         ]
       },
@@ -148,13 +122,13 @@
       "commence_time": "2026-09-07T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.81,
+        "cote": 1.79,
         "indice_fixe": 88
       },
       "modele_b": {
-        "lambda_domicile": 1.24,
+        "lambda_domicile": 1.2,
         "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": -0.1,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -164,20 +138,20 @@
       "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-09-07T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
+        "pari": "VICTOIRE MALMO FF",
+        "cote": 1.72,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.18,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": 0.7,
+        "lambda_domicile": 2.2,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 52.9,
-            "ev_pct": 13.7
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 52.1,
+            "ev_pct": 11.0
           }
         ]
       },
@@ -190,11 +164,15 @@
       "match": "Çaykur Rizespor vs Alanyaspor",
       "competition": "Turkey Super League",
       "commence_time": "2026-09-07T17:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 0.98,
-        "divergence_pinnacle_public_pct": 1.3,
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 1.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
