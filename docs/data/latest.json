@@ -1,241 +1,30 @@
 {
-  "generated_at": "2026-09-07T00:06:28.107563+00:00",
+  "generated_at": "2026-09-07T06:05:40.244391+00:00",
   "erreur": null,
-  "nb_matchs": 13,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "León vs América",
-      "competition": "Leagues Cup",
-      "commence_time": "2026-09-06T22:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.7,
-        "lambda_exterieur": 0.88,
-        "divergence_pinnacle_public_pct": -68.6,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE AMÉRICA",
-            "cote": 119.71,
-            "probabilite_modele": 34.9,
-            "ev_pct": 4074.9
-          },
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 8.03,
-            "probabilite_modele": 50.4,
-            "ev_pct": 304.2
-          },
-          {
-            "marche": "NUL",
-            "cote": 9.61,
-            "probabilite_modele": 41.2,
-            "ev_pct": 295.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "River Plate vs Independiente Rivadavia",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-06T22:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.2,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.06,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 24.29,
-            "probabilite_modele": 5.2,
-            "ev_pct": 25.6
-          },
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 5.3,
-            "probabilite_modele": 20.2,
-            "ev_pct": 7.2
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Corinthians vs Chapecoense",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-06T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": 3.0,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CHAPECOENSE",
-            "cote": 8.48,
-            "probabilite_modele": 16.6,
-            "ev_pct": 40.5
-          },
-          {
-            "marche": "VICTOIRE CORINTHIANS",
-            "cote": 2.19,
-            "probabilite_modele": 48.0,
-            "ev_pct": 5.2
-          },
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 51.4,
-            "ev_pct": 0.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Palestino vs Universidad de Concepción",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-09-06T22:31:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.3,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE UNIVERSIDAD DE CONCEPCIÓN",
-            "cote": 5.94,
-            "probabilite_modele": 23.1,
-            "ev_pct": 37.3
-          },
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 54.9,
-            "ev_pct": 10.0
-          },
-          {
-            "marche": "VICTOIRE PALESTINO",
-            "cote": 2.75,
-            "probabilite_modele": 38.6,
-            "ev_pct": 6.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Cruz Azul vs Santos Laguna",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-06T23:02:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE CRUZ AZUL",
-        "cote": 1.7,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 0.9,
-        "divergence_pinnacle_public_pct": -1.9,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE SANTOS LAGUNA",
-            "cote": 7.0,
-            "probabilite_modele": 16.0,
-            "ev_pct": 11.8
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 50.8,
-            "ev_pct": 9.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Racing Club vs Atlético Tucuman",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-07T00:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": -1.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 47.4,
-            "ev_pct": 3.7
-          },
-          {
-            "marche": "VICTOIRE ATLÉTICO TUCUMAN",
-            "cote": 4.11,
-            "probabilite_modele": 24.6,
-            "ev_pct": 0.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Toluca vs Monterrey",
-      "competition": "Leagues Cup",
-      "commence_time": "2026-09-07T01:15:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.04,
-        "lambda_exterieur": 1.66,
-        "divergence_pinnacle_public_pct": -0.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Asteras Tripolis vs Iraklis FC",
       "competition": "Super League - Greece",
       "commence_time": "2026-09-07T15:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.56,
+        "lambda_domicile": 1.58,
         "lambda_exterieur": 0.98,
-        "divergence_pinnacle_public_pct": 1.7,
-        "value_bets": []
+        "divergence_pinnacle_public_pct": 1.8,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 47.7,
+            "ev_pct": 0.6
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Al-Khaleej vs Al-Riyadh",
@@ -243,19 +32,19 @@
       "commence_time": "2026-09-07T15:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": -0.6,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.05,
-            "probabilite_modele": 52.2,
-            "ev_pct": 7.1
+            "probabilite_modele": 51.6,
+            "ev_pct": 6.0
           }
         ]
       },
@@ -270,19 +59,25 @@
       "commence_time": "2026-09-07T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.81,
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 2.26,
-        "divergence_pinnacle_public_pct": 1.1,
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 2.12,
+        "divergence_pinnacle_public_pct": 2.4,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 52.0,
-            "ev_pct": 11.4
+            "cote": 2.15,
+            "probabilite_modele": 50.6,
+            "ev_pct": 8.8
+          },
+          {
+            "marche": "VICTOIRE UNION BERLIN",
+            "cote": 3.69,
+            "probabilite_modele": 27.6,
+            "ev_pct": 1.5
           }
         ]
       },
@@ -298,14 +93,14 @@
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.58,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 49.7,
-            "ev_pct": 2.2
+            "cote": 2.08,
+            "probabilite_modele": 49.4,
+            "ev_pct": 2.7
           }
         ]
       },
@@ -320,25 +115,25 @@
       "commence_time": "2026-09-07T16:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.83,
+        "cote": 1.82,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
             "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.28,
-            "probabilite_modele": 52.1,
-            "ev_pct": 18.8
+            "cote": 2.29,
+            "probabilite_modele": 52.5,
+            "ev_pct": 20.4
           },
           {
             "marche": "VICTOIRE LECCE",
-            "cote": 4.21,
-            "probabilite_modele": 24.0,
-            "ev_pct": 0.9
+            "cote": 4.19,
+            "probabilite_modele": 24.4,
+            "ev_pct": 2.3
           }
         ]
       },
@@ -359,13 +154,30 @@
       "modele_b": {
         "lambda_domicile": 1.24,
         "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": -0.0,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Malmo FF vs AIK",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-09-07T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.18,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": 0.7,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.23,
-            "probabilite_modele": 45.5,
-            "ev_pct": 1.6
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.15,
+            "probabilite_modele": 52.9,
+            "ev_pct": 13.7
           }
         ]
       },
@@ -373,6 +185,19 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Çaykur Rizespor vs Alanyaspor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-09-07T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.62,
+        "lambda_exterieur": 0.98,
+        "divergence_pinnacle_public_pct": 1.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
