@@ -1,151 +1,24 @@
 {
-  "generated_at": "2026-09-09T00:06:38.910454+00:00",
+  "generated_at": "2026-09-09T06:05:11.985494+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Fluminense-RJ vs Platense",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-09-08T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.26,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.04,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 42.33,
-            "probabilite_modele": 13.7,
-            "ev_pct": 478.4
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 11.33,
-            "probabilite_modele": 29.5,
-            "ev_pct": 234.8
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Independiente Santa Fe vs Vasco da Gama",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-09-08T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.42,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.25,
-        "lambda_exterieur": 0.17,
-        "divergence_pinnacle_public_pct": 13.9,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE INDEPENDIENTE SANTA FE",
-            "cote": 17.5,
-            "probabilite_modele": 19.1,
-            "ev_pct": 234.3
-          },
-          {
-            "marche": "VICTOIRE VASCO DA GAMA",
-            "cote": 21.25,
-            "probabilite_modele": 13.0,
-            "ev_pct": 177.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Cuiabá vs Athletic Club (MG)",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-08T23:29:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.94,
-        "lambda_exterieur": 0.56,
-        "divergence_pinnacle_public_pct": -1.1,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Criciuma vs Juventude",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-09T00:02:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 0.76,
-        "divergence_pinnacle_public_pct": 1.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Boca Juniors vs Sao Paulo",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-09-09T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.68,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Daejeon Citizen vs FC Anyang",
       "competition": "K League 1",
       "commence_time": "2026-09-09T10:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE DAEJEON CITIZEN",
-        "cote": 1.58,
+        "cote": 1.55,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.8,
-        "lambda_exterieur": 0.82,
+        "lambda_domicile": 1.9,
+        "lambda_exterieur": 0.84,
         "divergence_pinnacle_public_pct": 1.9,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 51.5,
-            "ev_pct": 2.8
-          }
-        ]
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Gangwon FC vs Jeonbuk Hyundai Motors",
@@ -153,36 +26,22 @@
       "commence_time": "2026-09-09T10:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": -0.4,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 49.5,
-            "ev_pct": 3.6
-          }
-        ]
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": -1.1,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Gwangju FC vs Jeju United FC",
       "competition": "K League 1",
       "commence_time": "2026-09-09T10:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.0,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 1.02,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": -0.9,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -191,14 +50,28 @@
       "match": "Pohang Steelers vs Sangju Sangmu FC",
       "competition": "K League 1",
       "commence_time": "2026-09-09T10:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": []
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": -0.8,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.17,
+            "probabilite_modele": 52.4,
+            "ev_pct": 13.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "HJK Helsinki vs FC Inter Turku",
@@ -206,9 +79,9 @@
       "commence_time": "2026-09-09T15:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -219,15 +92,28 @@
       "commence_time": "2026-09-09T15:55:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 1.36,
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Barcelona vs Feyenoord",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-09T16:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 4.0,
+        "lambda_exterieur": 0.66,
         "divergence_pinnacle_public_pct": 1.5,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.96,
-            "probabilite_modele": 51.6,
-            "ev_pct": 0.9
+            "marche": "MOINS DE 4.5 BUTS",
+            "cote": 2.67,
+            "probabilite_modele": 50.2,
+            "ev_pct": 34.0
           }
         ]
       },
@@ -237,20 +123,26 @@
       }
     },
     {
-      "match": "Barcelona vs Feyenoord",
-      "competition": "UEFA Champions League",
+      "match": "FC Twente Enschede vs SC Telstar",
+      "competition": "Dutch Eredivisie",
       "commence_time": "2026-09-09T16:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 3.86,
-        "lambda_exterieur": 0.74,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 2.68,
+        "lambda_exterieur": 0.98,
+        "divergence_pinnacle_public_pct": -0.8,
         "value_bets": [
           {
-            "marche": "MOINS DE 4.5 BUTS",
-            "cote": 2.65,
-            "probabilite_modele": 51.3,
-            "ev_pct": 35.9
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.32,
+            "probabilite_modele": 50.3,
+            "ev_pct": 16.9
+          },
+          {
+            "marche": "VICTOIRE SC TELSTAR",
+            "cote": 8.83,
+            "probabilite_modele": 11.5,
+            "ev_pct": 1.2
           }
         ]
       },
