@@ -1,233 +1,66 @@
 {
-  "generated_at": "2026-09-08T18:04:47.399497+00:00",
+  "generated_at": "2026-09-09T00:06:38.910454+00:00",
   "erreur": null,
-  "nb_matchs": 15,
+  "nb_matchs": 12,
   "matchs": [
     {
-      "match": "Al-Hazem vs Al-Taawoun",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-09-08T15:55:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.29,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": -12.1,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE AL-TAAWOUN",
-            "cote": 304.5,
-            "probabilite_modele": 2.2,
-            "ev_pct": 575.1
-          },
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 8.8,
-            "probabilite_modele": 33.5,
-            "ev_pct": 194.6
-          },
-          {
-            "marche": "NUL",
-            "cote": 12.63,
-            "probabilite_modele": 21.7,
-            "ev_pct": 173.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "IF Gnistan vs KuPS Kuopio",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-09-08T16:01:00Z",
+      "match": "Fluminense-RJ vs Platense",
+      "competition": "Copa Libertadores",
+      "commence_time": "2026-09-08T22:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.56,
+        "cote": 1.26,
         "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.29,
-        "lambda_exterieur": 0.42,
-        "divergence_pinnacle_public_pct": 9.3,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE KUPS KUOPIO",
-            "cote": 14.93,
-            "probabilite_modele": 25.3,
-            "ev_pct": 278.3
-          },
-          {
-            "marche": "VICTOIRE IF GNISTAN",
-            "cote": 22.29,
-            "probabilite_modele": 15.5,
-            "ev_pct": 244.4
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 13.52,
-            "probabilite_modele": 21.0,
-            "ev_pct": 183.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "AEK Athens vs LASK",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-09-08T16:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.14,
-        "lambda_exterieur": 0.52,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.39,
-            "probabilite_modele": 49.8,
-            "ev_pct": 18.9
-          },
-          {
-            "marche": "VICTOIRE LASK",
-            "cote": 16.68,
-            "probabilite_modele": 7.0,
-            "ev_pct": 17.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Club Brugge vs Aston Villa",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-09-08T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 88
-      },
-      "modele_b": {
-        "lambda_domicile": 1.3,
-        "lambda_exterieur": 4.0,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CLUB BRUGGE",
-            "cote": 27.75,
-            "probabilite_modele": 5.7,
-            "ev_pct": 57.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "NEC Nijmegen vs Excelsior",
-      "competition": "Dutch Eredivisie",
-      "commence_time": "2026-09-08T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 85
       },
       "modele_b": {
         "lambda_domicile": 2.04,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": 4.7,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.79,
-            "probabilite_modele": 51.4,
-            "ev_pct": 43.3
+            "marche": "NUL",
+            "cote": 42.33,
+            "probabilite_modele": 13.7,
+            "ev_pct": 478.4
           },
           {
-            "marche": "VICTOIRE NEC NIJMEGEN",
-            "cote": 2.51,
-            "probabilite_modele": 44.6,
-            "ev_pct": 11.9
-          },
-          {
-            "marche": "VICTOIRE EXCELSIOR",
-            "cote": 3.85,
-            "probabilite_modele": 26.6,
-            "ev_pct": 2.4
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 11.33,
+            "probabilite_modele": 29.5,
+            "ev_pct": 234.8
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
     },
     {
-      "match": "Al-Qadsiah vs Al-Ahli",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-09-08T18:00:00Z",
+      "match": "Independiente Santa Fe vs Vasco da Gama",
+      "competition": "Copa Sudamericana",
+      "commence_time": "2026-09-08T22:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.81,
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.42,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 1.1,
+        "lambda_domicile": 0.25,
+        "lambda_exterieur": 0.17,
+        "divergence_pinnacle_public_pct": 13.9,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 52.9,
-            "ev_pct": 15.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Al-Ittihad vs Al-Fayha",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-09-08T18:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.48,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": -0.6,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 52.8,
-            "ev_pct": 14.7
+            "marche": "VICTOIRE INDEPENDIENTE SANTA FE",
+            "cote": 17.5,
+            "probabilite_modele": 19.1,
+            "ev_pct": 234.3
           },
           {
-            "marche": "VICTOIRE AL-FAYHA",
-            "cote": 5.52,
-            "probabilite_modele": 18.4,
-            "ev_pct": 1.8
+            "marche": "VICTOIRE VASCO DA GAMA",
+            "cote": 21.25,
+            "probabilite_modele": 13.0,
+            "ev_pct": 177.3
           }
         ]
       },
@@ -237,128 +70,164 @@
       }
     },
     {
-      "match": "Hitchin Town FC vs Biggleswade Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-08T18:45:00Z",
+      "match": "Cuiabá vs Athletic Club (MG)",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-08T23:29:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 78
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Blackburn Rovers vs Sheffield United",
-      "competition": "Championship",
-      "commence_time": "2026-09-08T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": -0.0,
+        "lambda_domicile": 0.94,
+        "lambda_exterieur": 0.56,
+        "divergence_pinnacle_public_pct": -1.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Boldmere St Michaels FC vs Bourne Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-08T18:45:00Z",
+      "match": "Criciuma vs Juventude",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-09T00:02:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 85
-      },
-      "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Bournemouth vs Lincoln City",
-      "competition": "EFL Cup",
-      "commence_time": "2026-09-08T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.79,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.82,
-        "lambda_exterieur": 0.92,
+        "lambda_domicile": 1.02,
+        "lambda_exterieur": 0.76,
+        "divergence_pinnacle_public_pct": 1.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Boca Juniors vs Sao Paulo",
+      "competition": "Copa Sudamericana",
+      "commence_time": "2026-09-09T00:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.68,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Daejeon Citizen vs FC Anyang",
+      "competition": "K League 1",
+      "commence_time": "2026-09-09T10:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE DAEJEON CITIZEN",
+        "cote": 1.58,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": 1.9,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 51.5,
+            "ev_pct": 2.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Gangwon FC vs Jeonbuk Hyundai Motors",
+      "competition": "K League 1",
+      "commence_time": "2026-09-09T10:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 49.5,
+            "ev_pct": 3.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Gwangju FC vs Jeju United FC",
+      "competition": "K League 1",
+      "commence_time": "2026-09-09T10:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.0,
+        "lambda_exterieur": 1.54,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Pohang Steelers vs Sangju Sangmu FC",
+      "competition": "K League 1",
+      "commence_time": "2026-09-09T10:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.2,
         "divergence_pinnacle_public_pct": 0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Leyton Orient vs Bradford City",
-      "competition": "EFL Cup",
-      "commence_time": "2026-09-08T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.38,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 52.3,
-            "ev_pct": 2.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Brentwood Town FC vs Concord Rangers FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-08T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.32,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Wrexham AFC vs Burnley",
-      "competition": "Championship",
-      "commence_time": "2026-09-08T18:45:00Z",
+      "match": "HJK Helsinki vs FC Inter Turku",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-09-09T15:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Al-Kholood vs Al-Shabab",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": 1.5,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 51.0,
-            "ev_pct": 5.6
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.96,
+            "probabilite_modele": 51.6,
+            "ev_pct": 0.9
           }
         ]
       },
@@ -368,24 +237,20 @@
       }
     },
     {
-      "match": "Cardiff City vs Stoke City",
-      "competition": "Championship",
-      "commence_time": "2026-09-08T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
-      },
+      "match": "Barcelona vs Feyenoord",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-09T16:45:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": -0.6,
+        "lambda_domicile": 3.86,
+        "lambda_exterieur": 0.74,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 53.2,
-            "ev_pct": 15.8
+            "marche": "MOINS DE 4.5 BUTS",
+            "cote": 2.65,
+            "probabilite_modele": 51.3,
+            "ev_pct": 35.9
           }
         ]
       },
