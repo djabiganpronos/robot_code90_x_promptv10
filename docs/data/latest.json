@@ -1,203 +1,39 @@
 {
-  "generated_at": "2026-09-09T12:05:21.938535+00:00",
+  "generated_at": "2026-09-09T18:05:17.091134+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 17,
   "matchs": [
-    {
-      "match": "Gangwon FC vs Jeonbuk Hyundai Motors",
-      "competition": "K League 1",
-      "commence_time": "2026-09-09T10:29:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": 2.6,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE GANGWON FC",
-            "cote": 4.57,
-            "probabilite_modele": 28.1,
-            "ev_pct": 28.4
-          },
-          {
-            "marche": "VICTOIRE JEONBUK HYUNDAI MOTORS",
-            "cote": 3.92,
-            "probabilite_modele": 32.4,
-            "ev_pct": 27.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Daejeon Citizen vs FC Anyang",
-      "competition": "K League 1",
-      "commence_time": "2026-09-09T10:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.08,
-        "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": -49.6,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE FC ANYANG",
-            "cote": 57.39,
-            "probabilite_modele": 21.8,
-            "ev_pct": 1151.8
-          },
-          {
-            "marche": "NUL",
-            "cote": 10.72,
-            "probabilite_modele": 33.4,
-            "ev_pct": 257.7
-          },
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 52.2,
-            "ev_pct": 0.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Gwangju FC vs Jeju United FC",
-      "competition": "K League 1",
-      "commence_time": "2026-09-09T10:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.17,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": 2.1,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE GWANGJU FC",
-            "cote": 28.38,
-            "probabilite_modele": 4.4,
-            "ev_pct": 26.0
-          },
-          {
-            "marche": "NUL",
-            "cote": 5.2,
-            "probabilite_modele": 21.1,
-            "ev_pct": 9.6
-          },
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 52.3,
-            "ev_pct": 4.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Pohang Steelers vs Sangju Sangmu FC",
-      "competition": "K League 1",
-      "commence_time": "2026-09-09T10:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 0.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.52,
-        "lambda_exterieur": 0.25,
-        "divergence_pinnacle_public_pct": 3.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 0.5 BUTS",
-            "cote": 2.64,
-            "probabilite_modele": 53.4,
-            "ev_pct": 40.9
-          },
-          {
-            "marche": "VICTOIRE SANGJU SANGMU FC",
-            "cote": 8.52,
-            "probabilite_modele": 13.8,
-            "ev_pct": 17.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "HJK Helsinki vs FC Inter Turku",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-09-09T15:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Al-Kholood vs Al-Shabab",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-09-09T15:55:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.96,
-            "probabilite_modele": 51.3,
-            "ev_pct": 0.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Barcelona vs Feyenoord",
       "competition": "UEFA Champions League",
       "commence_time": "2026-09-09T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 3.86,
-        "lambda_exterieur": 0.68,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 4.0,
+        "lambda_exterieur": 0.46,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
+            "marche": "NUL",
+            "cote": 33.29,
+            "probabilite_modele": 4.5,
+            "ev_pct": 49.4
+          },
+          {
+            "marche": "VICTOIRE FEYENOORD",
+            "cote": 98.29,
+            "probabilite_modele": 1.4,
+            "ev_pct": 42.1
+          },
+          {
             "marche": "MOINS DE 4.5 BUTS",
-            "cote": 2.72,
-            "probabilite_modele": 52.5,
-            "ev_pct": 42.8
+            "cote": 1.94,
+            "probabilite_modele": 52.6,
+            "ev_pct": 2.3
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -206,17 +42,21 @@
       "match": "FC Twente Enschede vs SC Telstar",
       "competition": "Dutch Eredivisie",
       "commence_time": "2026-09-09T16:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 2.84,
-        "lambda_exterieur": 0.92,
-        "divergence_pinnacle_public_pct": 1.2,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 0.34,
+        "divergence_pinnacle_public_pct": 4.4,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.43,
-            "probabilite_modele": 48.1,
-            "ev_pct": 16.9
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 1.96,
+            "probabilite_modele": 52.4,
+            "ev_pct": 2.6
           }
         ]
       },
@@ -229,25 +69,33 @@
       "match": "VfB Stuttgart vs Viking FK",
       "competition": "UEFA Champions League",
       "commence_time": "2026-09-09T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 3.3,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 4.0,
+        "lambda_exterieur": 0.98,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 4.0 BUTS",
-            "cote": 2.59,
-            "probabilite_modele": 52.8,
-            "ev_pct": 36.8
+            "marche": "VICTOIRE VIKING FK",
+            "cote": 135.08,
+            "probabilite_modele": 4.6,
+            "ev_pct": 517.6
+          },
+          {
+            "marche": "NUL",
+            "cote": 28.5,
+            "probabilite_modele": 7.5,
+            "ev_pct": 113.9
+          },
+          {
+            "marche": "MOINS DE 5.5 BUTS",
+            "cote": 1.79,
+            "probabilite_modele": 56.8,
+            "ev_pct": 1.7
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -257,20 +105,26 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-09-09T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE LANDSKRONA BOIS",
-        "cote": 1.79,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.66,
-        "lambda_exterieur": 0.98,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 1.94,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": -2.0,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 50.6,
-            "ev_pct": 6.2
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.35,
+            "probabilite_modele": 49.4,
+            "ev_pct": 16.2
+          },
+          {
+            "marche": "VICTOIRE HELSINGBORGS IF",
+            "cote": 4.02,
+            "probabilite_modele": 27.4,
+            "ev_pct": 10.2
           }
         ]
       },
@@ -285,19 +139,25 @@
       "commence_time": "2026-09-09T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.8,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 0.96,
+        "lambda_exterieur": 1.78,
+        "divergence_pinnacle_public_pct": 0.4,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 48.0,
-            "ev_pct": 1.8
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.33,
+            "probabilite_modele": 52.2,
+            "ev_pct": 21.9
+          },
+          {
+            "marche": "VICTOIRE NORDIC UNITED FC",
+            "cote": 5.55,
+            "probabilite_modele": 18.6,
+            "ev_pct": 3.1
           }
         ]
       },
@@ -312,15 +172,236 @@
       "commence_time": "2026-09-09T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": 2.0,
+        "lambda_domicile": 1.04,
+        "lambda_exterieur": 1.56,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Ljungskile SK vs Norrby IF",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-09-09T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.96,
+        "lambda_exterieur": 1.74,
+        "divergence_pinnacle_public_pct": -1.8,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Al-Nassr vs Abha Club",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-09T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 3.04,
+        "lambda_exterieur": 0.68,
+        "divergence_pinnacle_public_pct": 1.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Al-Fateh vs Diriyah Club",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-09T18:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE DIRIYAH CLUB",
+        "cote": 1.72,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.96,
+        "lambda_exterieur": 1.7,
+        "divergence_pinnacle_public_pct": -1.5,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.01,
-            "probabilite_modele": 49.8,
-            "ev_pct": 0.1
+            "probabilite_modele": 50.4,
+            "ev_pct": 1.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Exmouth Town FC vs Banbury United FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-09T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Norwich City vs Birmingham City",
+      "competition": "Championship",
+      "commence_time": "2026-09-09T18:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 50.4,
+            "ev_pct": 1.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Whyteleafe FC vs Crowborough Athletic FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-09T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.46,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Derby County vs West Bromwich Albion",
+      "competition": "Championship",
+      "commence_time": "2026-09-09T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.54,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.98,
+            "probabilite_modele": 52.6,
+            "ev_pct": 3.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Rangers vs St Mirren",
+      "competition": "Premiership - Scotland",
+      "commence_time": "2026-09-09T18:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.82,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": 1.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Napoli vs Arsenal",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ARSENAL",
+        "cote": 1.64,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.82,
+        "lambda_exterieur": 1.78,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Liverpool vs Atlético Madrid",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE LIVERPOOL",
+        "cote": 1.77,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.28,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.0 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 51.1,
+            "ev_pct": 3.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "St Johnstone vs Celtic",
+      "competition": "Premiership - Scotland",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 2.58,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 1.98,
+            "probabilite_modele": 52.7,
+            "ev_pct": 4.5
+          },
+          {
+            "marche": "VICTOIRE ST JOHNSTONE",
+            "cote": 6.43,
+            "probabilite_modele": 15.6,
+            "ev_pct": 0.2
           }
         ]
       },
