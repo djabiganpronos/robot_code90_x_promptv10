@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T06:05:40.393358+00:00",
+  "generated_at": "2026-09-10T12:05:16.616991+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,27 +7,17 @@
       "match": "Fenerbahce vs AS Roma",
       "competition": "UEFA Champions League",
       "commence_time": "2026-09-10T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.66,
-        "lambda_exterieur": 2.1,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 2.02,
+        "divergence_pinnacle_public_pct": -0.6,
         "value_bets": [
           {
-            "marche": "VICTOIRE AS ROMA",
-            "cote": 2.14,
-            "probabilite_modele": 46.8,
-            "ev_pct": 0.1
-          },
-          {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 47.5,
-            "ev_pct": 0.1
+            "cote": 2.19,
+            "probabilite_modele": 51.5,
+            "ev_pct": 13.1
           }
         ]
       },
@@ -48,20 +38,10 @@
       "modele_b": {
         "lambda_domicile": 2.44,
         "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.25 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 50.3,
-            "ev_pct": 2.3
-          }
-        ]
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Falkenbergs FF vs Östers IF",
@@ -69,15 +49,15 @@
       "commence_time": "2026-09-10T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": -0.9,
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 50.0,
-            "ev_pct": 4.2
+            "cote": 2.15,
+            "probabilite_modele": 50.9,
+            "ev_pct": 9.5
           }
         ]
       },
@@ -90,48 +70,30 @@
       "match": "GIF Sundsvall vs Örebro SK",
       "competition": "Superettan - Sweden",
       "commence_time": "2026-09-10T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.06,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": 0.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.96,
-            "probabilite_modele": 51.8,
-            "ev_pct": 1.5
-          }
-        ]
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Varbergs BoIS vs IFK Norrkoping",
       "competition": "Superettan - Sweden",
       "commence_time": "2026-09-10T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": -1.2,
+        "lambda_exterieur": 1.54,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 47.0,
-            "ev_pct": 0.0
+            "cote": 2.11,
+            "probabilite_modele": 48.7,
+            "ev_pct": 2.9
           }
         ]
       },
@@ -145,14 +107,14 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-09-10T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
+        "pari": "VICTOIRE ÖSTERSUNDS FK",
+        "cote": 1.82,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.7,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 0.98,
+        "divergence_pinnacle_public_pct": 1.3,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -162,20 +124,20 @@
       "competition": "Super League - Greece",
       "commence_time": "2026-09-10T18:15:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
+        "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.81,
-        "indice_fixe": 78
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.84,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 2.0,
+        "lambda_domicile": 2.72,
+        "lambda_exterieur": 0.8,
+        "divergence_pinnacle_public_pct": 1.8,
         "value_bets": [
           {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 52.8,
-            "ev_pct": 8.6
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 1.88,
+            "probabilite_modele": 53.2,
+            "ev_pct": 0.3
           }
         ]
       },
@@ -188,21 +150,17 @@
       "match": "Bayern Munich vs Bodø/Glimt",
       "competition": "UEFA Champions League",
       "commence_time": "2026-09-10T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.75 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 3.98,
-        "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 3.92,
+        "lambda_exterieur": 0.74,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 4.75 BUTS",
-            "cote": 3.09,
-            "probabilite_modele": 47.6,
-            "ev_pct": 47.0
+            "cote": 2.91,
+            "probabilite_modele": 50.1,
+            "ev_pct": 45.7
           }
         ]
       },
