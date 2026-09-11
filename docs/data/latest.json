@@ -1,54 +1,76 @@
 {
-  "generated_at": "2026-09-11T06:05:01.109523+00:00",
+  "generated_at": "2026-09-11T12:05:09.881252+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Vissel Kobe vs Kashima Antlers",
+      "match": "Kyoto Purple Sanga vs Kashiwa Reysol",
       "competition": "J League",
-      "commence_time": "2026-09-11T10:00:00Z",
-      "modele_a": null,
+      "commence_time": "2026-09-11T10:03:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.4,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.3,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 0.52,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 48.9,
-            "ev_pct": 2.6
+            "marche": "VICTOIRE KYOTO PURPLE SANGA",
+            "cote": 340.12,
+            "probabilite_modele": 1.7,
+            "ev_pct": 487.0
+          },
+          {
+            "marche": "PLUS DE 5.5 BUTS",
+            "cote": 7.86,
+            "probabilite_modele": 30.9,
+            "ev_pct": 142.9
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
     },
     {
-      "match": "Kyoto Purple Sanga vs Kashiwa Reysol",
+      "match": "Vissel Kobe vs Kashima Antlers",
       "competition": "J League",
-      "commence_time": "2026-09-11T10:00:00Z",
+      "commence_time": "2026-09-11T10:04:00Z",
       "modele_a": {
-        "pari": "VICTOIRE KASHIWA REYSOL",
-        "cote": 1.68,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.25,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.92,
-        "lambda_exterieur": 1.76,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 2.52,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 49.8,
-            "ev_pct": 0.9
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 11.12,
+            "probabilite_modele": 24.6,
+            "ev_pct": 174.0
+          },
+          {
+            "marche": "VICTOIRE KASHIMA ANTLERS",
+            "cote": 323.25,
+            "probabilite_modele": 0.4,
+            "ev_pct": 34.9
+          },
+          {
+            "marche": "NUL",
+            "cote": 15.56,
+            "probabilite_modele": 8.6,
+            "ev_pct": 34.6
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -57,17 +79,21 @@
       "match": "Kryliya Sovetov vs Rodina Moscow",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-11T15:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.68,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 1.0,
+        "lambda_domicile": 1.58,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 1.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 48.3,
-            "ev_pct": 2.1
+            "cote": 1.94,
+            "probabilite_modele": 53.1,
+            "ev_pct": 3.0
           }
         ]
       },
@@ -80,15 +106,11 @@
       "match": "Al-Qadsiah vs Al-Ettifaq",
       "competition": "Saudi Pro League",
       "commence_time": "2026-09-11T15:25:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.8,
-        "lambda_exterieur": 0.98,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 2.72,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -98,20 +120,20 @@
       "competition": "Saudi Pro League",
       "commence_time": "2026-09-11T15:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 2.32,
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 2.34,
         "divergence_pinnacle_public_pct": 0.1,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 48.4,
-            "ev_pct": 7.4
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.2,
+            "probabilite_modele": 48.0,
+            "ev_pct": 5.6
           }
         ]
       },
@@ -125,37 +147,43 @@
       "competition": "Ekstraklasa - Poland",
       "commence_time": "2026-09-11T16:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE RAKÓW CZĘSTOCHOWA",
+        "pari": "PLUS DE 3.5 BUTS",
         "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.64,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
+        "lambda_domicile": 2.16,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 51.8,
+            "ev_pct": 10.1
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "1. FC Nürnberg vs Hannover 96",
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-09-11T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.74,
-        "lambda_exterieur": 1.8,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 1.82,
+        "lambda_exterieur": 1.78,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 52.6,
-            "ev_pct": 2.8
+            "cote": 2.0,
+            "probabilite_modele": 51.4,
+            "ev_pct": 2.7
           }
         ]
       },
@@ -172,13 +200,13 @@
       "modele_b": {
         "lambda_domicile": 1.64,
         "lambda_exterieur": 1.9,
-        "divergence_pinnacle_public_pct": -0.9,
+        "divergence_pinnacle_public_pct": -0.6,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.13,
+            "cote": 2.19,
             "probabilite_modele": 52.4,
-            "ev_pct": 11.5
+            "ev_pct": 15.1
           }
         ]
       },
@@ -186,6 +214,36 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Werder Bremen vs Hamburger SV",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-09-11T16:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE WERDER BREMEN",
+        "cote": 1.38,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.98,
+        "lambda_exterieur": 0.76,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "FC Copenhagen vs AC Horsens",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-09-11T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.72,
+        "lambda_exterieur": 1.0,
+        "divergence_pinnacle_public_pct": 1.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
