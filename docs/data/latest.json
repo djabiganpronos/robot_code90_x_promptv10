@@ -1,147 +1,131 @@
 {
-  "generated_at": "2026-09-13T00:05:56.859732+00:00",
+  "generated_at": "2026-09-13T06:06:54.660457+00:00",
   "erreur": null,
-  "nb_matchs": 18,
+  "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Toluca vs Atlas",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-12T23:00:00Z",
+      "match": "Sangju Sangmu FC vs Gangwon FC",
+      "competition": "K League 1",
+      "commence_time": "2026-09-13T07:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.54,
-        "divergence_pinnacle_public_pct": null,
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
-            "marche": "NUL",
-            "cote": 24.0,
-            "probabilite_modele": 5.0,
-            "ev_pct": 19.1
-          },
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 48.8,
+            "ev_pct": 2.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Tokyo Verdy vs JEF United Chiba",
+      "competition": "J League",
+      "commence_time": "2026-09-13T09:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": [
           {
-            "marche": "MOINS DE 4.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 51.6,
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 47.6,
+            "ev_pct": 1.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Urawa Red Diamonds vs Fagiano Okayama",
+      "competition": "J League",
+      "commence_time": "2026-09-13T09:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Gwangju FC vs FC Anyang",
+      "competition": "K League 1",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Wisła Płock vs Cracovia Kraków",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Excelsior vs FC Utrecht",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.48,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": 0.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 49.5,
             "ev_pct": 7.1
           }
         ]
       },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Talleres vs Union Santa Fe",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-12T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.3,
-        "lambda_exterieur": 0.58,
-        "divergence_pinnacle_public_pct": 2.0,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.25,
-            "probabilite_modele": 55.4,
-            "ev_pct": 24.7
-          },
-          {
-            "marche": "VICTOIRE UNION SANTA FE",
-            "cote": 15.91,
-            "probabilite_modele": 6.4,
-            "ev_pct": 1.3
-          }
-        ]
-      },
       "pinnacle_disponible": true,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
     },
     {
-      "match": "Palestino vs Universidad Católica (CHI)",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-09-12T23:01:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE UNIVERSIDAD CATÓLICA (CHI)",
-        "cote": 1.41,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 3.1,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE PALESTINO",
-            "cote": 8.52,
-            "probabilite_modele": 13.4,
-            "ev_pct": 14.0
-          },
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 49.9,
-            "ev_pct": 3.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "D.C. United vs Atlanta United FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-12T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": -0.7,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Botafogo vs Bragantino-SP",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-12T23:30:00Z",
+      "match": "Sheffield United vs Wolverhampton Wanderers",
+      "competition": "Championship",
+      "commence_time": "2026-09-13T11:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": 16.0,
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": -0.9,
         "value_bets": [
-          {
-            "marche": "VICTOIRE BOTAFOGO",
-            "cote": 5.63,
-            "probabilite_modele": 34.0,
-            "ev_pct": 91.5
-          },
-          {
-            "marche": "NUL",
-            "cote": 3.78,
-            "probabilite_modele": 29.0,
-            "ev_pct": 9.6
-          },
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.09,
-            "probabilite_modele": 50.5,
-            "ev_pct": 5.5
+            "probabilite_modele": 48.7,
+            "ev_pct": 1.6
           }
         ]
       },
@@ -151,294 +135,24 @@
       }
     },
     {
-      "match": "Columbus Crew SC vs New York Red Bulls",
-      "competition": "MLS",
-      "commence_time": "2026-09-12T23:30:00Z",
+      "match": "1. FC Heidenheim vs Holstein Kiel",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-13T11:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE COLUMBUS CREW SC",
-        "cote": 1.68,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.7,
-        "lambda_exterieur": 0.9,
-        "divergence_pinnacle_public_pct": 1.8,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Orlando City SC vs Toronto FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-12T23:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "FC Cincinnati vs Charlotte FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-12T23:40:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE CHARLOTTE FC",
-        "cote": 1.73,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.28,
-        "lambda_exterieur": 3.26,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 5.5 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 51.8,
-            "ev_pct": 1.2
-          },
-          {
-            "marche": "VICTOIRE FC CINCINNATI",
-            "cote": 4.26,
-            "probabilite_modele": 23.6,
-            "ev_pct": 0.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Inter Miami CF vs Nashville SC",
-      "competition": "MLS",
-      "commence_time": "2026-09-12T23:40:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
+        "pari": "MOINS DE 3.0 BUTS",
         "cote": 1.85,
-        "indice_fixe": 85
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.6,
-        "lambda_exterieur": 2.12,
+        "lambda_domicile": 1.84,
+        "lambda_exterieur": 1.68,
         "divergence_pinnacle_public_pct": -1.4,
         "value_bets": [
           {
-            "marche": "VICTOIRE NASHVILLE SC",
-            "cote": 3.37,
-            "probabilite_modele": 29.9,
-            "ev_pct": 0.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Santos vs Cruzeiro",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-13T00:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": 0.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "FC Dallas vs Portland Timbers",
-      "competition": "MLS",
-      "commence_time": "2026-09-13T00:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE FC DALLAS",
-        "cote": 1.8,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.24,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": 0.8,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Sporting Kansas City vs Los Angeles FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-13T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 2.26,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE SPORTING KANSAS CITY",
-            "cote": 4.11,
-            "probabilite_modele": 24.6,
-            "ev_pct": 1.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "St. Louis City SC vs Minnesota United FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-13T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.12,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 48.1,
-            "ev_pct": 0.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Monterrey vs Tigres",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-13T01:10:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.8,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 52.6,
-            "ev_pct": 7.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Colorado Rapids vs CF Montreal",
-      "competition": "MLS",
-      "commence_time": "2026-09-13T01:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE COLORADO RAPIDS",
-        "cote": 1.62,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.8,
-        "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": 1.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 50.5,
-            "ev_pct": 9.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Real Salt Lake vs New York City FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-13T01:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 49.0,
-            "ev_pct": 1.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "San Jose Earthquakes vs Houston Dynamo",
-      "competition": "MLS",
-      "commence_time": "2026-09-13T02:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": -0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 49.9,
-            "ev_pct": 4.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "LA Galaxy vs Seattle Sounders FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-13T02:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.88,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 53.4,
-            "ev_pct": 2.5
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 1.9,
+            "probabilite_modele": 52.8,
+            "ev_pct": 0.0
           }
         ]
       },
