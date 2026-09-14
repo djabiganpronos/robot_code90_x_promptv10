@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T06:05:40.963354+00:00",
+  "generated_at": "2026-09-14T12:05:12.945983+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -8,97 +8,75 @@
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-09-14T15:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE FC INTER TURKU",
-        "cote": 1.72,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": 1.3,
+        "lambda_domicile": 1.72,
+        "lambda_exterieur": 0.88,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": false
     },
     {
       "match": "Bayer Leverkusen vs Bayern Munich",
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-09-14T16:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.62,
-        "lambda_exterieur": 1.96,
-        "divergence_pinnacle_public_pct": -1.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 52.6,
-            "ev_pct": 5.4
-          }
-        ]
+        "lambda_domicile": 0.78,
+        "lambda_exterieur": 2.04,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": false
     },
     {
       "match": "Torino vs AS Roma",
       "competition": "Serie A - Italy",
       "commence_time": "2026-09-14T16:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE AS ROMA",
-        "cote": 1.55,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.73,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.8,
-        "lambda_exterieur": 1.86,
-        "divergence_pinnacle_public_pct": -0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 50.2,
-            "ev_pct": 3.5
-          }
-        ]
+        "lambda_domicile": 0.88,
+        "lambda_exterieur": 1.96,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": false
     },
     {
       "match": "Como vs Parma",
       "competition": "Serie A - Italy",
       "commence_time": "2026-09-14T16:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.69,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 2.86,
-        "lambda_exterieur": 0.88,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 3.0,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 48.5,
-            "ev_pct": 5.5
-          },
-          {
             "marche": "VICTOIRE PARMA",
-            "cote": 13.38,
-            "probabilite_modele": 7.9,
-            "ev_pct": 5.2
+            "cote": 13.14,
+            "probabilite_modele": 8.9,
+            "ev_pct": 16.5
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -108,24 +86,36 @@
       "competition": "Eliteserien - Norway",
       "commence_time": "2026-09-14T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.88,
-        "lambda_exterieur": 0.7,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 3.82,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 52.0,
-            "ev_pct": 14.6
+            "marche": "MOINS DE 4.5 BUTS",
+            "cote": 2.35,
+            "probabilite_modele": 43.4,
+            "ev_pct": 2.0
+          },
+          {
+            "marche": "VICTOIRE SANDEFJORD",
+            "cote": 13.85,
+            "probabilite_modele": 7.3,
+            "ev_pct": 1.7
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 1.79,
+            "probabilite_modele": 56.6,
+            "ev_pct": 1.2
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -136,23 +126,23 @@
       "commence_time": "2026-09-14T17:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE FC MIDTJYLLAND",
-        "cote": 1.81,
+        "cote": 1.76,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.68,
-        "lambda_exterieur": 1.0,
-        "divergence_pinnacle_public_pct": 0.7,
+        "lambda_domicile": 2.22,
+        "lambda_exterieur": 1.48,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 49.8,
-            "ev_pct": 8.4
+            "marche": "VICTOIRE BRONDBY IF",
+            "cote": 4.16,
+            "probabilite_modele": 25.3,
+            "ev_pct": 5.3
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -163,43 +153,33 @@
       "commence_time": "2026-09-14T17:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE IK SIRIUS",
-        "cote": 1.45,
+        "cote": 1.43,
         "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 0.74,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 0.78,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": false
     },
     {
       "match": "Djurgardens IF vs GAIS",
       "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-09-14T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE DJURGARDENS IF",
-        "cote": 1.52,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.67,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.86,
-        "lambda_exterieur": 0.78,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 51.1,
-            "ev_pct": 13.4
-          }
-        ]
+        "lambda_domicile": 2.04,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": false
     }
   ]
 }
