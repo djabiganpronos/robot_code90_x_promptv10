@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:05:03.707894+00:00",
+  "generated_at": "2026-09-16T12:05:11.196986+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,19 +9,19 @@
       "commence_time": "2026-09-16T15:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE SPARTAK MOSCOW",
-        "cote": 1.4,
+        "cote": 1.36,
         "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 2.0,
-        "lambda_exterieur": 0.66,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 2.06,
+        "lambda_exterieur": 0.64,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 50.5,
-            "ev_pct": 1.5
+            "cote": 2.03,
+            "probabilite_modele": 49.6,
+            "ev_pct": 0.8
           }
         ]
       },
@@ -34,17 +34,21 @@
       "match": "Rodina Moscow vs Rubin Kazan",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-16T15:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 1.44,
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.52,
         "divergence_pinnacle_public_pct": -0.7,
         "value_bets": [
           {
             "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 50.9,
-            "ev_pct": 2.8
+            "cote": 1.99,
+            "probabilite_modele": 51.8,
+            "ev_pct": 3.0
           }
         ]
       },
@@ -59,19 +63,19 @@
       "commence_time": "2026-09-16T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.66,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_domicile": 1.04,
+        "lambda_exterieur": 1.72,
+        "divergence_pinnacle_public_pct": -0.6,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.05,
+            "cote": 2.02,
             "probabilite_modele": 52.5,
-            "ev_pct": 7.4
+            "ev_pct": 5.9
           }
         ]
       },
@@ -86,25 +90,19 @@
       "commence_time": "2026-09-16T16:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE SPARTA PRAGUE",
-        "cote": 1.66,
+        "cote": 1.65,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.36,
-        "lambda_exterieur": 2.34,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_exterieur": 2.36,
+        "divergence_pinnacle_public_pct": -0.6,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
             "cote": 2.13,
-            "probabilite_modele": 49.0,
-            "ev_pct": 4.2
-          },
-          {
-            "marche": "VICTOIRE FC ARARAT-ARMENIA",
-            "cote": 5.13,
-            "probabilite_modele": 20.1,
-            "ev_pct": 2.9
+            "probabilite_modele": 48.7,
+            "ev_pct": 3.9
           }
         ]
       },
@@ -129,9 +127,9 @@
         "value_bets": [
           {
             "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.12,
+            "cote": 2.11,
             "probabilite_modele": 47.5,
-            "ev_pct": 0.7
+            "ev_pct": 0.4
           }
         ]
       },
@@ -146,15 +144,15 @@
       "commence_time": "2026-09-16T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 49.9,
-            "ev_pct": 1.8
+            "cote": 2.02,
+            "probabilite_modele": 52.0,
+            "ev_pct": 5.2
           }
         ]
       },
@@ -169,25 +167,19 @@
       "commence_time": "2026-09-16T17:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE ATLÉTICO MADRID",
-        "cote": 1.4,
+        "cote": 1.41,
         "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 2.54,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 0.64,
+        "divergence_pinnacle_public_pct": -0.0,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 51.3,
-            "ev_pct": 7.7
-          },
-          {
-            "marche": "VICTOIRE CA OSASUNA",
-            "cote": 8.49,
-            "probabilite_modele": 12.6,
-            "ev_pct": 7.1
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 51.9,
+            "ev_pct": 6.9
           }
         ]
       },
@@ -204,13 +196,13 @@
       "modele_b": {
         "lambda_domicile": 1.32,
         "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": -0.9,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": [
           {
             "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 47.5,
-            "ev_pct": 0.9
+            "cote": 2.11,
+            "probabilite_modele": 47.6,
+            "ev_pct": 0.4
           }
         ]
       },
