@@ -1,224 +1,27 @@
 {
-  "generated_at": "2026-09-16T00:05:09.517298+00:00",
+  "generated_at": "2026-09-16T06:05:03.707894+00:00",
   "erreur": null,
-  "nb_matchs": 13,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Platense vs Fluminense-RJ",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-09-15T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.41,
-        "indice_fixe": 88
-      },
-      "modele_b": {
-        "lambda_domicile": 2.88,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 13.64,
-            "probabilite_modele": 33.0,
-            "ev_pct": 349.4
-          },
-          {
-            "marche": "NUL",
-            "cote": 32.2,
-            "probabilite_modele": 6.1,
-            "ev_pct": 97.6
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Vasco da Gama vs Independiente Santa Fe",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-09-15T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.12,
-        "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 12.25,
-            "probabilite_modele": 39.9,
-            "ev_pct": 388.2
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Londrina vs Ponte Preta",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-15T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.66,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 26.0,
-            "probabilite_modele": 5.7,
-            "ev_pct": 47.4
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Nautico PE vs Operario PR",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-15T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": 3.9,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE OPERARIO PR",
-            "cote": 5.44,
-            "probabilite_modele": 24.0,
-            "ev_pct": 30.4
-          },
-          {
-            "marche": "VICTOIRE NAUTICO PE",
-            "cote": 2.97,
-            "probabilite_modele": 39.4,
-            "ev_pct": 17.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Clube de Regatas Brasil vs Sport Recife",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-16T00:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.58,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.98,
-            "probabilite_modele": 51.2,
-            "ev_pct": 1.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Sao Paulo vs Boca Juniors",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-09-16T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.94,
-        "lambda_exterieur": 0.68,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 1.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 52.5,
-            "ev_pct": 9.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Puebla vs Toluca",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-16T01:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE TOLUCA",
-        "cote": 1.54,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 2.4,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 50.5,
-            "ev_pct": 5.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Spartak Moscow vs FC Fakel Voronezh",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-16T15:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE SPARTAK MOSCOW",
-        "cote": 1.35,
+        "cote": 1.4,
         "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 2.08,
-        "lambda_exterieur": 0.64,
+        "lambda_domicile": 2.0,
+        "lambda_exterieur": 0.66,
         "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 49.1,
-            "ev_pct": 2.3
+            "cote": 2.01,
+            "probabilite_modele": 50.5,
+            "ev_pct": 1.5
           }
         ]
       },
@@ -235,13 +38,13 @@
       "modele_b": {
         "lambda_domicile": 1.24,
         "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -0.4,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": [
           {
             "marche": "PLUS DE 2.25 BUTS",
             "cote": 2.02,
-            "probabilite_modele": 50.8,
-            "ev_pct": 2.7
+            "probabilite_modele": 50.9,
+            "ev_pct": 2.8
           }
         ]
       },
@@ -254,17 +57,21 @@
       "match": "Omonoia FC vs Celta Vigo",
       "competition": "UEFA Europa League",
       "commence_time": "2026-09-16T16:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.12,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 51.5,
-            "ev_pct": 6.2
+            "cote": 2.05,
+            "probabilite_modele": 52.5,
+            "ev_pct": 7.4
           }
         ]
       },
@@ -279,24 +86,24 @@
       "commence_time": "2026-09-16T16:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE SPARTA PRAGUE",
-        "cote": 1.65,
+        "cote": 1.66,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.36,
         "lambda_exterieur": 2.34,
-        "divergence_pinnacle_public_pct": 0.4,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
             "cote": 2.13,
-            "probabilite_modele": 48.9,
-            "ev_pct": 4.1
+            "probabilite_modele": 49.0,
+            "ev_pct": 4.2
           },
           {
             "marche": "VICTOIRE FC ARARAT-ARMENIA",
-            "cote": 5.1,
-            "probabilite_modele": 20.2,
+            "cote": 5.13,
+            "probabilite_modele": 20.1,
             "ev_pct": 2.9
           }
         ]
@@ -312,19 +119,19 @@
       "commence_time": "2026-09-16T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.82,
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.32,
         "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -0.2,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 2.75 BUTS",
             "cote": 2.12,
-            "probabilite_modele": 47.7,
-            "ev_pct": 1.1
+            "probabilite_modele": 47.5,
+            "ev_pct": 0.7
           }
         ]
       },
@@ -339,15 +146,71 @@
       "commence_time": "2026-09-16T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.48,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.24,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.04,
-            "probabilite_modele": 49.8,
-            "ev_pct": 1.5
+            "probabilite_modele": 49.9,
+            "ev_pct": 1.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Atlético Madrid vs CA Osasuna",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-09-16T17:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ATLÉTICO MADRID",
+        "cote": 1.4,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 2.54,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 51.3,
+            "ev_pct": 7.7
+          },
+          {
+            "marche": "VICTOIRE CA OSASUNA",
+            "cote": 8.49,
+            "probabilite_modele": 12.6,
+            "ev_pct": 7.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Deportivo La Coruña vs Sevilla",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-09-16T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": -0.9,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 47.5,
+            "ev_pct": 0.9
           }
         ]
       },
