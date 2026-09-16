@@ -1,81 +1,33 @@
 {
-  "generated_at": "2026-09-16T12:05:11.196986+00:00",
+  "generated_at": "2026-09-16T18:04:59.826046+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 22,
   "matchs": [
-    {
-      "match": "Spartak Moscow vs FC Fakel Voronezh",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-09-16T15:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE SPARTAK MOSCOW",
-        "cote": 1.36,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 2.06,
-        "lambda_exterieur": 0.64,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 49.6,
-            "ev_pct": 0.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Rodina Moscow vs Rubin Kazan",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-09-16T15:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.25 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": -0.7,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.25 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 51.8,
-            "ev_pct": 3.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Omonoia FC vs Celta Vigo",
       "competition": "UEFA Europa League",
       "commence_time": "2026-09-16T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": -0.6,
+        "lambda_domicile": 0.66,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": 1.1,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 52.5,
-            "ev_pct": 5.9
+            "marche": "VICTOIRE OMONOIA FC",
+            "cote": 5.23,
+            "probabilite_modele": 22.5,
+            "ev_pct": 17.7
+          },
+          {
+            "marche": "MOINS DE 1.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 51.0,
+            "ev_pct": 10.3
           }
         ]
       },
@@ -89,47 +41,53 @@
       "competition": "UEFA Europa League",
       "commence_time": "2026-09-16T16:45:00Z",
       "modele_a": {
-        "pari": "VICTOIRE SPARTA PRAGUE",
-        "cote": 1.65,
-        "indice_fixe": 78
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 2.36,
-        "divergence_pinnacle_public_pct": -0.6,
+        "lambda_domicile": 0.98,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 48.7,
-            "ev_pct": 3.9
+            "marche": "VICTOIRE FC ARARAT-ARMENIA",
+            "cote": 78.18,
+            "probabilite_modele": 4.6,
+            "ev_pct": 257.4
+          },
+          {
+            "marche": "NUL",
+            "cote": 18.98,
+            "probabilite_modele": 7.5,
+            "ev_pct": 42.4
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
     },
     {
-      "match": "SC Preußen Münster vs 1. FC Saarbrücken",
+      "match": "SC Fortuna Köln vs Wehen Wiesbaden",
       "competition": "3. Liga - Germany",
-      "commence_time": "2026-09-16T17:00:00Z",
+      "commence_time": "2026-09-16T16:59:59Z",
       "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.81,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.75,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 0.66,
+        "lambda_exterieur": 3.22,
+        "divergence_pinnacle_public_pct": -0.9,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 47.5,
-            "ev_pct": 0.4
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 1.89,
+            "probabilite_modele": 54.4,
+            "ev_pct": 2.5
           }
         ]
       },
@@ -142,17 +100,21 @@
       "match": "AIK vs Mjällby AIF",
       "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-09-16T17:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": -1.6,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 52.0,
-            "ev_pct": 5.2
+            "marche": "VICTOIRE MJÄLLBY AIF",
+            "cote": 3.28,
+            "probabilite_modele": 31.8,
+            "ev_pct": 4.4
           }
         ]
       },
@@ -166,20 +128,59 @@
       "competition": "La Liga - Spain",
       "commence_time": "2026-09-16T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE ATLÉTICO MADRID",
-        "cote": 1.41,
-        "indice_fixe": 84
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.96,
-        "lambda_exterieur": 0.64,
-        "divergence_pinnacle_public_pct": -0.0,
+        "lambda_domicile": 2.46,
+        "lambda_exterieur": 0.11,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 51.9,
-            "ev_pct": 6.9
+            "cote": 2.05,
+            "probabilite_modele": 52.8,
+            "ev_pct": 8.1
+          },
+          {
+            "marche": "NUL",
+            "cote": 10.33,
+            "probabilite_modele": 9.9,
+            "ev_pct": 1.9
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Deportivo La Coruña vs Sevilla",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-09-16T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.0 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.78,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 1.0 BUTS",
+            "cote": 2.27,
+            "probabilite_modele": 51.6,
+            "ev_pct": 17.3
+          },
+          {
+            "marche": "VICTOIRE SEVILLA",
+            "cote": 3.09,
+            "probabilite_modele": 32.9,
+            "ev_pct": 1.7
           }
         ]
       },
@@ -189,20 +190,435 @@
       }
     },
     {
-      "match": "Deportivo La Coruña vs Sevilla",
-      "competition": "La Liga - Spain",
+      "match": "FC Lugano vs FC St Gallen",
+      "competition": "Swiss Superleague",
       "commence_time": "2026-09-16T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": -0.7,
+        "lambda_domicile": 4.0,
+        "lambda_exterieur": 1.02,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.0 BUTS",
+            "marche": "NUL",
+            "cote": 33.0,
+            "probabilite_modele": 7.7,
+            "ev_pct": 154.9
+          },
+          {
+            "marche": "VICTOIRE FC ST GALLEN",
+            "cote": 44.5,
+            "probabilite_modele": 4.9,
+            "ev_pct": 117.0
+          },
+          {
+            "marche": "MOINS DE 5.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 56.3,
+            "ev_pct": 19.1
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Thun vs Servette",
+      "competition": "Swiss Superleague",
+      "commence_time": "2026-09-16T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 2.84,
+        "divergence_pinnacle_public_pct": 1.1,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE FC THUN",
+            "cote": 5.04,
+            "probabilite_modele": 22.2,
+            "ev_pct": 12.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Waldhof Mannheim vs Rot-Weiss Essen",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-09-16T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.68,
+        "lambda_exterieur": 0.98,
+        "divergence_pinnacle_public_pct": -1.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "SC Preußen Münster vs 1. FC Saarbrücken",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-09-16T17:00:02Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.75 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": -0.9,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 5.75 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 54.9,
+            "ev_pct": 11.8
+          },
+          {
+            "marche": "VICTOIRE SC PREUSSEN MÜNSTER",
+            "cote": 20.75,
+            "probabilite_modele": 5.1,
+            "ev_pct": 6.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Ingolstadt 04 vs TSG Hoffenheim II",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-09-16T17:00:07Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.9,
+        "lambda_exterieur": 1.8,
+        "divergence_pinnacle_public_pct": -1.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
             "cote": 2.11,
-            "probabilite_modele": 47.6,
+            "probabilite_modele": 47.9,
+            "ev_pct": 1.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Hansa Rostock vs VfB Stuttgart II",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-09-16T17:00:20Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.14,
+        "lambda_exterieur": 0.4,
+        "divergence_pinnacle_public_pct": -1.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 53.2,
+            "ev_pct": 10.1
+          },
+          {
+            "marche": "VICTOIRE VFB STUTTGART II",
+            "cote": 17.25,
+            "probabilite_modele": 5.8,
+            "ev_pct": 0.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Baltika Kaliningrad vs Zenit St Petersburg",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-09-16T17:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ZENIT ST PETERSBURG",
+        "cote": 1.35,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 0.6,
+        "lambda_exterieur": 2.0,
+        "divergence_pinnacle_public_pct": -12.8,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE ZENIT ST PETERSBURG",
+            "cote": 1.83,
+            "probabilite_modele": 70.3,
+            "ev_pct": 28.6
+          },
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.19,
+            "probabilite_modele": 48.4,
+            "ev_pct": 6.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Lokomotiv Moscow vs Kryliya Sovetov",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-09-16T17:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.25 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Everton vs Wolverhampton Wanderers",
+      "competition": "EFL Cup",
+      "commence_time": "2026-09-16T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE EVERTON",
+        "cote": 1.45,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 0.74,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 49.4,
             "ev_pct": 0.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Fleetwood Town vs Sheffield United",
+      "competition": "EFL Cup",
+      "commence_time": "2026-09-16T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE SHEFFIELD UNITED",
+        "cote": 1.74,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 2.28,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.15,
+            "probabilite_modele": 48.8,
+            "ev_pct": 4.9
+          },
+          {
+            "marche": "VICTOIRE FLEETWOOD TOWN",
+            "cote": 4.76,
+            "probabilite_modele": 21.7,
+            "ev_pct": 3.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "AC Milan vs Benfica",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-09-16T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 85
+      },
+      "modele_b": {
+        "lambda_domicile": 1.98,
+        "lambda_exterieur": 1.74,
+        "divergence_pinnacle_public_pct": -1.9,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE BENFICA",
+            "cote": 3.16,
+            "probabilite_modele": 33.1,
+            "ev_pct": 4.5
+          },
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 48.2,
+            "ev_pct": 2.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Sunderland vs AZ Alkmaar",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-09-16T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.84,
+        "lambda_exterieur": 0.72,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 52.8,
+            "ev_pct": 10.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Anderlecht vs Lyon",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-09-16T19:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.7,
+        "lambda_exterieur": 1.9,
+        "divergence_pinnacle_public_pct": -0.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 50.9,
+            "ev_pct": 5.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Coventry City vs Aston Villa",
+      "competition": "EFL Cup",
+      "commence_time": "2026-09-16T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 2.1,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.25,
+            "probabilite_modele": 47.6,
+            "ev_pct": 7.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Bayer Leverkusen vs NK Celje",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-09-16T19:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 4.0,
+        "lambda_exterieur": 0.68,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 4.0 BUTS",
+            "cote": 2.42,
+            "probabilite_modele": 49.2,
+            "ev_pct": 19.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Manchester United vs Brighton and Hove Albion",
+      "competition": "EFL Cup",
+      "commence_time": "2026-09-16T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 88
+      },
+      "modele_b": {
+        "lambda_domicile": 2.12,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 52.8,
+            "ev_pct": 7.4
           }
         ]
       },
