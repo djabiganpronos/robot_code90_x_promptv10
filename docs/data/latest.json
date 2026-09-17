@@ -1,108 +1,21 @@
 {
-  "generated_at": "2026-09-17T00:05:02.899855+00:00",
+  "generated_at": "2026-09-17T06:05:04.690585+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Clube Atlético Mineiro vs Santos",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-09-16T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.35,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.76,
-        "lambda_exterieur": 0.7,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE SANTOS",
-            "cote": 88.43,
-            "probabilite_modele": 3.2,
-            "ev_pct": 185.9
-          },
-          {
-            "marche": "PLUS DE 5.5 BUTS",
-            "cote": 4.05,
-            "probabilite_modele": 29.1,
-            "ev_pct": 17.9
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Botafogo vs Grêmio",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-16T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.9,
-        "lambda_exterieur": 0.9,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE GRÊMIO",
-            "cote": 21.94,
-            "probabilite_modele": 6.3,
-            "ev_pct": 37.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Corinthians-SP vs Estudiantes La Plata",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-09-17T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.98,
-        "lambda_exterieur": 0.62,
-        "divergence_pinnacle_public_pct": -0.8,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 1.5 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 52.9,
-            "ev_pct": 1.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Gazovik Orenburg vs FC Krasnodar",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-17T13:15:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
+        "pari": "VICTOIRE FC KRASNODAR",
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 1.76,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 1.04,
+        "lambda_exterieur": 1.7,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -113,9 +26,9 @@
       "commence_time": "2026-09-17T15:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": -0.6,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -124,14 +37,28 @@
       "match": "FC Akron Tolyatti vs FC Akhmat Grozny",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-17T15:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": []
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 1.5,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 52.3,
+            "ev_pct": 6.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "OFI Crete vs TSG Hoffenheim",
@@ -139,25 +66,19 @@
       "commence_time": "2026-09-17T16:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE TSG HOFFENHEIM",
-        "cote": 1.4,
+        "cote": 1.38,
         "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 1.12,
-        "lambda_exterieur": 2.58,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 2.64,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 49.1,
-            "ev_pct": 6.7
-          },
-          {
-            "marche": "VICTOIRE OFI CRETE",
-            "cote": 7.54,
-            "probabilite_modele": 13.6,
-            "ev_pct": 2.3
+            "cote": 2.18,
+            "probabilite_modele": 48.4,
+            "ev_pct": 5.7
           }
         ]
       },
@@ -172,15 +93,15 @@
       "commence_time": "2026-09-17T16:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.72,
-        "lambda_exterieur": 1.98,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 1.68,
+        "lambda_exterieur": 2.02,
+        "divergence_pinnacle_public_pct": -1.0,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 48.7,
-            "ev_pct": 2.7
+            "cote": 2.09,
+            "probabilite_modele": 48.8,
+            "ev_pct": 2.1
           }
         ]
       },
@@ -195,19 +116,25 @@
       "commence_time": "2026-09-17T17:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE REAL BETIS",
-        "cote": 1.68,
+        "cote": 1.66,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
+        "lambda_domicile": 1.78,
         "lambda_exterieur": 0.88,
-        "divergence_pinnacle_public_pct": -0.1,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.12,
+            "cote": 2.11,
             "probabilite_modele": 49.8,
-            "ev_pct": 5.7
+            "ev_pct": 5.3
+          },
+          {
+            "marche": "VICTOIRE GETAFE",
+            "cote": 5.75,
+            "probabilite_modele": 17.4,
+            "ev_pct": 0.3
           }
         ]
       },
@@ -220,21 +147,34 @@
       "match": "FC Dynamo Makhachkala vs CSKA Moscow",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-17T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.24,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Manchester City vs Norwich City",
+      "competition": "EFL Cup",
+      "commence_time": "2026-09-17T18:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.0 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 3.68,
+        "lambda_exterieur": 0.84,
+        "divergence_pinnacle_public_pct": 0.7,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 53.0,
-            "ev_pct": 3.1
+            "marche": "MOINS DE 4.0 BUTS",
+            "cote": 2.45,
+            "probabilite_modele": 52.9,
+            "ev_pct": 29.9
           }
         ]
       },
