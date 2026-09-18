@@ -1,73 +1,27 @@
 {
-  "generated_at": "2026-09-18T00:04:48.430425+00:00",
+  "generated_at": "2026-09-18T06:04:59.862576+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Montevideo City Torque vs Club Cienciano",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-09-18T00:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE MONTEVIDEO CITY TORQUE",
-        "cote": 1.5,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.88,
-        "lambda_exterieur": 0.76,
-        "divergence_pinnacle_public_pct": 1.8,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 50.9,
-            "ev_pct": 5.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Flamengo-RJ vs Independiente del Valle",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-09-18T00:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.12,
-        "lambda_exterieur": 0.52,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 51.1,
-            "ev_pct": 9.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
       "match": "Zhejiang vs Wuhan Three Towns",
       "competition": "Super League - China",
       "commence_time": "2026-09-18T11:35:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "VICTOIRE ZHEJIANG",
+        "cote": 1.8,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 2.02,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_domicile": 2.16,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": 0.7,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 52.2,
-            "ev_pct": 14.7
+            "cote": 2.24,
+            "probabilite_modele": 51.1,
+            "ev_pct": 14.6
           }
         ]
       },
@@ -81,20 +35,20 @@
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-09-18T15:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE FC LAHTI",
-        "cote": 1.58,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.84,
-        "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 0.84,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 49.5,
-            "ev_pct": 4.7
+            "cote": 2.01,
+            "probabilite_modele": 52.4,
+            "ev_pct": 5.5
           }
         ]
       },
@@ -109,19 +63,19 @@
       "commence_time": "2026-09-18T15:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE SJK SEINÄJOKI",
-        "cote": 1.79,
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.68,
+        "lambda_domicile": 1.64,
         "lambda_exterieur": 0.98,
-        "divergence_pinnacle_public_pct": 0.3,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 50.2,
-            "ev_pct": 6.3
+            "cote": 2.1,
+            "probabilite_modele": 51.1,
+            "ev_pct": 7.6
           }
         ]
       },
@@ -134,21 +88,17 @@
       "match": "AC Oulu vs FC Inter Turku",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-09-18T16:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": -0.6,
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 52.5,
-            "ev_pct": 4.9
+            "cote": 2.02,
+            "probabilite_modele": 51.3,
+            "ev_pct": 3.5
           }
         ]
       },
@@ -163,13 +113,13 @@
       "commence_time": "2026-09-18T16:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE HJK HELSINKI",
-        "cote": 1.78,
+        "cote": 1.75,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 2.2,
-        "divergence_pinnacle_public_pct": -0.9,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 2.24,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -180,15 +130,15 @@
       "commence_time": "2026-09-18T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.08,
-        "lambda_exterieur": 1.54,
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 1.1,
         "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 50.9,
-            "ev_pct": 3.5
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 50.0,
+            "ev_pct": 6.1
           }
         ]
       },
@@ -196,6 +146,50 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Greuther Fürth vs 1. FC Magdeburg",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-18T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.88,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 1.95,
+            "probabilite_modele": 52.8,
+            "ev_pct": 2.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FSV Mainz 05 vs Eintracht Frankfurt",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-09-18T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.75 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.66,
+        "lambda_exterieur": 2.96,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
