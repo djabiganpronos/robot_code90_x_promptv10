@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-09-19T18:04:18.086250+00:00",
+  "generated_at": "2026-09-20T00:05:43.552131+00:00",
   "erreur": null,
-  "nb_matchs": 33,
+  "nb_matchs": 17,
   "matchs": [
     {
-      "match": "Atromitos Athens vs AE Kifisia FC",
-      "competition": "Super League - Greece",
-      "commence_time": "2026-09-19T16:00:00Z",
+      "match": "River Plate vs Atlético Huracán",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-09-19T22:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.55,
+        "cote": 1.69,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.38,
-        "lambda_exterieur": 0.3,
-        "divergence_pinnacle_public_pct": 20.7,
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 0.72,
+        "divergence_pinnacle_public_pct": 33.7,
         "value_bets": [
           {
-            "marche": "VICTOIRE ATROMITOS ATHENS",
-            "cote": 252.11,
-            "probabilite_modele": 23.0,
-            "ev_pct": 5688.4
+            "marche": "VICTOIRE RIVER PLATE",
+            "cote": 354.0,
+            "probabilite_modele": 38.9,
+            "ev_pct": 13658.8
           },
           {
             "marche": "NUL",
-            "cote": 14.95,
-            "probabilite_modele": 60.1,
-            "ev_pct": 799.1
+            "cote": 13.81,
+            "probabilite_modele": 45.2,
+            "ev_pct": 524.9
           },
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 9.8,
-            "probabilite_modele": 20.6,
-            "ev_pct": 102.2
+            "cote": 14.0,
+            "probabilite_modele": 35.0,
+            "ev_pct": 390.4
           }
         ]
       },
@@ -43,69 +43,53 @@
       }
     },
     {
-      "match": "AS Roma vs Inter Milan",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-09-19T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.04,
-        "indice_fixe": 82
-      },
+      "match": "Atlas vs Pumas",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-19T23:00:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.05,
-        "lambda_exterieur": 0.07,
-        "divergence_pinnacle_public_pct": null,
+        "lambda_domicile": 1.84,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
-            "marche": "VICTOIRE INTER MILAN",
-            "cote": 16.43,
-            "probabilite_modele": 6.4,
-            "ev_pct": 5.8
-          },
-          {
-            "marche": "MOINS DE 4.5 BUTS",
-            "cote": 1.04,
-            "probabilite_modele": 100.0,
-            "ev_pct": 3.5
+            "marche": "VICTOIRE PUMAS",
+            "cote": 3.6,
+            "probabilite_modele": 29.5,
+            "ev_pct": 6.2
           }
         ]
       },
-      "pinnacle_disponible": false,
+      "pinnacle_disponible": true,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
     },
     {
-      "match": "Molde vs Aalesund",
-      "competition": "Eliteserien - Norway",
-      "commence_time": "2026-09-19T16:00:00Z",
+      "match": "Atlético San Luis vs Necaxa",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-19T23:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.54,
-        "indice_fixe": 82
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.74,
-        "lambda_exterieur": 2.34,
-        "divergence_pinnacle_public_pct": 4.3,
+        "lambda_domicile": 1.88,
+        "lambda_exterieur": 1.74,
+        "divergence_pinnacle_public_pct": -1.1,
         "value_bets": [
           {
-            "marche": "VICTOIRE MOLDE",
-            "cote": 363.03,
-            "probabilite_modele": 7.3,
-            "ev_pct": 2558.2
+            "marche": "VICTOIRE NECAXA",
+            "cote": 3.25,
+            "probabilite_modele": 31.9,
+            "ev_pct": 3.7
           },
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 9.65,
-            "probabilite_modele": 37.7,
-            "ev_pct": 264.2
-          },
-          {
-            "marche": "NUL",
-            "cote": 9.74,
-            "probabilite_modele": 20.0,
-            "ev_pct": 94.4
+            "cote": 2.02,
+            "probabilite_modele": 50.9,
+            "ev_pct": 2.9
           }
         ]
       },
@@ -115,416 +99,20 @@
       }
     },
     {
-      "match": "BSC Young Boys vs Servette",
-      "competition": "Swiss Superleague",
-      "commence_time": "2026-09-19T16:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.52,
-        "lambda_exterieur": 2.1,
-        "divergence_pinnacle_public_pct": -53.8,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE SERVETTE",
-            "cote": 281.75,
-            "probabilite_modele": 24.0,
-            "ev_pct": 6662.9
-          },
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 7.5,
-            "probabilite_modele": 51.9,
-            "ev_pct": 289.3
-          },
-          {
-            "marche": "NUL",
-            "cote": 7.5,
-            "probabilite_modele": 34.9,
-            "ev_pct": 162.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "FC Luzern vs Grasshopper Zürich",
-      "competition": "Swiss Superleague",
-      "commence_time": "2026-09-19T16:00:00Z",
+      "match": "Vasco da Gama vs Coritiba",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-09-19T23:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 1.52,
+        "lambda_domicile": 2.42,
+        "lambda_exterieur": 0.32,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
-          {
-            "marche": "VICTOIRE GRASSHOPPER ZÜRICH",
-            "cote": 34.0,
-            "probabilite_modele": 9.4,
-            "ev_pct": 219.3
-          },
-          {
-            "marche": "PLUS DE 6.5 BUTS",
-            "cote": 5.44,
-            "probabilite_modele": 40.3,
-            "ev_pct": 119.0
-          },
-          {
-            "marche": "NUL",
-            "cote": 14.0,
-            "probabilite_modele": 10.3,
-            "ev_pct": 43.7
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "OB Odense BK vs FC Midtjylland",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-09-19T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.3,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.25,
-        "lambda_exterieur": 0.13,
-        "divergence_pinnacle_public_pct": 8.9,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE OB ODENSE BK",
-            "cote": 9.37,
-            "probabilite_modele": 19.4,
-            "ev_pct": 81.8
-          },
-          {
-            "marche": "VICTOIRE FC MIDTJYLLAND",
-            "cote": 20.01,
-            "probabilite_modele": 9.1,
-            "ev_pct": 81.7
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 8.78,
-            "probabilite_modele": 13.7,
-            "ev_pct": 20.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "FC Sion vs FC Zurich",
-      "competition": "Swiss Superleague",
-      "commence_time": "2026-09-19T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.98,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": 14.7,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE FC SION",
-            "cote": 26.83,
-            "probabilite_modele": 25.2,
-            "ev_pct": 576.6
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 14.25,
-            "probabilite_modele": 40.7,
-            "ev_pct": 480.6
-          },
-          {
-            "marche": "VICTOIRE FC ZURICH",
-            "cote": 16.83,
-            "probabilite_modele": 31.1,
-            "ev_pct": 423.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Charleroi vs Cercle Brugge KSV",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-09-19T16:16:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 1.38,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CERCLE BRUGGE KSV",
-            "cote": 58.8,
-            "probabilite_modele": 8.0,
-            "ev_pct": 370.4
-          },
-          {
-            "marche": "PLUS DE 5.5 BUTS",
-            "cote": 2.7,
-            "probabilite_modele": 48.1,
-            "ev_pct": 29.7
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Aris Thessaloniki vs Iraklis FC",
-      "competition": "Super League - Greece",
-      "commence_time": "2026-09-19T16:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 0.75 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.66,
-        "lambda_exterieur": 0.17,
-        "divergence_pinnacle_public_pct": 5.9,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE ARIS THESSALONIKI",
-            "cote": 2.43,
-            "probabilite_modele": 43.2,
-            "ev_pct": 4.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "VfB Stuttgart vs Borussia Dortmund",
-      "competition": "Bundesliga - Germany",
-      "commence_time": "2026-09-19T16:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.78,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 24.7,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE VFB STUTTGART",
-            "cote": 15.13,
-            "probabilite_modele": 31.2,
-            "ev_pct": 372.7
-          },
-          {
-            "marche": "NUL",
-            "cote": 4.15,
-            "probabilite_modele": 36.4,
-            "ev_pct": 51.1
-          },
-          {
-            "marche": "MOINS DE 1.5 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 52.3,
-            "ev_pct": 12.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "CD Eldense vs SD Eibar",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-19T16:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE SD EIBAR",
-        "cote": 1.58,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.8,
-        "lambda_exterieur": 1.78,
-        "divergence_pinnacle_public_pct": 10.8,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CD ELDENSE",
-            "cote": 53.11,
-            "probabilite_modele": 14.5,
-            "ev_pct": 671.8
-          },
-          {
-            "marche": "NUL",
-            "cote": 10.68,
-            "probabilite_modele": 25.2,
-            "ev_pct": 169.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Nottingham Forest vs Coventry City",
-      "competition": "EPL",
-      "commence_time": "2026-09-19T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.34,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 2.3,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE NOTTINGHAM FOREST",
-            "cote": 11.48,
-            "probabilite_modele": 10.2,
-            "ev_pct": 17.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "CD Castellón vs Tenerife",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-19T16:32:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.3,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 50.67,
-            "probabilite_modele": 3.5,
-            "ev_pct": 79.6
-          },
-          {
-            "marche": "MOINS DE 4.5 BUTS",
-            "cote": 1.87,
-            "probabilite_modele": 56.7,
-            "ev_pct": 6.0
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Celta Vigo vs Real Racing Club de Santander",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-09-19T16:32:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 3.78,
-        "lambda_exterieur": 0.19,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Kilmarnock vs Hearts",
-      "competition": "Premiership - Scotland",
-      "commence_time": "2026-09-19T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 0.98,
-        "divergence_pinnacle_public_pct": -5.6,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE HEARTS",
-            "cote": 5.88,
-            "probabilite_modele": 22.6,
-            "ev_pct": 33.1
-          },
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.21,
-            "probabilite_modele": 53.0,
-            "ev_pct": 17.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Sparta Rotterdam vs Heerenveen",
-      "competition": "Dutch Eredivisie",
-      "commence_time": "2026-09-19T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.36,
-        "lambda_exterieur": 4.0,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 2.38,
-            "probabilite_modele": 44.9,
-            "ev_pct": 6.7
-          },
-          {
-            "marche": "NUL",
-            "cote": 26.82,
-            "probabilite_modele": 3.9,
-            "ev_pct": 4.5
+            "cote": 2.18,
+            "probabilite_modele": 48.4,
+            "ev_pct": 5.6
           }
         ]
       },
@@ -534,90 +122,20 @@
       }
     },
     {
-      "match": "Basaksehir vs Genclerbirligi SK",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-09-19T16:59:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 3.34,
-        "lambda_exterieur": 0.46,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Trabzonspor vs Galatasaray",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-09-19T17:00:00Z",
+      "match": "CF Montreal vs Columbus Crew SC",
+      "competition": "MLS",
+      "commence_time": "2026-09-19T23:40:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.7,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Alverca vs Rio Ave FC",
-      "competition": "Primeira Liga - Portugal",
-      "commence_time": "2026-09-19T17:03:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.12,
-        "lambda_exterieur": 0.46,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Grazer AK vs Austria Wien",
-      "competition": "Austrian Football Bundesliga",
-      "commence_time": "2026-09-19T17:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 0.92,
-        "divergence_pinnacle_public_pct": 1.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Gimnasia La Plata vs Banfield",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-19T17:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.8,
-        "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": -1.4,
         "value_bets": [
           {
-            "marche": "VICTOIRE BANFIELD",
-            "cote": 14.69,
-            "probabilite_modele": 7.5,
-            "ev_pct": 9.6
-          },
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.1,
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.12,
             "probabilite_modele": 50.1,
-            "ev_pct": 5.0
+            "ev_pct": 6.3
           }
         ]
       },
@@ -627,202 +145,23 @@
       }
     },
     {
-      "match": "Gimnasia Mendoza vs Deportivo Riestra",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-19T17:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.84,
-        "lambda_exterieur": 0.74,
-        "divergence_pinnacle_public_pct": -0.8,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE DEPORTIVO RIESTRA",
-            "cote": 3.64,
-            "probabilite_modele": 28.8,
-            "ev_pct": 4.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Ascoli vs Avellino",
-      "competition": "Serie B - Italy",
-      "commence_time": "2026-09-19T17:34:00Z",
+      "match": "D.C. United vs Charlotte FC",
+      "competition": "MLS",
+      "commence_time": "2026-09-19T23:40:00Z",
       "modele_a": {
-        "pari": "VICTOIRE AVELLINO",
-        "cote": 1.84,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.82,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 1.66,
-        "divergence_pinnacle_public_pct": -0.1,
+        "lambda_domicile": 1.3,
+        "lambda_exterieur": 2.44,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 49.4,
-            "ev_pct": 0.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Ajax vs Excelsior",
-      "competition": "Dutch Eredivisie",
-      "commence_time": "2026-09-19T18:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.76,
-        "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": 0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 51.5,
-            "ev_pct": 4.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Metz vs Saint Etienne",
-      "competition": "Ligue 2 - France",
-      "commence_time": "2026-09-19T18:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 1.58,
-        "divergence_pinnacle_public_pct": -1.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 51.3,
-            "ev_pct": 1.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Motor Lublin vs Górnik Zabrze",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-09-19T18:15:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 1.5,
-        "divergence_pinnacle_public_pct": -0.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Dynamo Dresden vs Hertha Berlin",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-09-19T18:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.78,
-        "lambda_exterieur": 1.88,
-        "divergence_pinnacle_public_pct": -0.7,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Anderlecht vs SV Zulte-Waregem",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-09-19T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 88
-      },
-      "modele_b": {
-        "lambda_domicile": 1.66,
-        "lambda_exterieur": 0.92,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 52.4,
-            "ev_pct": 11.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Angers vs Troyes",
-      "competition": "Ligue 1 - France",
-      "commence_time": "2026-09-19T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.58,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": -0.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Lommel SK vs KV Mechelen",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-09-19T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.38,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Venezia vs Lazio",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-09-19T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.06,
-        "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": -1.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 51.0,
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 52.1,
             "ev_pct": 7.7
           }
         ]
@@ -833,24 +172,20 @@
       }
     },
     {
-      "match": "Toulouse vs Le Havre",
-      "competition": "Ligue 1 - France",
-      "commence_time": "2026-09-19T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
+      "match": "San Jose Earthquakes vs Los Angeles FC",
+      "competition": "MLS",
+      "commence_time": "2026-09-19T23:40:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.84,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": 1.3,
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.5,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 47.3,
-            "ev_pct": 2.8
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 50.7,
+            "ev_pct": 3.3
           }
         ]
       },
@@ -860,17 +195,242 @@
       }
     },
     {
-      "match": "Le Mans FC vs Lorient",
-      "competition": "Ligue 1 - France",
-      "commence_time": "2026-09-19T18:45:00Z",
-      "modele_a": null,
+      "match": "New England Revolution vs Orlando City SC",
+      "competition": "MLS",
+      "commence_time": "2026-09-19T23:40:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE NEW ENGLAND REVOLUTION",
+        "cote": 1.36,
+        "indice_fixe": 84
+      },
       "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": -0.6,
+        "lambda_domicile": 2.56,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "Sao Paulo vs Internacional",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-09-20T00:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 1.02,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 47.7,
+            "ev_pct": 1.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Instituto de Córdoba vs Talleres",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-09-20T00:15:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.0 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 53.7,
+            "ev_pct": 9.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Dallas vs Austin FC",
+      "competition": "MLS",
+      "commence_time": "2026-09-20T00:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FC DALLAS",
+        "cote": 1.68,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.34,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.01,
+            "probabilite_modele": 51.3,
+            "ev_pct": 3.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Houston Dynamo vs FC Cincinnati",
+      "competition": "MLS",
+      "commence_time": "2026-09-20T00:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.08,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 50.1,
+            "ev_pct": 1.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Minnesota United FC vs LA Galaxy",
+      "competition": "MLS",
+      "commence_time": "2026-09-20T00:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE MINNESOTA UNITED FC",
+        "cote": 1.72,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.28,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Sporting Kansas City vs Philadelphia Union",
+      "competition": "MLS",
+      "commence_time": "2026-09-20T00:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE PHILADELPHIA UNION",
+        "cote": 1.55,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.28,
+        "lambda_exterieur": 2.42,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 49.4,
+            "ev_pct": 5.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "St. Louis City SC vs Toronto FC",
+      "competition": "MLS",
+      "commence_time": "2026-09-20T00:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ST. LOUIS CITY SC",
+        "cote": 1.73,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.22,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 51.5,
+            "ev_pct": 2.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Monterrey vs Cruz Azul",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-20T01:10:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.48,
+        "lambda_exterieur": 1.24,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 49.0,
+            "ev_pct": 3.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Nashville SC vs Chicago Fire",
+      "competition": "MLS",
+      "commence_time": "2026-09-20T01:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE NASHVILLE SC",
+        "cote": 1.79,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.16,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 1.92,
+            "probabilite_modele": 52.1,
+            "ev_pct": 0.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
