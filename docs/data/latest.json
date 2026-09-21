@@ -1,74 +1,33 @@
 {
-  "generated_at": "2026-09-20T19:59:29.328933+00:00",
+  "generated_at": "2026-09-21T02:24:24.696182+00:00",
   "erreur": null,
-  "nb_matchs": 18,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Panetolikos Agrinio vs PAOK Thessaloniki",
-      "competition": "Super League - Greece",
-      "commence_time": "2026-09-20T18:00:00Z",
+      "match": "Velez Sarsfield BA vs CA Tigre BA",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-09-21T00:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.25,
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.51,
         "indice_fixe": 82
       },
-      "modele_b": {
-        "lambda_domicile": 0.05,
-        "lambda_exterieur": 2.56,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 8.86,
-            "probabilite_modele": 25.1,
-            "ev_pct": 122.4
-          },
-          {
-            "marche": "NUL",
-            "cote": 20.72,
-            "probabilite_modele": 8.3,
-            "ev_pct": 72.5
-          },
-          {
-            "marche": "VICTOIRE PANETOLIKOS AGRINIO",
-            "cote": 345.33,
-            "probabilite_modele": 0.4,
-            "ev_pct": 38.6
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Lech Poznań vs Radomiak Radom",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-09-20T18:15:00Z",
-      "modele_a": null,
       "modele_b": {
         "lambda_domicile": 4.0,
-        "lambda_exterieur": 1.34,
+        "lambda_exterieur": 0.72,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "VICTOIRE RADOMIAK RADOM",
-            "cote": 67.33,
-            "probabilite_modele": 7.6,
-            "ev_pct": 413.1
+            "marche": "VICTOIRE CA TIGRE BA",
+            "cote": 183.46,
+            "probabilite_modele": 2.8,
+            "ev_pct": 415.9
           },
           {
-            "marche": "NUL",
-            "cote": 47.33,
-            "probabilite_modele": 9.4,
-            "ev_pct": 345.2
-          },
-          {
-            "marche": "PLUS DE 6.5 BUTS",
-            "cote": 2.8,
-            "probabilite_modele": 39.5,
-            "ev_pct": 10.6
+            "marche": "PLUS DE 5.5 BUTS",
+            "cote": 12.1,
+            "probabilite_modele": 34.9,
+            "ev_pct": 322.8
           }
         ]
       },
@@ -78,285 +37,58 @@
       }
     },
     {
-      "match": "AC Milan vs Lecce",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-09-20T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.44,
-        "lambda_exterieur": 0.17,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.24,
-            "probabilite_modele": 48.4,
-            "ev_pct": 8.4
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Marseille vs Paris Saint Germain",
-      "competition": "Ligue 1 - France",
-      "commence_time": "2026-09-20T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.46,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Goiás vs Avai",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-20T19:00:00Z",
+      "match": "Querétaro vs León",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-21T02:11:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.98,
-        "lambda_exterieur": 1.5,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.21,
-            "probabilite_modele": 46.6,
-            "ev_pct": 2.9
-          },
-          {
-            "marche": "VICTOIRE GOIÁS",
-            "cote": 4.54,
-            "probabilite_modele": 22.5,
-            "ev_pct": 2.2
-          }
-        ]
+        "lambda_domicile": 1.3,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": false
     },
     {
-      "match": "Corinthians vs Fluminense",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-20T19:00:00Z",
+      "match": "Werder Bremen vs VfB Stuttgart",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-09-21T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.74,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.74,
-        "lambda_exterieur": 1.64,
-        "divergence_pinnacle_public_pct": -1.6,
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": false
     },
     {
-      "match": "Vitoria vs Cruzeiro",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-20T19:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE VITORIA",
-        "cote": 1.55,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.84,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Leganés vs Granada CF",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-20T19:01:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.06,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": -1.2,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE GRANADA CF",
-            "cote": 11.0,
-            "probabilite_modele": 11.2,
-            "ev_pct": 22.9
-          },
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 46.7,
-            "ev_pct": 2.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Valencia vs Real Sociedad",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-09-20T19:02:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE REAL SOCIEDAD",
-        "cote": 1.39,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 0.62,
-        "lambda_exterieur": 1.94,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "FC Porto vs Benfica",
-      "competition": "Primeira Liga - Portugal",
-      "commence_time": "2026-09-20T19:31:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": -0.9,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 53.3,
-            "ev_pct": 7.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Rosario Central vs Argentinos Juniors",
+      "match": "Aldosivi Mar del Plata vs Atlético Tucuman",
       "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-20T20:00:00Z",
+      "commence_time": "2026-09-21T17:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.66,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": 1.8,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 52.2,
-            "ev_pct": 5.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Platense vs Newells Old Boys",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-20T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 51.5,
-            "ev_pct": 3.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Flamengo vs Bragantino-SP",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-20T21:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.68,
-        "lambda_exterieur": 1.0,
-        "divergence_pinnacle_public_pct": 1.5,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.0 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 50.4,
-            "ev_pct": 2.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Londrina vs Fortaleza",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-20T21:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "MOINS DE 2.0 BUTS",
         "cote": 1.79,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.23,
-            "probabilite_modele": 45.0,
-            "ev_pct": 0.5
+            "marche": "MOINS DE 2.0 BUTS",
+            "cote": 1.9,
+            "probabilite_modele": 55.0,
+            "ev_pct": 4.5
           }
         ]
       },
@@ -366,70 +98,20 @@
       }
     },
     {
-      "match": "Belgrano de Cordoba vs Estudiantes de Río Cuarto",
+      "match": "Barracas Central vs Independiente Rivadavia",
       "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-20T22:15:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE BELGRANO DE CORDOBA",
-        "cote": 1.46,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 0.72,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.26,
-            "probabilite_modele": 50.1,
-            "ev_pct": 13.5
-          },
-          {
-            "marche": "VICTOIRE ESTUDIANTES DE RÍO CUARTO",
-            "cote": 8.8,
-            "probabilite_modele": 11.7,
-            "ev_pct": 2.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Atletico Paranaense vs Bahia",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-20T22:30:00Z",
+      "commence_time": "2026-09-21T22:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -0.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Inter Miami CF vs San Diego FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-20T23:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE INTER MIAMI CF",
-        "cote": 1.42,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 3.06,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": 1.0,
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": -0.3,
         "value_bets": [
           {
-            "marche": "MOINS DE 4.5 BUTS",
-            "cote": 2.3,
-            "probabilite_modele": 51.2,
-            "ev_pct": 18.1
+            "marche": "MOINS DE 2.0 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 52.0,
+            "ev_pct": 2.5
           }
         ]
       },
@@ -439,21 +121,109 @@
       }
     },
     {
-      "match": "Pachuca vs Tijuana",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-21T00:00:00Z",
+      "match": "Criciuma vs Operario PR",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-21T22:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE PACHUCA",
+        "pari": "VICTOIRE CRICIUMA",
         "cote": 1.73,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 1.4,
+        "lambda_domicile": 1.68,
+        "lambda_exterieur": 0.88,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "Lanus vs Estudiantes",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-09-22T00:15:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.0 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 54.3,
+            "ev_pct": 7.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Cuiabá vs Nautico PE",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-22T00:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Inter Milan vs BK Hacken",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-22T16:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.34,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 51.8,
+            "ev_pct": 4.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Bayern Munich vs Manchester City",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-22T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.45,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 1.5,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
     }
   ]
 }
