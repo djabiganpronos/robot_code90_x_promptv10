@@ -1,70 +1,20 @@
 {
-  "generated_at": "2026-09-21T02:24:24.696182+00:00",
+  "generated_at": "2026-09-21T11:27:52.816851+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Velez Sarsfield BA vs CA Tigre BA",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-21T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.51,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.72,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CA TIGRE BA",
-            "cote": 183.46,
-            "probabilite_modele": 2.8,
-            "ev_pct": 415.9
-          },
-          {
-            "marche": "PLUS DE 5.5 BUTS",
-            "cote": 12.1,
-            "probabilite_modele": 34.9,
-            "ev_pct": 322.8
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Querétaro vs León",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-21T02:11:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.3,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
     {
       "match": "Werder Bremen vs VfB Stuttgart",
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-09-21T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.64,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 1.04,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 0.96,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -76,19 +26,19 @@
       "commence_time": "2026-09-21T17:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.79,
+        "cote": 1.83,
         "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": -0.8,
         "value_bets": [
           {
             "marche": "MOINS DE 2.0 BUTS",
-            "cote": 1.9,
-            "probabilite_modele": 55.0,
-            "ev_pct": 4.5
+            "cote": 2.0,
+            "probabilite_modele": 54.0,
+            "ev_pct": 7.8
           }
         ]
       },
@@ -101,17 +51,21 @@
       "match": "Barracas Central vs Independiente Rivadavia",
       "competition": "Primera División - Argentina",
       "commence_time": "2026-09-21T22:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.16,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.5,
+        "divergence_pinnacle_public_pct": -0.8,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.0 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 52.0,
-            "ev_pct": 2.5
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 1.96,
+            "probabilite_modele": 53.2,
+            "ev_pct": 4.4
           }
         ]
       },
@@ -125,37 +79,47 @@
       "competition": "Brazil Série B",
       "commence_time": "2026-09-21T22:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE CRICIUMA",
-        "cote": 1.73,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.68,
-        "lambda_exterieur": 0.88,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": []
+        "lambda_domicile": 1.58,
+        "lambda_exterieur": 0.94,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.17,
+            "probabilite_modele": 46.6,
+            "ev_pct": 1.0
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Lanus vs Estudiantes",
       "competition": "Primera División - Argentina",
       "commence_time": "2026-09-22T00:15:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.0 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 54.3,
-            "ev_pct": 7.0
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 52.3,
+            "ev_pct": 3.9
           }
         ]
       },
@@ -170,36 +134,19 @@
       "commence_time": "2026-09-22T00:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Inter Milan vs BK Hacken",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-22T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.83,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 51.8,
-            "ev_pct": 4.6
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 47.0,
+            "ev_pct": 0.1
           }
         ]
       },
@@ -209,21 +156,44 @@
       }
     },
     {
-      "match": "Bayern Munich vs Manchester City",
+      "match": "Inter Milan vs BK Hacken",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-22T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.45,
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.78,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 1.5,
-        "divergence_pinnacle_public_pct": null,
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": -1.2,
         "value_bets": []
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Bayern Munich vs Manchester City",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-22T16:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.04,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": 0.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 2.37,
+            "probabilite_modele": 50.8,
+            "ev_pct": 20.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
