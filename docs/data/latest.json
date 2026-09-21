@@ -1,93 +1,27 @@
 {
-  "generated_at": "2026-09-21T17:26:47.687078+00:00",
+  "generated_at": "2026-09-21T21:25:07.879325+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Werder Bremen vs VfB Stuttgart",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-09-21T16:01:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.25 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": 2.9,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.25 BUTS",
-            "cote": 2.44,
-            "probabilite_modele": 55.9,
-            "ev_pct": 36.0
-          },
-          {
-            "marche": "VICTOIRE VFB STUTTGART",
-            "cote": 4.51,
-            "probabilite_modele": 26.7,
-            "ev_pct": 20.7
-          },
-          {
-            "marche": "VICTOIRE WERDER BREMEN",
-            "cote": 2.5,
-            "probabilite_modele": 42.1,
-            "ev_pct": 5.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Aldosivi Mar del Plata vs Atlético Tucuman",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-21T17:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.0 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 53.5,
-            "ev_pct": 8.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Barracas Central vs Independiente Rivadavia",
       "competition": "Primera División - Argentina",
       "commence_time": "2026-09-21T22:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.83,
+        "cote": 1.82,
         "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 1.1,
         "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": -0.8,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 2.0 BUTS",
             "cote": 2.0,
-            "probabilite_modele": 54.2,
-            "ev_pct": 8.4
+            "probabilite_modele": 54.4,
+            "ev_pct": 8.9
           }
         ]
       },
@@ -102,16 +36,26 @@
       "commence_time": "2026-09-21T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.81,
+        "cote": 1.8,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.52,
+        "lambda_domicile": 1.5,
         "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": []
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.27,
+            "probabilite_modele": 45.4,
+            "ev_pct": 2.8
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Lanus vs Estudiantes",
@@ -119,19 +63,19 @@
       "commence_time": "2026-09-22T00:15:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.85,
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.52,
+        "lambda_domicile": 1.54,
         "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": 0.0,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
             "marche": "PLUS DE 2.0 BUTS",
             "cote": 2.0,
-            "probabilite_modele": 51.4,
-            "ev_pct": 2.6
+            "probabilite_modele": 51.9,
+            "ev_pct": 3.6
           }
         ]
       },
@@ -151,8 +95,8 @@
       },
       "modele_b": {
         "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 0.7,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -169,7 +113,7 @@
       "modele_b": {
         "lambda_domicile": 1.48,
         "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": 0.1,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -178,17 +122,21 @@
       "match": "Bayern Munich vs Manchester City",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-22T16:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 2.0,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 2.04,
+        "lambda_exterieur": 1.72,
+        "divergence_pinnacle_public_pct": -1.4,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 50.8,
-            "ev_pct": 6.6
+            "cote": 2.11,
+            "probabilite_modele": 47.8,
+            "ev_pct": 0.9
           }
         ]
       },
@@ -203,12 +151,39 @@
       "commence_time": "2026-09-22T19:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 3.16,
+        "lambda_domicile": 3.2,
         "lambda_exterieur": 0.48,
-        "divergence_pinnacle_public_pct": 1.9,
+        "divergence_pinnacle_public_pct": 1.8,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "Juventus vs Benfica",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-22T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.28,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE BENFICA",
+            "cote": 4.48,
+            "probabilite_modele": 23.0,
+            "ev_pct": 2.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
