@@ -1,24 +1,46 @@
 {
-  "generated_at": "2026-09-21T11:27:52.816851+00:00",
+  "generated_at": "2026-09-21T17:26:47.687078+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
     {
       "match": "Werder Bremen vs VfB Stuttgart",
       "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-09-21T16:00:00Z",
+      "commence_time": "2026-09-21T16:01:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.64,
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.76,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
+        "lambda_domicile": 1.82,
+        "lambda_exterieur": 1.48,
+        "divergence_pinnacle_public_pct": 2.9,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 2.44,
+            "probabilite_modele": 55.9,
+            "ev_pct": 36.0
+          },
+          {
+            "marche": "VICTOIRE VFB STUTTGART",
+            "cote": 4.51,
+            "probabilite_modele": 26.7,
+            "ev_pct": 20.7
+          },
+          {
+            "marche": "VICTOIRE WERDER BREMEN",
+            "cote": 2.5,
+            "probabilite_modele": 42.1,
+            "ev_pct": 5.2
+          }
+        ]
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Aldosivi Mar del Plata vs Atlético Tucuman",
@@ -26,19 +48,19 @@
       "commence_time": "2026-09-21T17:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.83,
+        "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.0 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 54.0,
-            "ev_pct": 7.8
+            "cote": 2.02,
+            "probabilite_modele": 53.5,
+            "ev_pct": 8.2
           }
         ]
       },
@@ -52,20 +74,20 @@
       "competition": "Primera División - Argentina",
       "commence_time": "2026-09-21T22:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.5,
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.36,
         "divergence_pinnacle_public_pct": -0.8,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 1.96,
-            "probabilite_modele": 53.2,
-            "ev_pct": 4.4
+            "marche": "MOINS DE 2.0 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 54.2,
+            "ev_pct": 8.4
           }
         ]
       },
@@ -80,26 +102,16 @@
       "commence_time": "2026-09-21T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.58,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 46.6,
-            "ev_pct": 1.0
-          }
-        ]
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Lanus vs Estudiantes",
@@ -107,19 +119,19 @@
       "commence_time": "2026-09-22T00:15:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.81,
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.56,
+        "lambda_domicile": 1.52,
         "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": 0.3,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": [
           {
             "marche": "PLUS DE 2.0 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 52.3,
-            "ev_pct": 3.9
+            "cote": 2.0,
+            "probabilite_modele": 51.4,
+            "ev_pct": 2.6
           }
         ]
       },
@@ -134,40 +146,30 @@
       "commence_time": "2026-09-22T00:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 47.0,
-            "ev_pct": 0.1
-          }
-        ]
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Inter Milan vs BK Hacken",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-22T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.78,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": -1.2,
+        "lambda_domicile": 1.48,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -178,15 +180,15 @@
       "commence_time": "2026-09-22T16:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.04,
-        "lambda_exterieur": 1.58,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_domicile": 2.0,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": -0.8,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.25 BUTS",
-            "cote": 2.37,
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.1,
             "probabilite_modele": 50.8,
-            "ev_pct": 20.4
+            "ev_pct": 6.6
           }
         ]
       },
@@ -194,6 +196,19 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Arsenal vs HB Køge",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-22T19:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 3.16,
+        "lambda_exterieur": 0.48,
+        "divergence_pinnacle_public_pct": 1.9,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
