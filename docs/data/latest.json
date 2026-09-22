@@ -1,105 +1,40 @@
 {
-  "generated_at": "2026-09-21T21:25:07.879325+00:00",
+  "generated_at": "2026-09-22T02:27:34.585877+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Barracas Central vs Independiente Rivadavia",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-21T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.0 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 54.4,
-            "ev_pct": 8.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Criciuma vs Operario PR",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-21T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.27,
-            "probabilite_modele": 45.4,
-            "ev_pct": 2.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Lanus vs Estudiantes",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-22T00:15:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 51.9,
-            "ev_pct": 3.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Cuiabá vs Nautico PE",
       "competition": "Brazil Série B",
-      "commence_time": "2026-09-22T00:30:00Z",
+      "commence_time": "2026-09-22T00:29:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.81,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.34,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": 0.8,
-        "value_bets": []
+        "lambda_domicile": 2.72,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 8.8,
+            "probabilite_modele": 29.4,
+            "ev_pct": 158.9
+          },
+          {
+            "marche": "NUL",
+            "cote": 26.0,
+            "probabilite_modele": 7.1,
+            "ev_pct": 85.8
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Inter Milan vs BK Hacken",
@@ -107,13 +42,13 @@
       "commence_time": "2026-09-22T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.48,
+        "lambda_domicile": 1.5,
         "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": -0.1,
+        "divergence_pinnacle_public_pct": -0.6,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -130,13 +65,13 @@
       "modele_b": {
         "lambda_domicile": 2.04,
         "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": -1.4,
+        "divergence_pinnacle_public_pct": -1.5,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
             "cote": 2.11,
             "probabilite_modele": 47.8,
-            "ev_pct": 0.9
+            "ev_pct": 0.8
           }
         ]
       },
@@ -146,14 +81,86 @@
       }
     },
     {
+      "match": "Worksop Town FC vs AFC Telford United",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-22T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Dagenham and Redbridge FC vs Waltham Abbey FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-22T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.92,
+        "lambda_exterieur": 1.02,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Gainsborough Trinity FC vs Leamington FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-22T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Truro City FC vs Merthyr Town FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-22T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
       "match": "Arsenal vs HB Køge",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-22T19:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
       "modele_b": {
         "lambda_domicile": 3.2,
-        "lambda_exterieur": 0.48,
-        "divergence_pinnacle_public_pct": 1.8,
+        "lambda_exterieur": 0.52,
+        "divergence_pinnacle_public_pct": 2.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -170,13 +177,13 @@
       "modele_b": {
         "lambda_domicile": 2.28,
         "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -0.3,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
             "marche": "VICTOIRE BENFICA",
-            "cote": 4.48,
+            "cote": 4.46,
             "probabilite_modele": 23.0,
-            "ev_pct": 2.8
+            "ev_pct": 2.3
           }
         ]
       },
