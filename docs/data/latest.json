@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:35:58.045296+00:00",
+  "generated_at": "2026-09-22T15:57:19.369898+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,28 +7,14 @@
       "match": "Inter Milan vs BK Hacken",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-22T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 51.5,
-            "ev_pct": 2.9
-          }
-        ]
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 1.3,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Bayern Munich vs Manchester City",
@@ -40,15 +26,15 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 1.66,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 2.0,
+        "lambda_exterieur": 1.56,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 51.4,
-            "ev_pct": 12.6
+            "cote": 2.43,
+            "probabilite_modele": 52.2,
+            "ev_pct": 26.8
           }
         ]
       },
@@ -67,8 +53,25 @@
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 1.16,
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Chippenham Town FC vs Yate Town FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-22T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.58,
+        "lambda_exterieur": 1.38,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -79,27 +82,34 @@
       "competition": "FA Cup",
       "commence_time": "2026-09-22T18:45:00Z",
       "modele_a": {
-        "pari": "VICTOIRE DAGENHAM AND REDBRIDGE FC",
-        "cote": 1.37,
-        "indice_fixe": 84
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 0.72,
+        "lambda_domicile": 1.88,
+        "lambda_exterieur": 0.78,
         "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 4.85,
-            "probabilite_modele": 20.8,
-            "ev_pct": 0.7
-          }
-        ]
+        "value_bets": []
       },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Farnborough FC vs Uxbridge FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-22T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FARNBOROUGH FC",
+        "cote": 1.6,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 0.94,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
     },
     {
       "match": "Gainsborough Trinity FC vs Leamington FC",
@@ -111,89 +121,29 @@
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.64,
-        "lambda_exterieur": 1.2,
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 1.18,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
       "pinnacle_disponible": false
     },
     {
-      "match": "Truro City FC vs Merthyr Town FC",
+      "match": "Wingate and Finchley FC vs Hemel Hempstead Town FC",
       "competition": "FA Cup",
       "commence_time": "2026-09-22T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.69,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.88,
-        "lambda_exterieur": 1.1,
+        "lambda_domicile": 1.0,
+        "lambda_exterieur": 1.88,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
       "pinnacle_disponible": false
-    },
-    {
-      "match": "Arsenal vs HB Køge",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-22T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.22,
-        "lambda_exterieur": 0.4,
-        "divergence_pinnacle_public_pct": 1.4,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 51.1,
-            "ev_pct": 0.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Juventus vs Benfica",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-22T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.32,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 48.1,
-            "ev_pct": 3.1
-          },
-          {
-            "marche": "VICTOIRE BENFICA",
-            "cote": 4.48,
-            "probabilite_modele": 22.5,
-            "ev_pct": 0.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
     }
   ]
 }
