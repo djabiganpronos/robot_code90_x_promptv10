@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:28:47.466093+00:00",
+  "generated_at": "2026-09-23T15:47:26.671086+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -8,49 +8,55 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 2.32,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": []
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 2.26,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 53.0,
+            "ev_pct": 9.0
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Servette FC vs Lyon",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.0 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.08,
+        "lambda_domicile": 1.14,
         "lambda_exterieur": 4.0,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
             "marche": "MOINS DE 5.0 BUTS",
-            "cote": 4.53,
-            "probabilite_modele": 56.0,
-            "ev_pct": 153.7
+            "cote": 4.54,
+            "probabilite_modele": 54.6,
+            "ev_pct": 147.8
           },
           {
             "marche": "VICTOIRE SERVETTE FC",
-            "cote": 37.4,
-            "probabilite_modele": 5.3,
-            "ev_pct": 100.1
+            "cote": 37.42,
+            "probabilite_modele": 5.8,
+            "ev_pct": 118.6
           },
           {
             "marche": "NUL",
-            "cote": 17.8,
-            "probabilite_modele": 8.1,
-            "ev_pct": 43.4
+            "cote": 18.02,
+            "probabilite_modele": 8.4,
+            "ev_pct": 50.9
           }
         ]
       },
@@ -64,59 +70,49 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.66,
+        "lambda_exterieur": 0.54,
         "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 17.7,
-            "probabilite_modele": 5.7,
-            "ev_pct": 0.3
-          }
-        ]
+        "value_bets": []
       },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": false
     },
     {
       "match": "Barcelona vs Paris FC",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 5.0 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
+        "pari": "MOINS DE 5.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 4.0,
-        "lambda_exterieur": 1.16,
+        "lambda_exterieur": 1.14,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
             "marche": "VICTOIRE PARIS FC",
-            "cote": 57.56,
-            "probabilite_modele": 6.0,
-            "ev_pct": 246.0
-          },
-          {
-            "marche": "MOINS DE 5.0 BUTS",
-            "cote": 3.66,
-            "probabilite_modele": 53.6,
-            "ev_pct": 96.1
+            "cote": 34.33,
+            "probabilite_modele": 5.8,
+            "ev_pct": 100.6
           },
           {
             "marche": "NUL",
-            "cote": 16.48,
-            "probabilite_modele": 8.5,
-            "ev_pct": 39.8
+            "cote": 17.03,
+            "probabilite_modele": 8.4,
+            "ev_pct": 42.7
+          },
+          {
+            "marche": "MOINS DE 5.0 BUTS",
+            "cote": 2.56,
+            "probabilite_modele": 54.8,
+            "ev_pct": 40.1
           }
         ]
       },
@@ -131,19 +127,19 @@
       "commence_time": "2026-09-24T01:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE SEATTLE SOUNDERS FC",
-        "cote": 1.83,
+        "cote": 1.82,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.2,
+        "lambda_domicile": 2.22,
         "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": 1.0,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
             "cote": 2.07,
-            "probabilite_modele": 49.2,
-            "ev_pct": 1.7
+            "probabilite_modele": 49.0,
+            "ev_pct": 1.4
           }
         ]
       },
@@ -168,9 +164,9 @@
         "value_bets": [
           {
             "marche": "VICTOIRE ANDORRA",
-            "cote": 3.57,
+            "cote": 3.56,
             "probabilite_modele": 29.5,
-            "ev_pct": 5.5
+            "ev_pct": 5.3
           },
           {
             "marche": "MOINS DE 2.5 BUTS",
@@ -191,11 +187,11 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.79,
+        "cote": 1.78,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.06,
+        "lambda_domicile": 2.08,
         "lambda_exterieur": 0.8,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
@@ -208,19 +204,19 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE NORWAY",
-        "cote": 1.75,
+        "cote": 1.78,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
+        "lambda_domicile": 1.72,
         "lambda_exterieur": 1.0,
-        "divergence_pinnacle_public_pct": 1.0,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 48.0,
-            "ev_pct": 1.8
+            "cote": 2.15,
+            "probabilite_modele": 48.7,
+            "ev_pct": 4.9
           }
         ]
       },
