@@ -1,277 +1,33 @@
 {
-  "generated_at": "2026-09-22T20:39:48.952478+00:00",
+  "generated_at": "2026-09-23T02:27:56.315420+00:00",
   "erreur": null,
-  "nb_matchs": 16,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Worksop Town FC vs AFC Telford United",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:44:00Z",
-      "modele_a": null,
-      "modele_b": null,
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Dagenham and Redbridge FC vs Waltham Abbey FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.11,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 11.67,
-            "probabilite_modele": 24.2,
-            "ev_pct": 182.2
-          },
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 4.32,
-            "probabilite_modele": 43.9,
-            "ev_pct": 89.8
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Chippenham Town FC vs Yate Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:46:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.04,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.11,
-        "lambda_exterieur": 0.09,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.04,
-            "probabilite_modele": 99.9,
-            "ev_pct": 3.9
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Truro City FC vs Merthyr Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:46:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.04,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.72,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 11.5,
-            "probabilite_modele": 18.5,
-            "ev_pct": 113.1
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 6.7,
-            "probabilite_modele": 26.1,
-            "ev_pct": 75.1
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Wingate and Finchley FC vs Hemel Hempstead Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:47:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.04,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.8,
-        "lambda_exterieur": 0.19,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE HEMEL HEMPSTEAD TOWN FC",
-            "cote": 32.0,
-            "probabilite_modele": 3.4,
-            "ev_pct": 7.6
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Arsenal vs HB Køge",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-22T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 0.5 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.8,
-        "lambda_exterieur": 0.07,
-        "divergence_pinnacle_public_pct": 5.6,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE ARSENAL",
-            "cote": 1.94,
-            "probabilite_modele": 53.0,
-            "ev_pct": 2.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Juventus vs Benfica",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-22T19:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.09,
-        "lambda_exterieur": 2.64,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 51.3,
-            "ev_pct": 7.8
-          },
-          {
-            "marche": "NUL",
-            "cote": 12.46,
-            "probabilite_modele": 8.2,
-            "ev_pct": 1.7
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Real Madrid vs Paris Saint Germain",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-22T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.0,
-        "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": 1.9,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE PARIS SAINT GERMAIN",
-            "cote": 6.31,
-            "probabilite_modele": 22.9,
-            "ev_pct": 44.7
-          },
-          {
-            "marche": "VICTOIRE REAL MADRID",
-            "cote": 3.85,
-            "probabilite_modele": 31.5,
-            "ev_pct": 21.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Criciuma vs Operario PR",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-22T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.23,
-            "probabilite_modele": 53.0,
-            "ev_pct": 18.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Leuven vs AS Roma",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T16:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 2.2,
-        "divergence_pinnacle_public_pct": 1.9,
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 2.26,
+        "divergence_pinnacle_public_pct": 1.6,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 52.3,
-            "ev_pct": 7.1
+            "marche": "VICTOIRE LEUVEN",
+            "cote": 4.32,
+            "probabilite_modele": 23.4,
+            "ev_pct": 0.9
           },
           {
-            "marche": "VICTOIRE LEUVEN",
-            "cote": 4.44,
-            "probabilite_modele": 22.8,
-            "ev_pct": 1.4
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 49.2,
+            "ev_pct": 0.5
           }
         ]
       },
@@ -290,15 +46,15 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.52,
+        "lambda_domicile": 0.54,
         "lambda_exterieur": 4.0,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
             "marche": "MOINS DE 4.75 BUTS",
             "cote": 4.55,
-            "probabilite_modele": 52.6,
-            "ev_pct": 139.7
+            "probabilite_modele": 52.4,
+            "ev_pct": 138.8
           }
         ]
       },
@@ -312,13 +68,13 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.68,
+        "lambda_exterieur": 0.6,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -340,15 +96,15 @@
         "value_bets": [
           {
             "marche": "VICTOIRE PARIS FC",
-            "cote": 61.67,
+            "cote": 64.11,
             "probabilite_modele": 2.5,
-            "ev_pct": 51.8
+            "ev_pct": 57.8
           },
           {
             "marche": "MOINS DE 4.5 BUTS",
-            "cote": 2.91,
+            "cote": 2.88,
             "probabilite_modele": 49.4,
-            "ev_pct": 44.0
+            "ev_pct": 42.3
           }
         ]
       },
@@ -370,7 +126,7 @@
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.2,
-            "probabilite_modele": 50.8,
+            "probabilite_modele": 50.7,
             "ev_pct": 11.6
           }
         ]
@@ -386,25 +142,25 @@
       "commence_time": "2026-09-24T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.69,
+        "cote": 1.68,
         "indice_fixe": 88
       },
       "modele_b": {
-        "lambda_domicile": 1.0,
-        "lambda_exterieur": 1.24,
+        "lambda_domicile": 0.98,
+        "lambda_exterieur": 1.22,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
             "marche": "VICTOIRE ANDORRA",
-            "cote": 3.54,
-            "probabilite_modele": 29.7,
-            "ev_pct": 5.2
+            "cote": 3.55,
+            "probabilite_modele": 29.5,
+            "ev_pct": 4.9
           },
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.69,
-            "probabilite_modele": 61.2,
-            "ev_pct": 3.2
+            "cote": 1.68,
+            "probabilite_modele": 62.3,
+            "ev_pct": 4.5
           }
         ]
       },
@@ -429,6 +185,33 @@
         "value_bets": []
       },
       "pinnacle_disponible": false
+    },
+    {
+      "match": "Norway vs Denmark",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-24T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE NORWAY",
+        "cote": 1.76,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.7,
+        "lambda_exterieur": 0.98,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.75 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 49.9,
+            "ev_pct": 4.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
