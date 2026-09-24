@@ -1,214 +1,179 @@
 {
-  "generated_at": "2026-09-24T16:09:03.537231+00:00",
+  "generated_at": "2026-09-24T20:56:42.233898+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Andorra vs Malta",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-24T16:01:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.98,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE ANDORRA",
-            "cote": 4.04,
-            "probabilite_modele": 27.0,
-            "ev_pct": 9.2
-          },
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.74,
-            "probabilite_modele": 58.5,
-            "ev_pct": 2.0
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Austria vs Israel",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-24T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.98,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Norway vs Denmark",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-24T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.48,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": 1.4,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.28,
-            "probabilite_modele": 47.5,
-            "ev_pct": 8.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Netherlands vs Germany",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-24T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 1.9,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.25 BUTS",
-            "cote": 2.38,
-            "probabilite_modele": 48.5,
-            "ev_pct": 15.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Serbia vs Greece",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-24T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.25 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": -0.7,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 46.1,
-            "ev_pct": 2.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Kosovo vs Republic of Ireland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-24T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Liechtenstein vs Lithuania",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-24T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.54,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.38,
-        "lambda_exterieur": 1.9,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Portugal vs Wales",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-24T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.98,
-        "lambda_exterieur": 0.72,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.67,
-            "probabilite_modele": 49.3,
-            "ev_pct": 31.6
-          },
-          {
-            "marche": "VICTOIRE WALES",
-            "cote": 17.59,
-            "probabilite_modele": 5.7,
-            "ev_pct": 0.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Armenia vs Latvia",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-25T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.82,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.68,
+        "lambda_domicile": 1.66,
         "lambda_exterieur": 0.94,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
       "pinnacle_disponible": false
+    },
+    {
+      "match": "Georgia vs Northern Ireland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-25T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 0.9,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "TSV Havelse vs SC Fortuna Köln",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-09-25T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 51.0,
+            "ev_pct": 5.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Girona FC vs Albacete",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-25T18:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.78,
+        "lambda_exterieur": 0.78,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.17,
+            "probabilite_modele": 53.1,
+            "ev_pct": 15.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Italy vs Belgium",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-25T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.75 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.75 BUTS",
+            "cote": 1.96,
+            "probabilite_modele": 52.8,
+            "ev_pct": 3.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Poland vs Bosnia & Herzegovina",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-25T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE POLAND",
+        "cote": 1.66,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Montenegro vs Cyprus",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-25T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 0.9,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Turkey vs France",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-25T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FRANCE",
+        "cote": 1.42,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.12,
+        "lambda_exterieur": 2.58,
+        "divergence_pinnacle_public_pct": -1.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 2.29,
+            "probabilite_modele": 49.1,
+            "ev_pct": 12.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
