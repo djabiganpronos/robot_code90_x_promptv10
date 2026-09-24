@@ -1,60 +1,33 @@
 {
-  "generated_at": "2026-09-24T02:16:45.332525+00:00",
+  "generated_at": "2026-09-24T10:45:29.356241+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Seattle Sounders FC vs Real Salt Lake",
-      "competition": "MLS",
-      "commence_time": "2026-09-24T01:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 0.6,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 1.5 BUTS",
-            "cote": 2.24,
-            "probabilite_modele": 51.6,
-            "ev_pct": 15.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Andorra vs Malta",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-24T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 88
+        "cote": 1.61,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.98,
-        "lambda_exterieur": 1.24,
+        "lambda_domicile": 0.96,
+        "lambda_exterieur": 1.16,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
             "marche": "VICTOIRE ANDORRA",
-            "cote": 3.61,
-            "probabilite_modele": 29.2,
-            "ev_pct": 5.3
+            "cote": 3.49,
+            "probabilite_modele": 30.1,
+            "ev_pct": 5.1
           },
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.68,
-            "probabilite_modele": 61.7,
-            "ev_pct": 3.5
+            "cote": 1.61,
+            "probabilite_modele": 64.4,
+            "ev_pct": 4.0
           }
         ]
       },
@@ -69,11 +42,11 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
+        "cote": 1.84,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.06,
+        "lambda_domicile": 2.0,
         "lambda_exterieur": 0.8,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
@@ -86,19 +59,19 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE NORWAY",
-        "cote": 1.73,
+        "cote": 1.84,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.24,
-        "lambda_exterieur": 1.38,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 2.12,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": -0.0,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.32,
-            "probabilite_modele": 50.7,
-            "ev_pct": 17.5
+            "cote": 2.29,
+            "probabilite_modele": 52.3,
+            "ev_pct": 19.7
           }
         ]
       },
@@ -113,15 +86,15 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.88,
-        "lambda_exterieur": 1.74,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 1.86,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 3.25 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 50.9,
-            "ev_pct": 13.1
+            "cote": 2.24,
+            "probabilite_modele": 49.9,
+            "ev_pct": 12.1
           }
         ]
       },
@@ -136,15 +109,15 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.34,
+        "lambda_domicile": 1.28,
         "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": -0.2,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": [
           {
             "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 50.5,
-            "ev_pct": 5.8
+            "cote": 2.17,
+            "probabilite_modele": 49.2,
+            "ev_pct": 6.6
           }
         ]
       },
@@ -159,11 +132,11 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.58,
+        "cote": 1.57,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.24,
+        "lambda_domicile": 1.22,
         "lambda_exterieur": 1.06,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
@@ -176,26 +149,16 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.7,
+        "cote": 1.68,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.52,
+        "lambda_domicile": 0.48,
         "lambda_exterieur": 1.98,
         "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE LIECHTENSTEIN",
-            "cote": 11.5,
-            "probabilite_modele": 8.7,
-            "ev_pct": 0.1
-          }
-        ]
+        "value_bets": []
       },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": false
     },
     {
       "match": "Portugal vs Wales",
@@ -203,15 +166,15 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.92,
-        "lambda_exterieur": 0.82,
+        "lambda_domicile": 2.98,
+        "lambda_exterieur": 0.76,
         "divergence_pinnacle_public_pct": 0.4,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 48.3,
-            "ev_pct": 2.3
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 2.33,
+            "probabilite_modele": 48.5,
+            "ev_pct": 13.0
           }
         ]
       },
