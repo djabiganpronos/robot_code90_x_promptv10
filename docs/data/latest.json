@@ -1,41 +1,61 @@
 {
-  "generated_at": "2026-09-25T10:50:07.821053+00:00",
+  "generated_at": "2026-09-25T16:09:29.230251+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
       "match": "Armenia vs Latvia",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T16:00:00Z",
+      "commence_time": "2026-09-25T16:01:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.72,
+        "cote": 1.79,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.54,
+        "lambda_domicile": 1.62,
         "lambda_exterieur": 0.96,
         "divergence_pinnacle_public_pct": null,
-        "value_bets": []
+        "value_bets": [
+          {
+            "marche": "VICTOIRE LATVIA",
+            "cote": 4.59,
+            "probabilite_modele": 22.4,
+            "ev_pct": 2.8
+          }
+        ]
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Georgia vs Northern Ireland",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T16:00:00Z",
+      "commence_time": "2026-09-25T16:02:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.64,
+        "cote": 1.73,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 0.86,
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 0.96,
         "divergence_pinnacle_public_pct": null,
-        "value_bets": []
+        "value_bets": [
+          {
+            "marche": "VICTOIRE NORTHERN IRELAND",
+            "cote": 4.55,
+            "probabilite_modele": 23.9,
+            "ev_pct": 8.6
+          }
+        ]
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "TSV Havelse vs SC Fortuna Köln",
@@ -43,15 +63,15 @@
       "commence_time": "2026-09-25T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 50.2,
-            "ev_pct": 4.9
+            "cote": 2.12,
+            "probabilite_modele": 49.0,
+            "ev_pct": 3.9
           }
         ]
       },
@@ -66,19 +86,19 @@
       "commence_time": "2026-09-25T18:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE GIRONA FC",
-        "cote": 1.54,
+        "cote": 1.52,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.88,
+        "lambda_domicile": 1.94,
         "lambda_exterieur": 0.82,
         "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 49.6,
-            "ev_pct": 2.5
+            "cote": 2.1,
+            "probabilite_modele": 48.0,
+            "ev_pct": 0.8
           }
         ]
       },
@@ -93,19 +113,19 @@
       "commence_time": "2026-09-25T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.84,
+        "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.9,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": 0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 53.2,
-            "ev_pct": 17.1
+            "cote": 2.18,
+            "probabilite_modele": 53.1,
+            "ev_pct": 15.8
           }
         ]
       },
@@ -120,11 +140,11 @@
       "commence_time": "2026-09-25T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.75,
+        "cote": 1.62,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.86,
+        "lambda_domicile": 2.02,
         "lambda_exterieur": 0.92,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
@@ -141,8 +161,8 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 0.92,
+        "lambda_domicile": 1.68,
+        "lambda_exterieur": 0.86,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -152,17 +172,21 @@
       "match": "Turkey vs France",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-25T18:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "VICTOIRE FRANCE",
+        "cote": 1.35,
+        "indice_fixe": 84
+      },
       "modele_b": {
         "lambda_domicile": 1.04,
-        "lambda_exterieur": 2.7,
-        "divergence_pinnacle_public_pct": -0.1,
+        "lambda_exterieur": 2.66,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.69,
-            "probabilite_modele": 48.4,
-            "ev_pct": 30.3
+            "cote": 2.76,
+            "probabilite_modele": 49.4,
+            "ev_pct": 36.2
           }
         ]
       },
@@ -170,6 +194,50 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Galway United vs Shelbourne Dublin",
+      "competition": "League of Ireland",
+      "commence_time": "2026-09-25T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": -1.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.94,
+            "probabilite_modele": 53.0,
+            "ev_pct": 3.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Hungary vs Ukraine",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-25T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
     }
   ]
 }
