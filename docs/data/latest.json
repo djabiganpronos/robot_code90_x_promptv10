@@ -1,53 +1,72 @@
 {
-  "generated_at": "2026-09-26T10:31:04.908504+00:00",
+  "generated_at": "2026-09-26T15:23:19.306303+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 22,
   "matchs": [
     {
-      "match": "AD Ceuta FC vs Real Sociedad B",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-26T12:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": -1.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Slovenia vs Scotland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-26T13:00:00Z",
+      "match": "Cambridge United vs Wimbledon",
+      "competition": "League 1",
+      "commence_time": "2026-09-26T13:59:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.16,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
+        "lambda_domicile": 0.6,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": 7.4,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE CAMBRIDGE UNITED",
+            "cote": 7.33,
+            "probabilite_modele": 19.7,
+            "ev_pct": 44.1
+          },
+          {
+            "marche": "MOINS DE 1.5 BUTS",
+            "cote": 2.19,
+            "probabilite_modele": 48.1,
+            "ev_pct": 5.3
+          }
+        ]
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Swindon Town vs Accrington Stanley",
       "competition": "League 2",
       "commence_time": "2026-09-26T14:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -0.6,
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 1.3,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.98,
-            "probabilite_modele": 51.3,
-            "ev_pct": 1.4
+            "cote": 2.25,
+            "probabilite_modele": 54.5,
+            "ev_pct": 23.0
+          },
+          {
+            "marche": "VICTOIRE ACCRINGTON STANLEY",
+            "cote": 3.73,
+            "probabilite_modele": 31.9,
+            "ev_pct": 19.0
+          },
+          {
+            "marche": "VICTOIRE SWINDON TOWN",
+            "cote": 3.13,
+            "probabilite_modele": 33.8,
+            "ev_pct": 5.9
           }
         ]
       },
@@ -61,37 +80,32 @@
       "competition": "League 2",
       "commence_time": "2026-09-26T14:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE BRISTOL ROVERS",
-        "cote": 1.73,
+        "pari": "PLUS DE 0.5 BUTS",
+        "cote": 1.84,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.74,
-        "lambda_exterieur": 0.98,
-        "divergence_pinnacle_public_pct": 1.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Plymouth Argyle vs Burton Albion",
-      "competition": "League 1",
-      "commence_time": "2026-09-26T14:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.8,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 0.58,
+        "lambda_exterieur": 0.3,
+        "divergence_pinnacle_public_pct": -7.4,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 52.3,
-            "ev_pct": 11.5
+            "marche": "VICTOIRE EXETER CITY",
+            "cote": 8.8,
+            "probabilite_modele": 18.0,
+            "ev_pct": 58.8
+          },
+          {
+            "marche": "NUL",
+            "cote": 2.53,
+            "probabilite_modele": 45.9,
+            "ev_pct": 16.0
+          },
+          {
+            "marche": "MOINS DE 0.5 BUTS",
+            "cote": 2.24,
+            "probabilite_modele": 44.9,
+            "ev_pct": 0.5
           }
         ]
       },
@@ -101,24 +115,30 @@
       }
     },
     {
-      "match": "Cambridge United vs Wimbledon",
+      "match": "Plymouth Argyle vs Burton Albion",
       "competition": "League 1",
       "commence_time": "2026-09-26T14:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.7,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 0.74,
+        "lambda_exterieur": 0.15,
+        "divergence_pinnacle_public_pct": 8.1,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.93,
-            "probabilite_modele": 52.7,
-            "ev_pct": 1.7
+            "marche": "VICTOIRE PLYMOUTH ARGYLE",
+            "cote": 2.19,
+            "probabilite_modele": 48.6,
+            "ev_pct": 6.7
+          },
+          {
+            "marche": "MOINS DE 0.5 BUTS",
+            "cote": 2.25,
+            "probabilite_modele": 47.4,
+            "ev_pct": 6.4
           }
         ]
       },
@@ -131,17 +151,27 @@
       "match": "Cheltenham Town vs Chesterfield FC",
       "competition": "League 2",
       "commence_time": "2026-09-26T14:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": 1.4,
+        "lambda_domicile": 2.72,
+        "lambda_exterieur": 1.96,
+        "divergence_pinnacle_public_pct": -4.3,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 50.9,
-            "ev_pct": 2.6
+            "marche": "VICTOIRE CHESTERFIELD FC",
+            "cote": 5.79,
+            "probabilite_modele": 23.6,
+            "ev_pct": 36.6
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 51.3,
+            "ev_pct": 4.7
           }
         ]
       },
@@ -156,16 +186,470 @@
       "commence_time": "2026-09-26T14:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 4.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.34,
+            "probabilite_modele": 54.1,
+            "ev_pct": 26.7
+          },
+          {
+            "marche": "VICTOIRE SHREWSBURY TOWN",
+            "cote": 2.85,
+            "probabilite_modele": 39.1,
+            "ev_pct": 11.6
+          },
+          {
+            "marche": "VICTOIRE COLCHESTER UNITED",
+            "cote": 3.98,
+            "probabilite_modele": 27.8,
+            "ev_pct": 10.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Rotherham United vs Crewe Alexandra",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE CREWE ALEXANDRA",
+            "cote": 4.5,
+            "probabilite_modele": 29.3,
+            "ev_pct": 31.8
+          },
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.31,
+            "probabilite_modele": 49.3,
+            "ev_pct": 14.2
+          },
+          {
+            "marche": "VICTOIRE ROTHERHAM UNITED",
+            "cote": 2.89,
+            "probabilite_modele": 36.4,
+            "ev_pct": 4.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Fleetwood Town vs Rochdale",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 2.18,
+        "divergence_pinnacle_public_pct": 2.8,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE FLEETWOOD TOWN",
+            "cote": 8.83,
+            "probabilite_modele": 16.3,
+            "ev_pct": 43.9
+          },
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.21,
+            "probabilite_modele": 56.2,
+            "ev_pct": 24.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "York City vs Gillingham",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.2,
+        "lambda_exterieur": 0.5,
+        "divergence_pinnacle_public_pct": -1.4,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE GILLINGHAM",
+            "cote": 18.85,
+            "probabilite_modele": 6.5,
+            "ev_pct": 22.5
+          },
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.28,
+            "probabilite_modele": 50.6,
+            "ev_pct": 15.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Newport County vs Grimsby Town",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.68,
+        "lambda_exterieur": 0.88,
+        "divergence_pinnacle_public_pct": -36.1,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE GRIMSBY TOWN",
+            "cote": 7.56,
+            "probabilite_modele": 37.2,
+            "ev_pct": 181.5
+          },
+          {
+            "marche": "NUL",
+            "cote": 3.26,
+            "probabilite_modele": 37.8,
+            "ev_pct": 23.1
+          },
+          {
+            "marche": "MOINS DE 1.5 BUTS",
+            "cote": 2.29,
+            "probabilite_modele": 52.3,
+            "ev_pct": 19.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Stockport County FC vs Peterborough United",
+      "competition": "League 1",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 85
+      },
+      "modele_b": {
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 0.13,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 5.7,
+            "probabilite_modele": 18.1,
+            "ev_pct": 3.3
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Wycombe Wanderers vs Reading",
+      "competition": "League 1",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.74,
+        "lambda_exterieur": 2.02,
+        "divergence_pinnacle_public_pct": -16.3,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE READING",
+            "cote": 3.15,
+            "probabilite_modele": 67.1,
+            "ev_pct": 111.5
+          },
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.3,
+            "probabilite_modele": 47.5,
+            "ev_pct": 9.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Tranmere Rovers vs Walsall",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.44,
+        "lambda_exterieur": 0.4,
+        "divergence_pinnacle_public_pct": 2.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 0.5 BUTS",
+            "cote": 2.25,
+            "probabilite_modele": 48.2,
+            "ev_pct": 8.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Granada CF vs Andorra CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-26T14:16:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.88,
+        "lambda_exterieur": 2.94,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 53.3,
+            "ev_pct": 4.7
+          },
+          {
+            "marche": "VICTOIRE GRANADA CF",
+            "cote": 14.23,
+            "probabilite_modele": 7.2,
+            "ev_pct": 2.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Bulgaria vs Luxembourg",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-26T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 0.98,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE LUXEMBOURG",
+            "cote": 3.4,
+            "probabilite_modele": 29.5,
+            "ev_pct": 0.5
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Iceland vs Estonia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-26T16:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.69,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.22,
+        "lambda_exterieur": 0.62,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Faroe Islands vs Kazakhstan",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-26T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 0.94,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "San Marino vs Finland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-26T16:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.58,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.32,
+        "lambda_exterieur": 2.82,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Celta Fortuna vs Sabadell FC",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-26T16:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.56,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.92,
+            "probabilite_modele": 52.6,
+            "ev_pct": 1.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Tenerife vs Cádiz CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-26T16:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.7,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 52.6,
+            "ev_pct": 11.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Oldham Athletic vs Salford City",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.96,
+            "probabilite_modele": 53.2,
+            "ev_pct": 4.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Albania vs Belarus",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-26T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.72,
+        "lambda_exterieur": 0.8,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": false
     }
   ]
 }
