@@ -1,202 +1,33 @@
 {
-  "generated_at": "2026-09-25T20:52:56.101452+00:00",
+  "generated_at": "2026-09-26T02:36:07.329841+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Turkey vs France",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.75 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.05,
-        "lambda_exterieur": 1.94,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 29.0,
-            "probabilite_modele": 15.0,
-            "ev_pct": 335.8
-          },
-          {
-            "marche": "PLUS DE 1.75 BUTS",
-            "cote": 6.82,
-            "probabilite_modele": 52.5,
-            "ev_pct": 257.9
-          },
-          {
-            "marche": "VICTOIRE TURKEY",
-            "cote": 357.17,
-            "probabilite_modele": 0.7,
-            "ev_pct": 162.6
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Galway United vs Shelbourne Dublin",
-      "competition": "League of Ireland",
-      "commence_time": "2026-09-25T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.39,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.21,
-        "lambda_exterieur": 0.25,
-        "divergence_pinnacle_public_pct": 10.2,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE GALWAY UNITED",
-            "cote": 25.06,
-            "probabilite_modele": 14.5,
-            "ev_pct": 263.8
-          },
-          {
-            "marche": "VICTOIRE SHELBOURNE DUBLIN",
-            "cote": 19.72,
-            "probabilite_modele": 17.8,
-            "ev_pct": 250.6
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 13.0,
-            "probabilite_modele": 16.2,
-            "ev_pct": 110.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Poland vs Bosnia & Herzegovina",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T18:47:00Z",
-      "modele_a": null,
-      "modele_b": null,
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Hungary vs Ukraine",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T18:49:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.02,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.05,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE HUNGARY",
-            "cote": 289.2,
-            "probabilite_modele": 1.3,
-            "ev_pct": 281.7
-          },
-          {
-            "marche": "NUL",
-            "cote": 10.09,
-            "probabilite_modele": 26.6,
-            "ev_pct": 168.4
-          },
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 6.4,
-            "probabilite_modele": 40.5,
-            "ev_pct": 159.0
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Grêmio Novorizontino vs São Bernardo",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-25T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 0.74,
-        "divergence_pinnacle_public_pct": 1.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.96,
-            "probabilite_modele": 52.8,
-            "ev_pct": 3.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Vila Nova vs Londrina",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-25T23:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.78,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 52.0,
-            "ev_pct": 4.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Atlante FC vs Monterrey",
       "competition": "Liga MX",
       "commence_time": "2026-09-26T01:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.16,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 3.32,
+        "lambda_exterieur": 1.54,
+        "divergence_pinnacle_public_pct": -22.7,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 51.0,
-            "ev_pct": 7.0
+            "marche": "VICTOIRE MONTERREY",
+            "cote": 65.89,
+            "probabilite_modele": 10.7,
+            "ev_pct": 606.9
+          },
+          {
+            "marche": "NUL",
+            "cote": 13.92,
+            "probabilite_modele": 18.8,
+            "ev_pct": 161.6
           }
         ]
       },
@@ -211,9 +42,9 @@
       "commence_time": "2026-09-26T03:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": -0.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -224,19 +55,19 @@
       "commence_time": "2026-09-26T12:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.84,
         "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 1.3,
         "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": -1.1,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 1.96,
             "probabilite_modele": 52.8,
-            "ev_pct": 3.7
+            "ev_pct": 3.6
           }
         ]
       },
@@ -267,34 +98,121 @@
       "competition": "League 2",
       "commence_time": "2026-09-26T14:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": -0.6,
-        "value_bets": []
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.96,
+            "probabilite_modele": 51.8,
+            "ev_pct": 1.6
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Bristol Rovers vs Exeter City",
       "competition": "League 2",
       "commence_time": "2026-09-26T14:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
+        "pari": "VICTOIRE BRISTOL ROVERS",
+        "cote": 1.64,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.82,
+        "lambda_domicile": 1.8,
         "lambda_exterieur": 0.92,
-        "divergence_pinnacle_public_pct": 2.7,
+        "divergence_pinnacle_public_pct": 2.3,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "Plymouth Argyle vs Burton Albion",
+      "competition": "League 1",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": 1.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.15,
+            "probabilite_modele": 47.4,
+            "ev_pct": 1.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Cambridge United vs Wimbledon",
+      "competition": "League 1",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.72,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.93,
+            "probabilite_modele": 52.8,
+            "ev_pct": 1.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Cheltenham Town vs Chesterfield FC",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.48,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 50.3,
+            "ev_pct": 3.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
