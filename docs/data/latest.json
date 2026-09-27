@@ -1,95 +1,39 @@
 {
-  "generated_at": "2026-09-26T20:23:12.692234+00:00",
+  "generated_at": "2026-09-27T02:34:20.745945+00:00",
   "erreur": null,
-  "nb_matchs": 13,
+  "nb_matchs": 17,
   "matchs": [
     {
-      "match": "Czech Republic vs Croatia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-26T18:45:00Z",
+      "match": "Austin FC vs San Diego FC",
+      "competition": "MLS",
+      "commence_time": "2026-09-27T00:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
+        "pari": "PLUS DE 6.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.94,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": 5.6,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CZECH REPUBLIC",
-            "cote": 14.61,
-            "probabilite_modele": 21.9,
-            "ev_pct": 219.9
-          },
-          {
-            "marche": "NUL",
-            "cote": 2.77,
-            "probabilite_modele": 43.0,
-            "ev_pct": 19.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "England vs Spain",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-26T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.1,
-        "lambda_exterieur": 2.28,
-        "divergence_pinnacle_public_pct": 17.2,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE ENGLAND",
-            "cote": 20.56,
-            "probabilite_modele": 29.3,
-            "ev_pct": 501.9
-          },
-          {
-            "marche": "NUL",
-            "cote": 4.34,
-            "probabilite_modele": 34.1,
-            "ev_pct": 47.7
-          },
-          {
-            "marche": "MOINS DE 4.75 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 52.8,
-            "ev_pct": 5.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Albania vs Belarus",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-26T18:50:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.69,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.6,
-        "lambda_exterieur": 0.05,
+        "lambda_domicile": 0.15,
+        "lambda_exterieur": 0.25,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
             "marche": "NUL",
-            "cote": 28.29,
-            "probabilite_modele": 8.0,
-            "ev_pct": 126.7
+            "cote": 1.96,
+            "probabilite_modele": 69.6,
+            "ev_pct": 36.3
+          },
+          {
+            "marche": "VICTOIRE SAN DIEGO FC",
+            "cote": 6.98,
+            "probabilite_modele": 19.4,
+            "ev_pct": 35.3
+          },
+          {
+            "marche": "VICTOIRE AUSTIN FC",
+            "cote": 12.15,
+            "probabilite_modele": 11.0,
+            "ev_pct": 34.2
           }
         ]
       },
@@ -99,87 +43,180 @@
       }
     },
     {
-      "match": "Operario PR vs Ceará",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-26T19:31:00Z",
+      "match": "FC Dallas vs Los Angeles FC",
+      "competition": "MLS",
+      "commence_time": "2026-09-27T00:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.4,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 9.12,
+            "probabilite_modele": 39.7,
+            "ev_pct": 262.1
+          },
+          {
+            "marche": "NUL",
+            "cote": 10.14,
+            "probabilite_modele": 21.6,
+            "ev_pct": 118.7
+          },
+          {
+            "marche": "VICTOIRE LOS ANGELES FC",
+            "cote": 133.41,
+            "probabilite_modele": 1.1,
+            "ev_pct": 42.1
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Houston Dynamo vs Sporting Kansas City",
+      "competition": "MLS",
+      "commence_time": "2026-09-27T00:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.57,
+        "indice_fixe": 88
+      },
+      "modele_b": {
+        "lambda_domicile": 0.05,
+        "lambda_exterieur": 2.38,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 32.0,
+            "probabilite_modele": 9.9,
+            "ev_pct": 216.3
+          },
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 4.92,
+            "probabilite_modele": 41.4,
+            "ev_pct": 103.6
+          },
+          {
+            "marche": "VICTOIRE HOUSTON DYNAMO",
+            "cote": 234.0,
+            "probabilite_modele": 0.5,
+            "ev_pct": 12.0
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Seattle Sounders FC vs Minnesota United FC",
+      "competition": "MLS",
+      "commence_time": "2026-09-27T00:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 3.36,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": -23.3,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE MINNESOTA UNITED FC",
+            "cote": 94.86,
+            "probabilite_modele": 9.1,
+            "ev_pct": 764.0
+          },
+          {
+            "marche": "NUL",
+            "cote": 32.43,
+            "probabilite_modele": 17.1,
+            "ev_pct": 453.6
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 8.3,
+            "probabilite_modele": 52.1,
+            "ev_pct": 332.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Nashville SC vs Toronto FC",
+      "competition": "MLS",
+      "commence_time": "2026-09-27T00:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.53,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.32,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 26.5,
+            "probabilite_modele": 10.5,
+            "ev_pct": 177.3
+          },
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 5.3,
+            "probabilite_modele": 39.7,
+            "ev_pct": 110.6
+          },
+          {
+            "marche": "VICTOIRE TORONTO FC",
+            "cote": 303.25,
+            "probabilite_modele": 0.5,
+            "ev_pct": 53.9
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Real Salt Lake vs New England Revolution",
+      "competition": "MLS",
+      "commence_time": "2026-09-27T01:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 0.58,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.28,
-            "probabilite_modele": 46.5,
-            "ev_pct": 5.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Nautico PE vs Sport Recife",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-26T19:32:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.88,
-        "lambda_exterieur": 0.68,
-        "divergence_pinnacle_public_pct": 1.4,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Goiás vs Atletico Goianiense",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-26T21:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": -0.7,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.3,
-            "probabilite_modele": 50.5,
-            "ev_pct": 16.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Cruz Azul vs Toluca",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-26T22:50:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.3,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 0.72,
+        "divergence_pinnacle_public_pct": 1.2,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 51.0,
-            "ev_pct": 10.2
+            "cote": 1.95,
+            "probabilite_modele": 53.5,
+            "ev_pct": 4.3
           }
         ]
       },
@@ -189,121 +226,260 @@
       }
     },
     {
-      "match": "Guadalajara vs Querétaro",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-26T23:07:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE GUADALAJARA",
-        "cote": 1.59,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.86,
-        "lambda_exterieur": 0.88,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.94,
-            "probabilite_modele": 51.7,
-            "ev_pct": 0.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Atlanta United FC vs New York City FC",
+      "match": "LA Galaxy vs Colorado Rapids",
       "competition": "MLS",
-      "commence_time": "2026-09-26T23:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 1.38,
-        "divergence_pinnacle_public_pct": -1.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "CF Montreal vs FC Cincinnati",
-      "competition": "MLS",
-      "commence_time": "2026-09-26T23:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.72,
-        "lambda_exterieur": 1.88,
-        "divergence_pinnacle_public_pct": -0.6,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 51.0,
-            "ev_pct": 1.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Charlotte FC vs Chicago Fire",
-      "competition": "MLS",
-      "commence_time": "2026-09-26T23:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.0,
-        "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "New York Red Bulls vs St. Louis City SC",
-      "competition": "MLS",
-      "commence_time": "2026-09-26T23:30:00Z",
+      "commence_time": "2026-09-27T02:30:00Z",
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.54,
-        "lambda_exterieur": 2.18,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": []
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 48.9,
+            "ev_pct": 4.2
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
-      "match": "Philadelphia Union vs Orlando City SC",
+      "match": "Vancouver Whitecaps FC vs D.C. United",
       "competition": "MLS",
-      "commence_time": "2026-09-26T23:30:00Z",
+      "commence_time": "2026-09-27T02:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.7,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 51.1,
+            "ev_pct": 6.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "San Jose Earthquakes vs Portland Timbers",
+      "competition": "MLS",
+      "commence_time": "2026-09-27T02:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
         "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.46,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 2.12,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.37,
-            "probabilite_modele": 47.4,
-            "ev_pct": 12.4
+            "cote": 2.12,
+            "probabilite_modele": 47.6,
+            "ev_pct": 0.9
           }
         ]
       },
       "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Santos Laguna vs Pachuca",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-27T03:05:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.3,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": -2.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 50.0,
+            "ev_pct": 3.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Tigres vs Puebla",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-27T03:10:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE TIGRES",
+        "cote": 1.68,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 0.9,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Gangwon FC vs Incheon United",
+      "competition": "K League 1",
+      "commence_time": "2026-09-27T10:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.35,
+            "probabilite_modele": 50.0,
+            "ev_pct": 17.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Real Valladolid CF vs Córdoba",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-27T12:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.75 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.75 BUTS",
+            "cote": 1.92,
+            "probabilite_modele": 52.6,
+            "ev_pct": 1.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Lithuania vs Azerbaijan",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-27T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.49,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 0.98,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Criciuma vs Avai",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-27T14:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE CRICIUMA",
+        "cote": 1.71,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 0.94,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 51.0,
+            "ev_pct": 3.2
+          },
+          {
+            "marche": "VICTOIRE AVAI",
+            "cote": 5.33,
+            "probabilite_modele": 18.8,
+            "ev_pct": 0.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Mallorca vs Almería",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-27T14:15:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Gibraltar vs Andorra",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-27T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.96,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE GIBRALTAR",
+            "cote": 3.55,
+            "probabilite_modele": 29.0,
+            "ev_pct": 3.0
+          },
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.63,
+            "probabilite_modele": 62.8,
+            "ev_pct": 2.6
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
