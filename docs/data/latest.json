@@ -1,116 +1,37 @@
 {
-  "generated_at": "2026-09-27T11:02:42.030345+00:00",
+  "generated_at": "2026-09-27T16:02:34.801510+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 13,
   "matchs": [
     {
-      "match": "Gangwon FC vs Incheon United",
-      "competition": "K League 1",
-      "commence_time": "2026-09-27T10:00:00Z",
+      "match": "Criciuma vs Avai",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-27T14:02:00Z",
       "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.48,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.94,
-        "lambda_exterieur": 0.74,
-        "divergence_pinnacle_public_pct": -1.3,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 2.24,
-            "probabilite_modele": 52.3,
-            "ev_pct": 17.5
-          },
-          {
-            "marche": "VICTOIRE INCHEON UNITED",
-            "cote": 4.1,
-            "probabilite_modele": 25.0,
-            "ev_pct": 2.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Real Valladolid CF vs Córdoba",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-27T12:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": -0.8,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Lithuania vs Azerbaijan",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-27T13:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 1.26,
+        "lambda_domicile": 2.96,
+        "lambda_exterieur": 0.07,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.65,
-            "probabilite_modele": 45.5,
-            "ev_pct": 20.7
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 10.64,
+            "probabilite_modele": 35.8,
+            "ev_pct": 280.6
           },
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 54.5,
-            "ev_pct": 9.8
-          },
-          {
-            "marche": "VICTOIRE AZERBAIJAN",
-            "cote": 3.57,
-            "probabilite_modele": 30.1,
-            "ev_pct": 7.6
+            "marche": "NUL",
+            "cote": 26.0,
+            "probabilite_modele": 5.9,
+            "ev_pct": 53.0
           }
         ]
       },
       "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Criciuma vs Avai",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-27T14:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE CRICIUMA",
-        "cote": 1.71,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.72,
-        "lambda_exterieur": 0.88,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 48.6,
-            "ev_pct": 5.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -118,15 +39,41 @@
     {
       "match": "Mallorca vs Almería",
       "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-27T14:15:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": []
+      "commence_time": "2026-09-27T14:17:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 0.05,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": 2.0,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 4.93,
+            "probabilite_modele": 23.1,
+            "ev_pct": 13.8
+          },
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 2.66,
+            "probabilite_modele": 41.2,
+            "ev_pct": 9.5
+          },
+          {
+            "marche": "VICTOIRE MALLORCA",
+            "cote": 34.62,
+            "probabilite_modele": 2.9,
+            "ev_pct": 1.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Gibraltar vs Andorra",
@@ -134,25 +81,25 @@
       "commence_time": "2026-09-27T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.52,
+        "cote": 1.61,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.88,
-        "lambda_exterieur": 1.12,
+        "lambda_domicile": 0.98,
+        "lambda_exterieur": 1.2,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
             "marche": "VICTOIRE GIBRALTAR",
-            "cote": 3.62,
-            "probabilite_modele": 28.5,
-            "ev_pct": 3.0
+            "cote": 3.56,
+            "probabilite_modele": 29.9,
+            "ev_pct": 6.6
           },
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.52,
-            "probabilite_modele": 67.7,
-            "ev_pct": 2.6
+            "cote": 1.61,
+            "probabilite_modele": 62.8,
+            "ev_pct": 1.1
           }
         ]
       },
@@ -162,41 +109,24 @@
       }
     },
     {
-      "match": "Austria vs Kosovo",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-27T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.78,
-        "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
       "match": "Denmark vs Wales",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-27T16:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
+        "pari": "VICTOIRE DENMARK",
+        "cote": 1.41,
+        "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 2.48,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 2.56,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.23,
-            "probabilite_modele": 53.4,
-            "ev_pct": 19.3
+            "cote": 2.16,
+            "probabilite_modele": 49.8,
+            "ev_pct": 7.4
           }
         ]
       },
@@ -210,20 +140,180 @@
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-27T16:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 85
+        "pari": "VICTOIRE NETHERLANDS",
+        "cote": 1.41,
+        "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 1.16,
-        "lambda_exterieur": 2.62,
-        "divergence_pinnacle_public_pct": -0.0,
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 2.5,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Austria vs Kosovo",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-27T16:04:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.9,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Burgos CF vs CD Eldense",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-27T16:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": -1.1,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.17,
+            "probabilite_modele": 47.5,
+            "ev_pct": 2.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "SD Eibar vs Las Palmas",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-27T16:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.72,
+        "lambda_exterieur": 1.02,
+        "divergence_pinnacle_public_pct": 0.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Pumas vs Atlético San Luis",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-27T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 0.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.08,
+            "probabilite_modele": 50.7,
+            "ev_pct": 5.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Germany vs Greece",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-27T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE GERMANY",
+        "cote": 1.46,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 2.54,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 0.7,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.27,
-            "probabilite_modele": 47.7,
-            "ev_pct": 8.3
+            "cote": 2.1,
+            "probabilite_modele": 48.8,
+            "ev_pct": 2.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Israel vs Republic of Ireland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-27T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Norway vs Portugal",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-27T18:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.88,
+        "lambda_exterieur": 1.7,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 2.2,
+            "probabilite_modele": 51.8,
+            "ev_pct": 14.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Clube de Regatas Brasil vs Cuiabá",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-27T19:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 48.6,
+            "ev_pct": 5.1
           }
         ]
       },
