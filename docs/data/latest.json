@@ -1,82 +1,20 @@
 {
-  "generated_at": "2026-09-28T02:37:27.498529+00:00",
+  "generated_at": "2026-09-28T12:22:52.198130+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "León vs FC Juárez",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-28T01:05:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.9,
-        "lambda_exterieur": 0.54,
-        "divergence_pinnacle_public_pct": 5.6,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE FC JUÁREZ",
-            "cote": 5.95,
-            "probabilite_modele": 18.7,
-            "ev_pct": 11.2
-          },
-          {
-            "marche": "VICTOIRE LEÓN",
-            "cote": 2.65,
-            "probabilite_modele": 41.2,
-            "ev_pct": 9.2
-          },
-          {
-            "marche": "MOINS DE 1.5 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 55.5,
-            "ev_pct": 6.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Necaxa vs América",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-28T03:10:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.06,
-        "lambda_exterieur": 1.64,
-        "divergence_pinnacle_public_pct": -0.4,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 49.4,
-            "ev_pct": 3.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Armenia vs Montenegro",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-28T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.69,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.24,
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.28,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -88,12 +26,12 @@
       "commence_time": "2026-09-28T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.58,
+        "cote": 1.53,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.12,
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 1.1,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -105,12 +43,12 @@
       "commence_time": "2026-09-28T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.71,
+        "cote": 1.64,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 1.22,
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.18,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -124,7 +62,7 @@
       "modele_b": {
         "lambda_domicile": 1.2,
         "lambda_exterieur": 1.46,
-        "divergence_pinnacle_public_pct": -1.4,
+        "divergence_pinnacle_public_pct": -1.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -135,15 +73,15 @@
       "commence_time": "2026-09-28T18:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.64,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 1.04,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 48.4,
-            "ev_pct": 3.0
+            "cote": 2.04,
+            "probabilite_modele": 50.3,
+            "ev_pct": 2.8
           }
         ]
       },
@@ -158,12 +96,12 @@
       "commence_time": "2026-09-28T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.77,
+        "cote": 1.75,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.12,
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.18,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -179,12 +117,35 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.08,
+        "lambda_domicile": 1.06,
+        "lambda_exterieur": 1.12,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
       "pinnacle_disponible": false
+    },
+    {
+      "match": "Turkey vs Italy",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-28T18:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 1.78,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 52.7,
+            "ev_pct": 10.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
