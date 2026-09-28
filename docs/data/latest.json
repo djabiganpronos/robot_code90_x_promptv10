@@ -1,87 +1,33 @@
 {
-  "generated_at": "2026-09-28T12:22:52.198130+00:00",
+  "generated_at": "2026-09-28T22:45:41.029608+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Armenia vs Montenegro",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T16:00:00Z",
+      "match": "América Mineiro vs Juventude",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-28T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.69,
+        "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Latvia vs Cyprus",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Georgia vs Ukraine",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Leganés vs CD Castellón",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-28T18:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 1.46,
-        "divergence_pinnacle_public_pct": -1.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Belgium vs France",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": -0.7,
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": 1.6,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 50.3,
-            "ev_pct": 2.8
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.22,
+            "probabilite_modele": 47.1,
+            "ev_pct": 4.5
+          },
+          {
+            "marche": "VICTOIRE AMÉRICA MINEIRO",
+            "cote": 3.81,
+            "probabilite_modele": 27.0,
+            "ev_pct": 3.1
           }
         ]
       },
@@ -91,54 +37,106 @@
       }
     },
     {
-      "match": "Romania vs Bosnia & Herzegovina",
+      "match": "Finland vs Belarus",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T18:45:00Z",
+      "commence_time": "2026-09-29T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.75,
+        "cote": 1.63,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.18,
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 0.72,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
       "pinnacle_disponible": false
     },
     {
-      "match": "Northern Ireland vs Hungary",
+      "match": "Moldova vs Faroe Islands",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.06,
-        "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Turkey vs Italy",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T18:45:00Z",
+      "commence_time": "2026-09-29T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.74,
-        "lambda_exterieur": 1.78,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.28,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.0 BUTS",
+            "cote": 1.92,
+            "probabilite_modele": 53.4,
+            "ev_pct": 2.2
+          },
+          {
+            "marche": "VICTOIRE FAROE ISLANDS",
+            "cote": 2.72,
+            "probabilite_modele": 37.1,
+            "ev_pct": 1.1
+          },
+          {
+            "marche": "VICTOIRE MOLDOVA",
+            "cote": 2.78,
+            "probabilite_modele": 36.1,
+            "ev_pct": 0.5
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "San Marino vs Albania",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-29T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.42,
+        "lambda_exterieur": 3.52,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Bulgaria vs Estonia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-29T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 88
+      },
+      "modele_b": {
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 0.78,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Spain vs Croatia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-29T18:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.88,
+        "lambda_exterieur": 0.74,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 52.7,
-            "ev_pct": 10.1
+            "cote": 2.13,
+            "probabilite_modele": 51.0,
+            "ev_pct": 8.9
           }
         ]
       },
@@ -146,6 +144,73 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Czech Republic vs England",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-29T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ENGLAND",
+        "cote": 1.35,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.06,
+        "lambda_exterieur": 2.7,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE CZECH REPUBLIC",
+            "cote": 8.82,
+            "probabilite_modele": 11.6,
+            "ev_pct": 2.5
+          },
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 47.9,
+            "ev_pct": 0.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Luxembourg vs Iceland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-29T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Slovakia vs Kazakhstan",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-29T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.14,
+        "lambda_exterieur": 0.54,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
     }
   ]
 }
