@@ -1,52 +1,19 @@
 {
-  "generated_at": "2026-09-28T22:45:41.029608+00:00",
+  "generated_at": "2026-09-29T03:19:55.491402+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "América Mineiro vs Juventude",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-28T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.08,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": 1.6,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 47.1,
-            "ev_pct": 4.5
-          },
-          {
-            "marche": "VICTOIRE AMÉRICA MINEIRO",
-            "cote": 3.81,
-            "probabilite_modele": 27.0,
-            "ev_pct": 3.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Finland vs Belarus",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-29T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
+        "cote": 1.64,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.64,
+        "lambda_domicile": 1.66,
         "lambda_exterieur": 0.72,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
@@ -67,19 +34,13 @@
             "marche": "MOINS DE 2.0 BUTS",
             "cote": 1.92,
             "probabilite_modele": 53.4,
-            "ev_pct": 2.2
-          },
-          {
-            "marche": "VICTOIRE FAROE ISLANDS",
-            "cote": 2.72,
-            "probabilite_modele": 37.1,
-            "ev_pct": 1.1
+            "ev_pct": 2.6
           },
           {
             "marche": "VICTOIRE MOLDOVA",
-            "cote": 2.78,
+            "cote": 2.79,
             "probabilite_modele": 36.1,
-            "ev_pct": 0.5
+            "ev_pct": 1.0
           }
         ]
       },
@@ -99,7 +60,7 @@
       },
       "modele_b": {
         "lambda_domicile": 0.42,
-        "lambda_exterieur": 3.52,
+        "lambda_exterieur": 3.54,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -111,16 +72,26 @@
       "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.65,
+        "cote": 1.66,
         "indice_fixe": 88
       },
       "modele_b": {
         "lambda_domicile": 1.6,
-        "lambda_exterieur": 0.78,
+        "lambda_exterieur": 0.8,
         "divergence_pinnacle_public_pct": null,
-        "value_bets": []
+        "value_bets": [
+          {
+            "marche": "VICTOIRE ESTONIA",
+            "cote": 5.42,
+            "probabilite_modele": 18.7,
+            "ev_pct": 1.1
+          }
+        ]
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Spain vs Croatia",
@@ -135,8 +106,8 @@
           {
             "marche": "MOINS DE 3.0 BUTS",
             "cote": 2.13,
-            "probabilite_modele": 51.0,
-            "ev_pct": 8.9
+            "probabilite_modele": 51.1,
+            "ev_pct": 9.0
           }
         ]
       },
@@ -150,26 +121,20 @@
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
-        "pari": "VICTOIRE ENGLAND",
-        "cote": 1.35,
-        "indice_fixe": 84
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.06,
-        "lambda_exterieur": 2.7,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_exterieur": 2.74,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
             "marche": "VICTOIRE CZECH REPUBLIC",
-            "cote": 8.82,
-            "probabilite_modele": 11.6,
-            "ev_pct": 2.5
-          },
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 47.9,
-            "ev_pct": 0.5
+            "cote": 9.47,
+            "probabilite_modele": 11.2,
+            "ev_pct": 5.7
           }
         ]
       },
@@ -206,7 +171,7 @@
       },
       "modele_b": {
         "lambda_domicile": 2.14,
-        "lambda_exterieur": 0.54,
+        "lambda_exterieur": 0.56,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
