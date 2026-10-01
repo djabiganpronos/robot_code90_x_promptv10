@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T03:09:09.115309+00:00",
+  "generated_at": "2026-10-01T12:04:28.577256+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,9 +7,13 @@
       "match": "Azerbaijan vs Liechtenstein",
       "competition": "UEFA Nations League",
       "commence_time": "2026-10-01T16:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 2.38,
+        "lambda_domicile": 2.58,
         "lambda_exterieur": 0.34,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
@@ -21,14 +25,14 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-10-01T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
+        "pari": "VICTOIRE INTER MILAN",
         "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.04,
-        "lambda_exterieur": 1.76,
-        "divergence_pinnacle_public_pct": 1.0,
+        "lambda_exterieur": 1.64,
+        "divergence_pinnacle_public_pct": 1.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -39,9 +43,9 @@
       "commence_time": "2026-10-01T16:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.7,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 2.64,
+        "lambda_exterieur": 1.0,
+        "divergence_pinnacle_public_pct": 1.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -52,12 +56,12 @@
       "commence_time": "2026-10-01T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.65,
+        "cote": 1.59,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 1.38,
+        "lambda_domicile": 0.98,
+        "lambda_exterieur": 1.32,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -67,17 +71,21 @@
       "match": "Denmark vs Portugal",
       "competition": "UEFA Nations League",
       "commence_time": "2026-10-01T18:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.12,
-        "lambda_exterieur": 1.58,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 49.2,
-            "ev_pct": 4.6
+            "cote": 2.22,
+            "probabilite_modele": 46.8,
+            "ev_pct": 3.7
           }
         ]
       },
@@ -92,15 +100,15 @@
       "commence_time": "2026-10-01T18:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.8,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 2.9,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": -0.3,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.21,
-            "probabilite_modele": 51.3,
-            "ev_pct": 13.4
+            "cote": 2.33,
+            "probabilite_modele": 48.9,
+            "ev_pct": 14.2
           }
         ]
       },
@@ -119,8 +127,8 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.02,
-        "lambda_exterieur": 0.52,
+        "lambda_domicile": 2.04,
+        "lambda_exterieur": 0.48,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -132,15 +140,15 @@
       "commence_time": "2026-10-01T18:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.16,
+        "lambda_domicile": 1.2,
         "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": -0.3,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 48.6,
-            "ev_pct": 2.5
+            "cote": 2.13,
+            "probabilite_modele": 47.8,
+            "ev_pct": 1.9
           }
         ]
       },
