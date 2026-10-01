@@ -1,33 +1,16 @@
 {
-  "generated_at": "2026-09-30T21:40:09.309880+00:00",
+  "generated_at": "2026-10-01T03:09:09.115309+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "New York Red Bulls vs St. Louis City SC",
-      "competition": "MLS",
-      "commence_time": "2026-09-30T23:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE ST. LOUIS CITY SC",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 2.18,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Azerbaijan vs Liechtenstein",
       "competition": "UEFA Nations League",
       "commence_time": "2026-10-01T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.4,
-        "lambda_exterieur": 0.36,
+        "lambda_domicile": 2.38,
+        "lambda_exterieur": 0.34,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -45,7 +28,7 @@
       "modele_b": {
         "lambda_domicile": 1.04,
         "lambda_exterieur": 1.76,
-        "divergence_pinnacle_public_pct": 1.4,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -56,8 +39,8 @@
       "commence_time": "2026-10-01T16:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.64,
-        "lambda_exterieur": 0.96,
+        "lambda_domicile": 2.7,
+        "lambda_exterieur": 1.02,
         "divergence_pinnacle_public_pct": 0.5,
         "value_bets": []
       },
@@ -74,7 +57,7 @@
       },
       "modele_b": {
         "lambda_domicile": 1.02,
-        "lambda_exterieur": 1.36,
+        "lambda_exterieur": 1.38,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -87,14 +70,14 @@
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.12,
-        "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": -0.9,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": -0.3,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 49.6,
-            "ev_pct": 5.3
+            "cote": 2.13,
+            "probabilite_modele": 49.2,
+            "ev_pct": 4.6
           }
         ]
       },
@@ -109,15 +92,15 @@
       "commence_time": "2026-10-01T18:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.76,
+        "lambda_domicile": 2.8,
         "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 0.3,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 52.1,
-            "ev_pct": 11.7
+            "cote": 2.21,
+            "probabilite_modele": 51.3,
+            "ev_pct": 13.4
           }
         ]
       },
@@ -132,7 +115,7 @@
       "commence_time": "2026-10-01T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.73,
         "indice_fixe": 82
       },
       "modele_b": {
@@ -142,6 +125,29 @@
         "value_bets": []
       },
       "pinnacle_disponible": false
+    },
+    {
+      "match": "Greece vs Netherlands",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 1.56,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 48.6,
+            "ev_pct": 2.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
