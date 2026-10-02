@@ -1,63 +1,36 @@
 {
-  "generated_at": "2026-10-02T03:11:07.221475+00:00",
+  "generated_at": "2026-10-02T11:35:42.734995+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Seattle Sounders FC vs Sporting Kansas City",
-      "competition": "MLS",
-      "commence_time": "2026-10-02T01:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 85
-      },
-      "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 7.5,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE SPORTING KANSAS CITY",
-            "cote": 5.58,
-            "probabilite_modele": 22.0,
-            "ev_pct": 22.5
-          },
-          {
-            "marche": "VICTOIRE SEATTLE SOUNDERS FC",
-            "cote": 2.4,
-            "probabilite_modele": 47.9,
-            "ev_pct": 14.7
-          },
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 48.6,
-            "ev_pct": 6.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Kazakhstan vs Moldova",
       "competition": "UEFA Nations League",
       "commence_time": "2026-10-02T14:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 0.9,
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 0.96,
         "divergence_pinnacle_public_pct": null,
-        "value_bets": []
+        "value_bets": [
+          {
+            "marche": "VICTOIRE MOLDOVA",
+            "cote": 4.53,
+            "probabilite_modele": 23.3,
+            "ev_pct": 5.4
+          },
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.9,
+            "probabilite_modele": 53.9,
+            "ev_pct": 2.1
+          }
+        ]
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Cyprus vs Armenia",
@@ -65,12 +38,12 @@
       "commence_time": "2026-10-02T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.71,
+        "cote": 1.73,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.12,
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.1,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -82,12 +55,12 @@
       "commence_time": "2026-10-02T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.72,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.84,
-        "lambda_exterieur": 1.48,
+        "lambda_domicile": 0.88,
+        "lambda_exterieur": 1.62,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -99,19 +72,19 @@
       "commence_time": "2026-10-02T16:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.78,
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.36,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": 2.1,
+        "lambda_domicile": 2.24,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": -0.8,
         "value_bets": [
           {
             "marche": "PLUS DE 3.0 BUTS",
             "cote": 2.21,
-            "probabilite_modele": 52.9,
-            "ev_pct": 16.7
+            "probabilite_modele": 50.8,
+            "ev_pct": 12.1
           }
         ]
       },
@@ -126,15 +99,15 @@
       "commence_time": "2026-10-02T18:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.28,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 51.0,
-            "ev_pct": 13.0
+            "cote": 2.27,
+            "probabilite_modele": 50.9,
+            "ev_pct": 15.4
           }
         ]
       },
@@ -149,19 +122,19 @@
       "commence_time": "2026-10-02T18:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE BELGIUM",
-        "cote": 1.53,
+        "cote": 1.56,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.44,
-        "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 2.4,
+        "lambda_exterieur": 1.28,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 49.4,
-            "ev_pct": 0.1
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 49.7,
+            "ev_pct": 1.6
           }
         ]
       },
@@ -174,14 +147,28 @@
       "match": "Dundalk vs Bohemians",
       "competition": "League of Ireland",
       "commence_time": "2026-10-02T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": -0.7,
-        "value_bets": []
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 2.1,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 1.87,
+            "probabilite_modele": 53.6,
+            "ev_pct": 0.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Bosnia & Herzegovina vs Sweden",
@@ -189,12 +176,12 @@
       "commence_time": "2026-10-02T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.61,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.46,
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.54,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
