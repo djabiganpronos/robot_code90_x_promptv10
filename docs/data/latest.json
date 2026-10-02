@@ -1,60 +1,38 @@
 {
-  "generated_at": "2026-10-01T22:08:03.018974+00:00",
+  "generated_at": "2026-10-02T03:11:07.221475+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Athletic Club (MG) vs Sport Recife",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-01T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 88
-      },
-      "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Grêmio Novorizontino vs Goiás",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-02T00:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Seattle Sounders FC vs Sporting Kansas City",
       "competition": "MLS",
       "commence_time": "2026-10-02T01:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE SEATTLE SOUNDERS FC",
-        "cote": 1.57,
-        "indice_fixe": 78
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 85
       },
       "modele_b": {
-        "lambda_domicile": 2.38,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": 7.5,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 50.3,
+            "marche": "VICTOIRE SPORTING KANSAS CITY",
+            "cote": 5.58,
+            "probabilite_modele": 22.0,
+            "ev_pct": 22.5
+          },
+          {
+            "marche": "VICTOIRE SEATTLE SOUNDERS FC",
+            "cote": 2.4,
+            "probabilite_modele": 47.9,
+            "ev_pct": 14.7
+          },
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.2,
+            "probabilite_modele": 48.6,
             "ev_pct": 6.8
           }
         ]
@@ -91,7 +69,7 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.34,
+        "lambda_domicile": 1.36,
         "lambda_exterieur": 1.12,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
@@ -108,8 +86,8 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.86,
-        "lambda_exterieur": 1.5,
+        "lambda_domicile": 0.84,
+        "lambda_exterieur": 1.48,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -127,13 +105,13 @@
       "modele_b": {
         "lambda_domicile": 2.36,
         "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": 1.2,
+        "divergence_pinnacle_public_pct": 2.1,
         "value_bets": [
           {
             "marche": "PLUS DE 3.0 BUTS",
-            "cote": 2.19,
+            "cote": 2.21,
             "probabilite_modele": 52.9,
-            "ev_pct": 15.6
+            "ev_pct": 16.7
           }
         ]
       },
@@ -164,6 +142,63 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Belgium vs Turkey",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE BELGIUM",
+        "cote": 1.53,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.44,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 49.4,
+            "ev_pct": 0.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Dundalk vs Bohemians",
+      "competition": "League of Ireland",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.56,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Bosnia & Herzegovina vs Sweden",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
     }
   ]
 }
