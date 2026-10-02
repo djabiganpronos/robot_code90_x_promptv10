@@ -1,67 +1,27 @@
 {
-  "generated_at": "2026-10-02T17:03:19.540433+00:00",
+  "generated_at": "2026-10-02T21:35:24.029287+00:00",
   "erreur": null,
-  "nb_matchs": 11,
+  "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Cyprus vs Armenia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-02T16:02:00Z",
+      "match": "Independiente vs Instituto de Córdoba",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-02T22:15:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.62,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 3.04,
-        "lambda_exterieur": 0.36,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Latvia vs Montenegro",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-02T16:02:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.58,
-        "indice_fixe": 88
-      },
-      "modele_b": {
-        "lambda_domicile": 0.4,
-        "lambda_exterieur": 1.98,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Bayer Leverkusen vs Werder Bremen",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-10-02T16:32:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE BAYER LEVERKUSEN",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": 21.1,
+        "lambda_domicile": 0.88,
+        "lambda_exterieur": 0.74,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
-            "marche": "VICTOIRE BAYER LEVERKUSEN",
-            "cote": 2.99,
-            "probabilite_modele": 51.0,
-            "ev_pct": 52.6
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 49.6,
-            "ev_pct": 1.6
+            "marche": "MOINS DE 1.5 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 52.1,
+            "ev_pct": 6.4
           }
         ]
       },
@@ -71,129 +31,37 @@
       }
     },
     {
-      "match": "CD Eldense vs Oviedo",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-10-02T18:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
+      "match": "São Bernardo vs Clube de Regatas Brasil",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 52.9,
-            "ev_pct": 17.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Belgium vs Turkey",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-02T18:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE BELGIUM",
-        "cote": 1.55,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.4,
-        "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 49.9,
-            "ev_pct": 3.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Dundalk vs Bohemians",
-      "competition": "League of Ireland",
-      "commence_time": "2026-10-02T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 2.22,
-        "divergence_pinnacle_public_pct": -0.7,
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Bosnia & Herzegovina vs Sweden",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-02T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.5,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Faroe Islands vs Slovakia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-02T18:45:00Z",
+      "match": "Universidad de Concepción vs Huachipato",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-10-02T23:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.72,
-        "lambda_exterieur": 1.64,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "France vs Italy",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-02T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 85
-      },
-      "modele_b": {
-        "lambda_domicile": 2.64,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": 0.7,
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
-            "marche": "PLUS DE 3.0 BUTS",
-            "cote": 1.96,
-            "probabilite_modele": 53.7,
-            "ev_pct": 5.3
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.94,
+            "probabilite_modele": 52.5,
+            "ev_pct": 1.9
           }
         ]
       },
@@ -203,50 +71,111 @@
       }
     },
     {
-      "match": "Hungary vs Georgia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-02T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Ukraine vs Northern Ireland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-02T18:45:00Z",
+      "match": "Sao Paulo vs Santos",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-02T23:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": null,
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
-            "marche": "VICTOIRE NORTHERN IRELAND",
-            "cote": 4.18,
-            "probabilite_modele": 25.8,
-            "ev_pct": 7.9
-          },
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 51.3,
-            "ev_pct": 3.8
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 49.2,
+            "ev_pct": 3.7
           }
         ]
       },
-      "pinnacle_disponible": false,
+      "pinnacle_disponible": true,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Londrina vs Criciuma",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-02T23:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 46.9,
+            "ev_pct": 1.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Juventude vs Operario PR",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-02T23:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE JUVENTUDE",
+        "cote": 1.69,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 1.9,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 50.5,
+            "ev_pct": 8.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Boca Juniors vs Union Santa Fe",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-03T00:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE BOCA JUNIORS",
+        "cote": 1.43,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 2.02,
+        "lambda_exterieur": 0.74,
+        "divergence_pinnacle_public_pct": 1.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Independiente Rivadavia vs Gimnasia La Plata",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-03T00:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
