@@ -1,228 +1,21 @@
 {
-  "generated_at": "2026-10-03T20:21:12.448784+00:00",
+  "generated_at": "2026-10-04T03:26:33.833150+00:00",
   "erreur": null,
-  "nb_matchs": 15,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Spain vs Czech Republic",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-03T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 3.24,
-        "lambda_exterieur": 0.46,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CZECH REPUBLIC",
-            "cote": 77.9,
-            "probabilite_modele": 2.7,
-            "ev_pct": 110.8
-          },
-          {
-            "marche": "MOINS DE 3.25 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 49.3,
-            "ev_pct": 2.2
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "North Macedonia vs Scotland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-03T18:46:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.05,
-        "lambda_exterieur": 2.76,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 31.66,
-            "probabilite_modele": 6.9,
-            "ev_pct": 117.8
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Switzerland vs Slovenia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-03T18:46:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.02,
-        "lambda_exterieur": 0.48,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE SLOVENIA",
-            "cote": 60.73,
-            "probabilite_modele": 3.4,
-            "ev_pct": 108.0
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Atletico Goianiense vs América Mineiro",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-03T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.54,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 23.98,
-            "probabilite_modele": 8.5,
-            "ev_pct": 103.4
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Atlético Tucuman vs Barracas Central",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-03T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.12,
-        "lambda_exterieur": 0.58,
-        "divergence_pinnacle_public_pct": 2.8,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Cuiabá vs Ponte Preta",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-03T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.22,
-        "lambda_exterieur": 0.56,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 52.9,
-            "ev_pct": 5.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Newells Old Boys vs Lanus",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-03T20:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.86,
-        "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 1.4,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Atletico Mineiro vs Bragantino-SP",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-03T21:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Botafogo-SP vs Vila Nova",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-03T21:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.29,
-            "probabilite_modele": 50.0,
-            "ev_pct": 14.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "VfL Wolfsburg vs Hamburger SV",
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-10-04T11:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.77,
+        "cote": 1.79,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 3.02,
-        "lambda_exterieur": 0.78,
-        "divergence_pinnacle_public_pct": 1.0,
+        "lambda_domicile": 3.06,
+        "lambda_exterieur": 0.74,
+        "divergence_pinnacle_public_pct": 1.6,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -246,21 +39,21 @@
       "commence_time": "2026-10-04T13:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.22,
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.2,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 49.9,
-            "ev_pct": 2.5
+            "cote": 2.02,
+            "probabilite_modele": 50.8,
+            "ev_pct": 2.8
           },
           {
             "marche": "VICTOIRE LITHUANIA",
-            "cote": 3.23,
-            "probabilite_modele": 31.6,
-            "ev_pct": 2.0
+            "cote": 3.26,
+            "probabilite_modele": 31.5,
+            "ev_pct": 2.6
           }
         ]
       },
@@ -302,18 +95,18 @@
       "commence_time": "2026-10-04T14:15:00Z",
       "modele_a": {
         "pari": "VICTOIRE SPORTING GIJÓN",
-        "cote": 1.57,
+        "cote": 1.6,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.84,
-        "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 1.82,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 49.7,
+            "cote": 2.03,
+            "probabilite_modele": 49.8,
             "ev_pct": 1.2
           }
         ]
@@ -329,25 +122,25 @@
       "commence_time": "2026-10-04T16:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE MALTA",
-        "cote": 1.65,
+        "cote": 1.64,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
+        "lambda_domicile": 1.78,
         "lambda_exterieur": 0.88,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
             "marche": "VICTOIRE ANDORRA",
-            "cote": 6.19,
-            "probabilite_modele": 18.5,
-            "ev_pct": 14.8
+            "cote": 6.23,
+            "probabilite_modele": 18.3,
+            "ev_pct": 13.9
           },
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.04,
-            "probabilite_modele": 50.8,
-            "ev_pct": 3.5
+            "probabilite_modele": 50.3,
+            "ev_pct": 2.5
           }
         ]
       },
@@ -355,6 +148,40 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Kosovo vs Austria",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-04T16:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.54,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "1. FC Nürnberg vs TSG Hoffenheim",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-10-04T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 2.22,
+        "divergence_pinnacle_public_pct": -0.9,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
