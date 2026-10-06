@@ -1,166 +1,168 @@
 {
-  "generated_at": "2026-10-06T12:26:24.871356+00:00",
+  "generated_at": "2026-10-06T22:01:31.408778+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Kazakhstan vs Faroe Islands",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-06T14:00:00Z",
+      "match": "Sport Recife vs São Bernardo",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-06T22:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.14,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE FAROE ISLANDS",
-            "cote": 3.01,
-            "probabilite_modele": 33.3,
-            "ev_pct": 0.2
-          },
-          {
-            "marche": "MOINS DE 2.0 BUTS",
-            "cote": 1.76,
-            "probabilite_modele": 57.0,
-            "ev_pct": 0.1
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Atherton Collieries AFC vs Trafford FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.02,
-        "lambda_exterieur": 1.68,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Wingate and Finchley FC vs Bedford Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.65,
+        "pari": "VICTOIRE SPORT RECIFE",
+        "cote": 1.78,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.78,
-        "lambda_exterieur": 2.2,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Belarus vs Finland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.52,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.86,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Luxembourg vs Bulgaria",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.69,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE BULGARIA",
-            "cote": 3.4,
-            "probabilite_modele": 29.4,
-            "ev_pct": 0.0
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Spalding United FC vs Bury Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.58,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Croatia vs Spain",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.94,
-        "lambda_exterieur": 2.66,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_domicile": 1.68,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "England vs Czech Republic",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": null,
+      "match": "Goiás vs Athletic Club (MG)",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-06T23:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 3.06,
-        "lambda_exterieur": 0.58,
+        "lambda_domicile": 1.62,
+        "lambda_exterieur": 1.08,
         "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 50.8,
-            "ev_pct": 8.6
-          },
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.21,
+            "probabilite_modele": 51.5,
+            "ev_pct": 13.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Chicago Fire vs Vancouver Whitecaps FC",
+      "competition": "MLS",
+      "commence_time": "2026-10-07T00:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.94,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Ponte Preta vs Juventude",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T00:35:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.54,
+        "lambda_exterieur": 2.02,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "IF Gnistan vs FC Inter Turku",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-10-07T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.02,
+        "lambda_exterieur": 1.56,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
           {
-            "marche": "VICTOIRE CZECH REPUBLIC",
-            "cote": 22.4,
-            "probabilite_modele": 4.6,
-            "ev_pct": 2.3
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 52.3,
+            "ev_pct": 4.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Avai vs Londrina",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": -0.8,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Operario PR vs Botafogo-SP",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T22:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.62,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 50.6,
+            "ev_pct": 4.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Bragantino-SP vs Mirassol",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-07T22:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE BRAGANTINO-SP",
+        "cote": 1.82,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.0,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 50.9,
+            "ev_pct": 1.6
           }
         ]
       },
