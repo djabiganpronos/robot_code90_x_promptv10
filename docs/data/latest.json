@@ -1,101 +1,23 @@
 {
-  "generated_at": "2026-10-06T22:01:31.408778+00:00",
+  "generated_at": "2026-10-07T03:21:41.938195+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Sport Recife vs São Bernardo",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-06T22:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE SPORT RECIFE",
-        "cote": 1.78,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.68,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Goiás vs Athletic Club (MG)",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-06T23:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.21,
-            "probabilite_modele": 51.5,
-            "ev_pct": 13.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Chicago Fire vs Vancouver Whitecaps FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-07T00:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.64,
-        "lambda_exterieur": 1.94,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Ponte Preta vs Juventude",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-07T00:35:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.54,
-        "lambda_exterieur": 2.02,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
       "match": "IF Gnistan vs FC Inter Turku",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-10-07T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.02,
+        "lambda_domicile": 1.04,
         "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": -0.4,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 52.3,
-            "ev_pct": 4.8
+            "cote": 2.01,
+            "probabilite_modele": 51.8,
+            "ev_pct": 4.0
           }
         ]
       },
@@ -108,15 +30,11 @@
       "match": "Avai vs Londrina",
       "competition": "Brazil Série B",
       "commence_time": "2026-10-07T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.46,
         "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": -0.8,
+        "divergence_pinnacle_public_pct": -0.6,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -127,15 +45,15 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 1.2,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 50.6,
-            "ev_pct": 4.0
+            "cote": 2.04,
+            "probabilite_modele": 50.7,
+            "ev_pct": 3.7
           }
         ]
       },
@@ -150,19 +68,99 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE BRAGANTINO-SP",
-        "cote": 1.82,
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.64,
         "lambda_exterieur": 1.0,
-        "divergence_pinnacle_public_pct": -0.2,
+        "divergence_pinnacle_public_pct": -0.0,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.0,
+            "cote": 2.01,
             "probabilite_modele": 50.9,
-            "ev_pct": 1.6
+            "ev_pct": 2.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Internacional vs Corinthians",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-07T22:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 50.1,
+            "ev_pct": 5.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Remo vs Grêmio",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-07T22:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Vitoria vs Chapecoense",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-07T23:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE VITORIA",
+        "cote": 1.69,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "América Mineiro vs Fortaleza",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T23:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 1.68,
+        "divergence_pinnacle_public_pct": -0.9,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.95,
+            "probabilite_modele": 52.7,
+            "ev_pct": 2.7
           }
         ]
       },
