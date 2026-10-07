@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:21:41.938195+00:00",
+  "generated_at": "2026-10-07T12:19:21.493987+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,17 +7,21 @@
       "match": "IF Gnistan vs FC Inter Turku",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-10-07T16:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 1.0,
+        "lambda_exterieur": 1.8,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 51.8,
-            "ev_pct": 4.0
+            "cote": 2.14,
+            "probabilite_modele": 46.9,
+            "ev_pct": 0.4
           }
         ]
       },
@@ -34,7 +38,7 @@
       "modele_b": {
         "lambda_domicile": 1.46,
         "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": -0.6,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -43,24 +47,18 @@
       "match": "Operario PR vs Botafogo-SP",
       "competition": "Brazil Série B",
       "commence_time": "2026-10-07T22:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.64,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 50.7,
-            "ev_pct": 3.7
-          }
-        ]
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "modele_b": {
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     },
     {
       "match": "Bragantino-SP vs Mirassol",
@@ -68,19 +66,19 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE BRAGANTINO-SP",
-        "cote": 1.83,
+        "cote": 1.68,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.64,
-        "lambda_exterieur": 1.0,
-        "divergence_pinnacle_public_pct": -0.0,
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 1.9,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 50.9,
-            "ev_pct": 2.2
+            "cote": 2.07,
+            "probabilite_modele": 49.8,
+            "ev_pct": 3.3
           }
         ]
       },
@@ -95,15 +93,15 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.5,
+        "lambda_domicile": 1.38,
         "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": 0.7,
+        "divergence_pinnacle_public_pct": -1.2,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 50.1,
-            "ev_pct": 5.5
+            "cote": 2.15,
+            "probabilite_modele": 47.3,
+            "ev_pct": 1.6
           }
         ]
       },
@@ -118,9 +116,9 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 1.62,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 1.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -131,13 +129,13 @@
       "commence_time": "2026-10-07T23:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE VITORIA",
-        "cote": 1.69,
+        "cote": 1.57,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 0.92,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 1.9,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -148,19 +146,19 @@
       "commence_time": "2026-10-07T23:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.08,
+        "lambda_domicile": 1.1,
         "lambda_exterieur": 1.68,
-        "divergence_pinnacle_public_pct": -0.9,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 52.7,
-            "ev_pct": 2.7
+            "cote": 1.96,
+            "probabilite_modele": 52.8,
+            "ev_pct": 3.4
           }
         ]
       },
