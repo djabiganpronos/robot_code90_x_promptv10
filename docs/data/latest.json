@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-07T12:19:21.493987+00:00",
+  "generated_at": "2026-10-07T22:26:33.168151+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "IF Gnistan vs FC Inter Turku",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-07T16:00:00Z",
+      "match": "Avai vs Londrina",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.0,
-        "lambda_exterieur": 1.8,
-        "divergence_pinnacle_public_pct": -0.1,
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 46.9,
-            "ev_pct": 0.4
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.19,
+            "probabilite_modele": 46.0,
+            "ev_pct": 0.9
           }
         ]
       },
@@ -31,34 +31,27 @@
       }
     },
     {
-      "match": "Avai vs Londrina",
+      "match": "Operario PR vs Botafogo-SP",
       "competition": "Brazil Série B",
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": -0.8,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 47.9,
+            "ev_pct": 0.7
+          }
+        ]
       },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Operario PR vs Botafogo-SP",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-07T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Bragantino-SP vs Mirassol",
@@ -66,19 +59,19 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE BRAGANTINO-SP",
-        "cote": 1.68,
+        "cote": 1.74,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 0.92,
-        "divergence_pinnacle_public_pct": 1.9,
+        "lambda_domicile": 2.28,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 49.8,
-            "ev_pct": 3.3
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 49.3,
+            "ev_pct": 2.9
           }
         ]
       },
@@ -93,15 +86,15 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": -1.2,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": 0.7,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 47.3,
-            "ev_pct": 1.6
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 50.2,
+            "ev_pct": 6.5
           }
         ]
       },
@@ -116,9 +109,9 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 1.2,
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -135,7 +128,7 @@
       "modele_b": {
         "lambda_domicile": 1.9,
         "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": 1.0,
+        "divergence_pinnacle_public_pct": 0.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -146,19 +139,46 @@
       "commence_time": "2026-10-07T23:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.98,
+            "probabilite_modele": 52.0,
+            "ev_pct": 3.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Clube de Regatas Brasil vs Atletico Goianiense",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T23:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE CLUBE DE REGATAS BRASIL",
         "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.68,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.0,
+        "divergence_pinnacle_public_pct": 1.2,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.96,
-            "probabilite_modele": 52.8,
-            "ev_pct": 3.4
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 51.1,
+            "ev_pct": 2.2
           }
         ]
       },
