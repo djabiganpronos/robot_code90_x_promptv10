@@ -1,98 +1,27 @@
 {
-  "generated_at": "2026-10-08T12:28:54.662576+00:00",
+  "generated_at": "2026-10-08T22:39:38.944017+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 11,
   "matchs": [
-    {
-      "match": "HJK Helsinki vs VPS Vaasa",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-08T15:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE HJK HELSINKI",
-        "cote": 1.59,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.86,
-        "lambda_exterieur": 0.88,
-        "divergence_pinnacle_public_pct": 1.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 48.6,
-            "ev_pct": 3.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "KuPS Kuopio vs AC Oulu",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-08T16:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE KUPS KUOPIO",
-        "cote": 1.56,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 0.78,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Shamrock Rovers vs Drogheda United",
-      "competition": "League of Ireland",
-      "commence_time": "2026-10-08T19:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE SHAMROCK ROVERS",
-        "cote": 1.37,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 2.04,
-        "lambda_exterieur": 0.66,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 49.6,
-            "ev_pct": 4.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Ceará vs Criciuma",
       "competition": "Brazil Série B",
       "commence_time": "2026-10-08T22:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.81,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.83,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 0.84,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 45.8,
-            "ev_pct": 0.6
+            "marche": "MOINS DE 1.5 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 51.8,
+            "ev_pct": 1.9
           }
         ]
       },
@@ -107,19 +36,19 @@
       "commence_time": "2026-10-08T22:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE FLAMENGO",
-        "cote": 1.77,
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.98,
-        "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": -0.9,
+        "lambda_domicile": 0.96,
+        "lambda_exterieur": 1.64,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 49.5,
-            "ev_pct": 4.3
+            "cote": 2.06,
+            "probabilite_modele": 51.8,
+            "ev_pct": 6.5
           }
         ]
       },
@@ -133,20 +62,20 @@
       "competition": "Brazil Série B",
       "commence_time": "2026-10-08T22:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
+        "pari": "VICTOIRE GRÊMIO NOVORIZONTINO",
+        "cote": 1.76,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": -1.0,
+        "lambda_domicile": 0.94,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.94,
-            "probabilite_modele": 52.7,
-            "ev_pct": 2.5
+            "cote": 1.98,
+            "probabilite_modele": 51.8,
+            "ev_pct": 2.8
           }
         ]
       },
@@ -159,28 +88,14 @@
       "match": "Atletico Paranaense vs Atletico Mineiro",
       "competition": "Brazil Série A",
       "commence_time": "2026-10-08T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": -0.9,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 52.5,
-            "ev_pct": 6.7
-          }
-        ]
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Palmeiras vs Bahia",
@@ -192,15 +107,15 @@
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.32,
+        "lambda_domicile": 2.34,
         "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": 1.2,
+        "divergence_pinnacle_public_pct": 0.7,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 52.4,
-            "ev_pct": 11.9
+            "cote": 2.18,
+            "probabilite_modele": 52.2,
+            "ev_pct": 13.5
           }
         ]
       },
@@ -208,6 +123,150 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Fluminense vs Coritiba",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-09T00:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FLUMINENSE",
+        "cote": 1.47,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 0.72,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 50.9,
+            "ev_pct": 6.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Daejeon Citizen vs Jeonbuk Hyundai Motors",
+      "competition": "K League 1",
+      "commence_time": "2026-10-09T05:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.95,
+            "probabilite_modele": 51.4,
+            "ev_pct": 0.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Gangwon FC vs Bucheon FC 1995",
+      "competition": "K League 1",
+      "commence_time": "2026-10-09T07:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE GANGWON FC",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.68,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 49.6,
+            "ev_pct": 3.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Incheon United vs Pohang Steelers",
+      "competition": "K League 1",
+      "commence_time": "2026-10-09T07:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.48,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.27,
+            "probabilite_modele": 51.5,
+            "ev_pct": 17.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Kashima Antlers vs Gamba Osaka",
+      "competition": "J League",
+      "commence_time": "2026-10-09T10:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE KASHIMA ANTLERS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 0.98,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 50.9,
+            "ev_pct": 6.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Kashiwa Reysol vs Vissel Kobe",
+      "competition": "J League",
+      "commence_time": "2026-10-09T10:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": 0.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
