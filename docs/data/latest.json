@@ -1,33 +1,39 @@
 {
-  "generated_at": "2026-10-12T03:20:47.349472+00:00",
+  "generated_at": "2026-10-12T13:54:40.077655+00:00",
   "erreur": null,
   "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Pumas vs Cruz Azul",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-12T01:15:00Z",
+      "match": "Real Valladolid CF vs Albacete",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-10-12T12:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 6.5 BUTS",
-        "cote": 1.03,
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.57,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.05,
-        "lambda_exterieur": 0.09,
+        "lambda_domicile": 4.0,
+        "lambda_exterieur": 0.72,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "VICTOIRE PUMAS",
-            "cote": 37.93,
-            "probabilite_modele": 4.5,
-            "ev_pct": 69.5
+            "marche": "PLUS DE 5.5 BUTS",
+            "cote": 8.38,
+            "probabilite_modele": 36.1,
+            "ev_pct": 202.5
           },
           {
-            "marche": "MOINS DE 6.5 BUTS",
-            "cote": 1.03,
-            "probabilite_modele": 100.0,
-            "ev_pct": 3.4
+            "marche": "NUL",
+            "cote": 30.67,
+            "probabilite_modele": 6.0,
+            "ev_pct": 84.6
+          },
+          {
+            "marche": "VICTOIRE ALBACETE",
+            "cote": 50.67,
+            "probabilite_modele": 2.8,
+            "ev_pct": 42.5
           }
         ]
       },
@@ -37,33 +43,37 @@
       }
     },
     {
-      "match": "Real Valladolid CF vs Albacete",
+      "match": "Burgos CF vs Granada CF",
       "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-10-12T12:00:00Z",
-      "modele_a": null,
+      "commence_time": "2026-10-12T14:15:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.25 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.28,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": -2.3,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Burgos CF vs Granada CF",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-10-12T14:15:00Z",
+      "match": "VPS Vaasa vs IF Gnistan",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-10-12T15:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": -0.6,
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": -0.0,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 48.9,
-            "ev_pct": 0.4
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 49.8,
+            "ev_pct": 1.0
           }
         ]
       },
@@ -73,41 +83,24 @@
       }
     },
     {
-      "match": "VPS Vaasa vs IF Gnistan",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-12T15:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
       "match": "PAOK Thessaloniki vs Kalamata FC",
       "competition": "Super League - Greece",
       "commence_time": "2026-10-12T15:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.83,
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.96,
+        "lambda_domicile": 2.92,
         "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": 1.7,
+        "divergence_pinnacle_public_pct": 1.6,
         "value_bets": [
           {
             "marche": "PLUS DE 3.0 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 52.7,
-            "ev_pct": 1.0
+            "cote": 1.94,
+            "probabilite_modele": 51.9,
+            "ev_pct": 0.8
           }
         ]
       },
@@ -122,19 +115,19 @@
       "commence_time": "2026-10-12T16:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE HJK HELSINKI",
-        "cote": 1.77,
+        "cote": 1.73,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.98,
+        "lambda_domicile": 0.92,
         "lambda_exterieur": 1.7,
-        "divergence_pinnacle_public_pct": -0.2,
+        "divergence_pinnacle_public_pct": -0.0,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 49.9,
-            "ev_pct": 4.2
+            "cote": 2.06,
+            "probabilite_modele": 51.4,
+            "ev_pct": 5.9
           }
         ]
       },
@@ -147,17 +140,21 @@
       "match": "Radomiak Radom vs Motor Lublin",
       "competition": "Ekstraklasa - Poland",
       "commence_time": "2026-10-12T16:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.88,
-        "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": -0.9,
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": -1.5,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 50.8,
-            "ev_pct": 2.8
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 53.2,
+            "ev_pct": 11.1
           }
         ]
       },
@@ -172,19 +169,19 @@
       "commence_time": "2026-10-12T16:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.82,
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 2.5,
         "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": 0.7,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": [
           {
             "marche": "PLUS DE 3.0 BUTS",
             "cote": 2.05,
-            "probabilite_modele": 53.1,
-            "ev_pct": 8.9
+            "probabilite_modele": 53.0,
+            "ev_pct": 8.8
           }
         ]
       },
@@ -197,15 +194,38 @@
       "match": "Oviedo vs SD Eibar",
       "competition": "La Liga 2 - Spain",
       "commence_time": "2026-10-12T16:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 47.7,
+            "ev_pct": 0.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "AGF Aarhus vs SonderjyskE",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-10-12T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.25 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
+        "pari": "VICTOIRE AGF AARHUS",
+        "cote": 1.55,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 2.36,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": 1.4,
         "value_bets": []
       },
       "pinnacle_disponible": true
