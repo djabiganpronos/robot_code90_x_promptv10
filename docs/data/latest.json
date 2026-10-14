@@ -1,83 +1,27 @@
 {
-  "generated_at": "2026-10-13T22:05:51.881612+00:00",
+  "generated_at": "2026-10-14T02:45:12.041211+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Athletic Club (MG) vs Londrina",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-13T22:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 51.0,
-            "ev_pct": 5.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Boca Juniors vs Vasco da Gama",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-10-14T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.7,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE VASCO DA GAMA",
-            "cote": 4.77,
-            "probabilite_modele": 21.6,
-            "ev_pct": 2.9
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 53.0,
-            "ev_pct": 1.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Feyenoord vs Como",
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-14T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
+        "pari": "PLUS DE 3.25 BUTS",
         "cote": 1.82,
         "indice_fixe": 85
       },
       "modele_b": {
         "lambda_domicile": 1.62,
         "lambda_exterieur": 2.2,
-        "divergence_pinnacle_public_pct": 0.2,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 53.2,
-            "ev_pct": 2.1
+            "marche": "PLUS DE 3.25 BUTS",
+            "cote": 1.89,
+            "probabilite_modele": 53.3,
+            "ev_pct": 0.9
           }
         ]
       },
@@ -94,13 +38,13 @@
       "modele_b": {
         "lambda_domicile": 0.96,
         "lambda_exterieur": 2.72,
-        "divergence_pinnacle_public_pct": -0.1,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.11,
+            "cote": 2.12,
             "probabilite_modele": 49.7,
-            "ev_pct": 4.8
+            "ev_pct": 5.2
           }
         ]
       },
@@ -175,6 +119,60 @@
             "cote": 2.03,
             "probabilite_modele": 49.7,
             "ev_pct": 1.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "SC Verl vs Jahn Regensburg",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-10-14T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 51.8,
+            "ev_pct": 3.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Queens Park Rangers vs Derby County",
+      "competition": "Championship",
+      "commence_time": "2026-10-14T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.72,
+        "lambda_exterieur": 0.88,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 52.0,
+            "ev_pct": 3.6
           }
         ]
       },
