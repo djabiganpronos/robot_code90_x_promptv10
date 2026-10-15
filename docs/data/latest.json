@@ -1,309 +1,21 @@
 {
-  "generated_at": "2026-10-15T02:24:25.868631+00:00",
+  "generated_at": "2026-10-15T10:34:00.437212+00:00",
   "erreur": null,
-  "nb_matchs": 15,
+  "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Chicago Fire vs Philadelphia Union",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.7,
-        "lambda_exterieur": 4.0,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CHICAGO FIRE",
-            "cote": 98.83,
-            "probabilite_modele": 2.7,
-            "ev_pct": 166.2
-          },
-          {
-            "marche": "NUL",
-            "cote": 35.0,
-            "probabilite_modele": 5.9,
-            "ev_pct": 106.6
-          },
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 53.5,
-            "ev_pct": 6.9
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "FC Dallas vs Seattle Sounders FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 88
-      },
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 0.13,
-        "divergence_pinnacle_public_pct": -4.8,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE SEATTLE SOUNDERS FC",
-            "cote": 28.91,
-            "probabilite_modele": 4.2,
-            "ev_pct": 20.3
-          },
-          {
-            "marche": "NUL",
-            "cote": 4.99,
-            "probabilite_modele": 22.1,
-            "ev_pct": 10.5
-          },
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 2.27,
-            "probabilite_modele": 48.5,
-            "ev_pct": 9.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Fluminense-RJ vs Palmeiras-SP",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-10-15T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.54,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.29,
-        "lambda_exterieur": 1.88,
-        "divergence_pinnacle_public_pct": 2.2,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 32.97,
-            "probabilite_modele": 19.2,
-            "ev_pct": 532.3
-          },
-          {
-            "marche": "VICTOIRE FLUMINENSE-RJ",
-            "cote": 62.59,
-            "probabilite_modele": 4.4,
-            "ev_pct": 173.6
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 4.6,
-            "probabilite_modele": 37.3,
-            "ev_pct": 71.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Nashville SC vs Sporting Kansas City",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T00:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 3.42,
-        "lambda_exterieur": 0.17,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.29,
-            "probabilite_modele": 48.2,
-            "ev_pct": 10.4
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "St. Louis City SC vs Vancouver Whitecaps FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T00:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.34,
-        "lambda_exterieur": 0.44,
-        "divergence_pinnacle_public_pct": 3.1,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE VANCOUVER WHITECAPS FC",
-            "cote": 4.34,
-            "probabilite_modele": 27.7,
-            "ev_pct": 20.4
-          },
-          {
-            "marche": "PLUS DE 0.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 51.9,
-            "ev_pct": 6.8
-          },
-          {
-            "marche": "VICTOIRE ST. LOUIS CITY SC",
-            "cote": 4.72,
-            "probabilite_modele": 21.2,
-            "ev_pct": 0.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Colorado Rapids vs Minnesota United FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T01:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 0.64,
-        "divergence_pinnacle_public_pct": 2.1,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Real Salt Lake vs San Jose Earthquakes",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T01:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 0.6,
-        "divergence_pinnacle_public_pct": 3.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 1.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 52.5,
-            "ev_pct": 16.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Los Angeles FC vs Austin FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T02:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE LOS ANGELES FC",
-        "cote": 1.38,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 2.58,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 50.3,
-            "ev_pct": 7.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "San Diego FC vs Houston Dynamo",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T02:30:00Z",
+      "match": "Al-Faisaly KSA FC vs Al-Kholood",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-15T13:40:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 46.9,
-            "ev_pct": 1.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "LA Galaxy vs Portland Timbers",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T02:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.98,
-        "lambda_exterieur": 1.64,
-        "divergence_pinnacle_public_pct": -0.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 50.7,
-            "ev_pct": 5.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Al-Faisaly KSA FC vs Al-Kholood",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-15T13:40:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": -0.1,
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": 1.3,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -312,11 +24,15 @@
       "match": "Al-Khaleej vs Al-Fayha",
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-15T14:50:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 1.58,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -327,9 +43,9 @@
       "commence_time": "2026-10-15T15:15:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": 1.7,
+        "lambda_domicile": 1.48,
+        "lambda_exterieur": 1.24,
+        "divergence_pinnacle_public_pct": 2.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -338,27 +54,17 @@
       "match": "Salzburg vs AC Milan",
       "competition": "UEFA Europa League",
       "commence_time": "2026-10-15T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.66,
-        "lambda_exterieur": 2.1,
-        "divergence_pinnacle_public_pct": -0.0,
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 2.06,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 47.7,
-            "ev_pct": 4.0
-          },
-          {
-            "marche": "VICTOIRE SALZBURG",
-            "cote": 3.42,
-            "probabilite_modele": 29.3,
-            "ev_pct": 0.1
+            "cote": 2.2,
+            "probabilite_modele": 51.9,
+            "ev_pct": 14.3
           }
         ]
       },
@@ -372,17 +78,104 @@
       "competition": "UEFA Europa Conference League",
       "commence_time": "2026-10-15T16:45:00Z",
       "modele_a": {
-        "pari": "VICTOIRE GENT",
-        "cote": 1.65,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.8,
+        "lambda_domicile": 1.84,
         "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": -0.6,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "PFC CSKA Sofia vs AS Monaco",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE AS MONACO",
+        "cote": 1.51,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 2.38,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.15,
+            "probabilite_modele": 52.2,
+            "ev_pct": 12.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "AZ Alkmaar vs Hapoel Be'er Sheva",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE AZ ALKMAAR",
+        "cote": 1.36,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 2.58,
+        "lambda_exterieur": 1.02,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE HAPOEL BE'ER SHEVA",
+            "cote": 8.21,
+            "probabilite_modele": 12.4,
+            "ev_pct": 1.4
+          },
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 1.95,
+            "probabilite_modele": 51.5,
+            "ev_pct": 0.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Hajduk Split vs Ajax",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 2.36,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.23,
+            "probabilite_modele": 48.0,
+            "ev_pct": 6.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
