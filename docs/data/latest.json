@@ -1,38 +1,21 @@
 {
-  "generated_at": "2026-10-15T10:34:00.437212+00:00",
+  "generated_at": "2026-10-15T15:58:53.449999+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
-    {
-      "match": "Al-Faisaly KSA FC vs Al-Kholood",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-15T13:40:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.46,
-        "divergence_pinnacle_public_pct": 1.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Al-Khaleej vs Al-Fayha",
       "competition": "Saudi Pro League",
-      "commence_time": "2026-10-15T14:50:00Z",
+      "commence_time": "2026-10-15T14:51:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.58,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 0.78,
+        "lambda_exterieur": 0.7,
+        "divergence_pinnacle_public_pct": -2.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -41,30 +24,54 @@
       "match": "Al-Hazem vs Al-Fateh",
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-15T15:15:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.48,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 2.7,
-        "value_bets": []
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 1.78,
+        "lambda_exterieur": 1.68,
+        "divergence_pinnacle_public_pct": 4.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.08,
+            "probabilite_modele": 53.3,
+            "ev_pct": 11.1
+          },
+          {
+            "marche": "VICTOIRE AL-HAZEM",
+            "cote": 2.8,
+            "probabilite_modele": 38.4,
+            "ev_pct": 7.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Salzburg vs AC Milan",
       "competition": "UEFA Europa League",
       "commence_time": "2026-10-15T16:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 2.06,
-        "divergence_pinnacle_public_pct": -0.7,
+        "lambda_domicile": 1.58,
+        "lambda_exterieur": 2.2,
+        "divergence_pinnacle_public_pct": -0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 51.9,
-            "ev_pct": 14.3
+            "cote": 2.23,
+            "probabilite_modele": 47.3,
+            "ev_pct": 5.4
           }
         ]
       },
@@ -78,17 +85,27 @@
       "competition": "UEFA Europa Conference League",
       "commence_time": "2026-10-15T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.84,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": 0.8,
-        "value_bets": []
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": 1.5,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 52.5,
+            "ev_pct": 3.3
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "PFC CSKA Sofia vs AS Monaco",
@@ -96,19 +113,25 @@
       "commence_time": "2026-10-15T16:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE AS MONACO",
-        "cote": 1.51,
+        "cote": 1.55,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.18,
+        "lambda_domicile": 1.24,
         "lambda_exterieur": 2.38,
-        "divergence_pinnacle_public_pct": 0.2,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 52.2,
-            "ev_pct": 12.1
+            "cote": 2.28,
+            "probabilite_modele": 50.7,
+            "ev_pct": 15.8
+          },
+          {
+            "marche": "VICTOIRE PFC CSKA SOFIA",
+            "cote": 5.75,
+            "probabilite_modele": 17.8,
+            "ev_pct": 2.1
           }
         ]
       },
@@ -123,25 +146,36 @@
       "commence_time": "2026-10-15T16:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE AZ ALKMAAR",
-        "cote": 1.36,
+        "cote": 1.46,
         "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 2.58,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_domicile": 2.48,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Hajduk Split vs Ajax",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 2.2,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
-            "marche": "VICTOIRE HAPOEL BE'ER SHEVA",
-            "cote": 8.21,
-            "probabilite_modele": 12.4,
-            "ev_pct": 1.4
-          },
-          {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 51.5,
-            "ev_pct": 0.4
+            "cote": 2.01,
+            "probabilite_modele": 52.9,
+            "ev_pct": 6.4
           }
         ]
       },
@@ -151,24 +185,74 @@
       }
     },
     {
-      "match": "Hajduk Split vs Ajax",
-      "competition": "UEFA Europa Conference League",
+      "match": "Lech Poznań vs Bayer Leverkusen",
+      "competition": "UEFA Europa League",
       "commence_time": "2026-10-15T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
+        "pari": "VICTOIRE BAYER LEVERKUSEN",
+        "cote": 1.47,
+        "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 2.36,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 2.44,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 52.0,
+            "ev_pct": 10.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Lyon vs Crystal Palace",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 1.84,
+        "divergence_pinnacle_public_pct": -0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.23,
-            "probabilite_modele": 48.0,
-            "ev_pct": 6.8
+            "cote": 2.17,
+            "probabilite_modele": 50.9,
+            "ev_pct": 10.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Riga FC vs FC Kairat",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 85
+      },
+      "modele_b": {
+        "lambda_domicile": 1.68,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 52.7,
+            "ev_pct": 3.7
           }
         ]
       },
