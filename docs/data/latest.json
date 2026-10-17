@@ -1,90 +1,125 @@
 {
-  "generated_at": "2026-10-17T02:10:33.505290+00:00",
+  "generated_at": "2026-10-17T09:53:56.274754+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Boca Juniors vs Talleres",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-17T00:30:00Z",
+      "match": "Central Coast Mariners vs Newcastle Jets FC",
+      "competition": "A-League",
+      "commence_time": "2026-10-17T08:40:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.49,
+        "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.7,
-        "lambda_exterieur": 0.3,
-        "divergence_pinnacle_public_pct": null,
+        "lambda_domicile": 2.0,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": 26.2,
         "value_bets": [
           {
-            "marche": "VICTOIRE TALLERES",
-            "cote": 64.33,
-            "probabilite_modele": 2.5,
-            "ev_pct": 61.2
-          },
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.9,
-            "probabilite_modele": 35.4,
-            "ev_pct": 2.4
+            "marche": "VICTOIRE CENTRAL COAST MARINERS",
+            "cote": 4.25,
+            "probabilite_modele": 49.4,
+            "ev_pct": 110.1
           }
         ]
       },
-      "pinnacle_disponible": false,
+      "pinnacle_disponible": true,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
     },
     {
-      "match": "Necaxa vs Atlas",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-17T01:02:00Z",
+      "match": "1. FC Köln vs Hamburger SV",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-10-17T10:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE 1. FC KÖLN",
+        "cote": 1.45,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.9,
+        "lambda_exterieur": 0.78,
+        "divergence_pinnacle_public_pct": 2.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.75 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 49.9,
+            "ev_pct": 2.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Kashiwa Reysol vs Nagoya Grampus",
+      "competition": "J League",
+      "commence_time": "2026-10-17T10:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE KASHIWA REYSOL",
+        "cote": 1.66,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 49.1,
+            "ev_pct": 2.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Erzurum BB vs Eyüpspor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-10-17T10:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.6,
-        "lambda_exterieur": 1.96,
-        "divergence_pinnacle_public_pct": -0.0,
+        "lambda_domicile": 1.84,
+        "lambda_exterieur": 0.72,
+        "divergence_pinnacle_public_pct": 1.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Atlante FC vs Pumas",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-17T03:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": -1.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Tijuana vs Puebla",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-17T03:05:00Z",
+      "match": "VfL Wolfsburg vs 1. FC Heidenheim",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-17T11:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE TIJUANA",
-        "cote": 1.74,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.7,
-        "lambda_exterieur": 0.92,
-        "divergence_pinnacle_public_pct": 1.8,
+        "lambda_domicile": 2.34,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": 1.1,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 51.1,
-            "ev_pct": 3.5
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 48.1,
+            "ev_pct": 4.1
           }
         ]
       },
@@ -94,50 +129,87 @@
       }
     },
     {
-      "match": "Auckland FC vs Melbourne City",
-      "competition": "A-League",
-      "commence_time": "2026-10-17T04:00:00Z",
+      "match": "1. FC Kaiserslautern vs VfL Bochum",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-17T11:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 49.7,
+            "ev_pct": 5.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Dalian Yingbo vs Shenzhen Peng City FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-10-17T11:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 0.84,
+        "divergence_pinnacle_public_pct": 1.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.18,
+            "probabilite_modele": 52.6,
+            "ev_pct": 14.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Greuther Fürth vs Eintracht Braunschweig",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-17T11:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Shimizu S Pulse vs Gamba Osaka",
-      "competition": "J League",
-      "commence_time": "2026-10-17T04:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Tokyo Verdy vs FC Tokyo",
-      "competition": "J League",
-      "commence_time": "2026-10-17T05:00:00Z",
+      "match": "Kryliya Sovetov vs FC Fakel Voronezh",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-10-17T11:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.94,
-        "lambda_exterieur": 1.82,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.95,
+            "cote": 1.99,
             "probabilite_modele": 52.6,
-            "ev_pct": 2.4
+            "ev_pct": 4.6
           }
         ]
       },
@@ -145,49 +217,6 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
-    },
-    {
-      "match": "Hiroshima Sanfrecce FC vs Kyoto Purple Sanga",
-      "competition": "J League",
-      "commence_time": "2026-10-17T05:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE HIROSHIMA SANFRECCE FC",
-        "cote": 1.37,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 2.58,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": 1.5,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "JEF United Chiba vs Yokohama F Marinos",
-      "competition": "J League",
-      "commence_time": "2026-10-17T05:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.12,
-        "lambda_exterieur": 1.58,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Cerezo Osaka vs Kawasaki Frontale",
-      "competition": "J League",
-      "commence_time": "2026-10-17T06:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
     }
   ]
 }
