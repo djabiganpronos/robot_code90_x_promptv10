@@ -1,185 +1,40 @@
 {
-  "generated_at": "2026-10-19T17:58:11.999673+00:00",
+  "generated_at": "2026-10-19T22:00:21.413205+00:00",
   "erreur": null,
-  "nb_matchs": 15,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Monza vs Cagliari",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-10-19T16:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 3.44,
-        "lambda_exterieur": 0.4,
-        "divergence_pinnacle_public_pct": -5.3,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 36.36,
-            "probabilite_modele": 6.8,
-            "ev_pct": 145.5
-          },
-          {
-            "marche": "VICTOIRE CAGLIARI",
-            "cote": 112.57,
-            "probabilite_modele": 1.8,
-            "ev_pct": 98.2
-          },
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 46.5,
-            "ev_pct": 0.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Rodina Moscow vs Gazovik Orenburg",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-10-19T16:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.64,
-        "lambda_exterieur": 1.94,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE RODINA MOSCOW",
-            "cote": 5.2,
-            "probabilite_modele": 26.1,
-            "ev_pct": 35.8
-          },
-          {
-            "marche": "PLUS DE 3.0 BUTS",
-            "cote": 2.3,
-            "probabilite_modele": 50.9,
-            "ev_pct": 17.1
-          },
-          {
-            "marche": "VICTOIRE GAZOVIK ORENBURG",
-            "cote": 2.72,
-            "probabilite_modele": 39.7,
-            "ev_pct": 8.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Trabzonspor vs Besiktas JK",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-10-19T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.66,
-        "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 53.9,
-            "ev_pct": 17.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Degerfors IF vs Kalmar FF",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-10-19T17:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE KALMAR FF",
-        "cote": 1.39,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 3.12,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE DEGERFORS IF",
-            "cote": 8.48,
-            "probabilite_modele": 13.1,
-            "ev_pct": 10.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Viborg FF vs FC Midtjylland",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-10-19T17:00:00Z",
+      "match": "Sarmiento de Junin vs Barracas Central",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-19T22:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.86,
-        "lambda_exterieur": 0.82,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.2,
         "divergence_pinnacle_public_pct": -0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Wisła Płock vs Radomiak Radom",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-10-19T17:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.06,
-        "lambda_exterieur": 0.52,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Varbergs BoIS vs Helsingborgs IF",
-      "competition": "Superettan - Sweden",
-      "commence_time": "2026-10-19T17:05:00Z",
+      "match": "Newells Old Boys vs Central Córdoba",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-19T22:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.78,
+        "pari": "VICTOIRE NEWELLS OLD BOYS",
+        "cote": 1.66,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 0.7,
-        "divergence_pinnacle_public_pct": -2.2,
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 52.4,
-            "ev_pct": 2.0
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 48.9,
+            "ev_pct": 3.4
           }
         ]
       },
@@ -189,24 +44,64 @@
       }
     },
     {
-      "match": "Al-Shabab vs Al-Faisaly KSA FC",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-19T18:00:00Z",
+      "match": "Goiás vs Nautico PE",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-19T22:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.32,
-        "lambda_exterieur": 1.4,
+        "lambda_domicile": 1.82,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Corinthians vs Vitoria",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-19T23:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE CORINTHIANS",
+        "cote": 1.52,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 0.8,
+        "divergence_pinnacle_public_pct": 1.8,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 51.5,
+            "ev_pct": 5.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Deportivo Riestra vs Union Santa Fe",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-20T00:15:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 1.16,
         "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 51.4,
-            "ev_pct": 12.3
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 2.26,
+            "probabilite_modele": 49.7,
+            "ev_pct": 12.2
           }
         ]
       },
@@ -216,19 +111,104 @@
       }
     },
     {
-      "match": "Al-Hilal vs Al-Hazem",
+      "match": "Diriyah Club vs Al-Riyadh",
       "competition": "Saudi Pro League",
-      "commence_time": "2026-10-19T18:00:00Z",
-      "modele_a": null,
+      "commence_time": "2026-10-20T15:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE DIRIYAH CLUB",
+        "cote": 1.53,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 3.86,
-        "lambda_exterieur": 0.76,
-        "divergence_pinnacle_public_pct": 0.7,
+        "lambda_domicile": 1.84,
+        "lambda_exterieur": 0.84,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": [
           {
-            "marche": "MOINS DE 4.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 51.0,
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.19,
+            "probabilite_modele": 49.9,
+            "ev_pct": 9.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Al-Taawoun vs Al-Qadsiah",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-20T15:10:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 2.52,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.08,
+            "probabilite_modele": 51.8,
+            "ev_pct": 7.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Sabah FK vs Borussia Dortmund",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.04,
+        "lambda_exterieur": 2.78,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE SABAH FK",
+            "cote": 9.11,
+            "probabilite_modele": 11.2,
+            "ev_pct": 1.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Fenerbahce vs Slavia Praha",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FENERBAHCE",
+        "cote": 1.62,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.36,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.19,
+            "probabilite_modele": 49.1,
             "ev_pct": 7.7
           }
         ]
@@ -239,141 +219,18 @@
       }
     },
     {
-      "match": "Celta Fortuna vs Tenerife",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-10-19T18:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 51.0,
-            "ev_pct": 1.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Waterford FC vs Galway United",
-      "competition": "League of Ireland",
-      "commence_time": "2026-10-19T18:45:00Z",
+      "match": "IFK Norrkoping vs Örebro SK",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-10-20T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE WATERFORD FC",
-        "cote": 1.61,
+        "pari": "VICTOIRE IFK NORRKOPING",
+        "cote": 1.69,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.38,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": 1.4,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.0 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 51.7,
-            "ev_pct": 4.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Rodez AF vs Montpellier",
-      "competition": "Ligue 2 - France",
-      "commence_time": "2026-10-19T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": -1.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Parma vs Torino",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-10-19T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.33,
-            "probabilite_modele": 50.2,
-            "ev_pct": 17.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Tottenham Hotspur vs Coventry City",
-      "competition": "EPL",
-      "commence_time": "2026-10-19T19:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE TOTTENHAM HOTSPUR",
-        "cote": 1.57,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.34,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": 0.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 52.1,
-            "ev_pct": 16.0
-          },
-          {
-            "marche": "VICTOIRE COVENTRY CITY",
-            "cote": 5.67,
-            "probabilite_modele": 17.9,
-            "ev_pct": 1.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Derry City vs St Patricks Athletic",
-      "competition": "League of Ireland",
-      "commence_time": "2026-10-19T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.06,
-        "lambda_exterieur": 1.46,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 1.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
