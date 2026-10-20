@@ -1,115 +1,8 @@
 {
-  "generated_at": "2026-10-19T22:00:21.413205+00:00",
+  "generated_at": "2026-10-20T02:39:29.073567+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Sarmiento de Junin vs Barracas Central",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-19T22:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Newells Old Boys vs Central Córdoba",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-19T22:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE NEWELLS OLD BOYS",
-        "cote": 1.66,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 48.9,
-            "ev_pct": 3.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Goiás vs Nautico PE",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-19T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Corinthians vs Vitoria",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-19T23:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE CORINTHIANS",
-        "cote": 1.52,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.92,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 1.8,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 51.5,
-            "ev_pct": 5.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Deportivo Riestra vs Union Santa Fe",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-20T00:15:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.26,
-            "probabilite_modele": 49.7,
-            "ev_pct": 12.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Diriyah Club vs Al-Riyadh",
       "competition": "Saudi Pro League",
@@ -126,9 +19,9 @@
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.19,
+            "cote": 2.2,
             "probabilite_modele": 49.9,
-            "ev_pct": 9.3
+            "ev_pct": 9.7
           }
         ]
       },
@@ -143,19 +36,19 @@
       "commence_time": "2026-10-20T15:10:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 2.52,
-        "divergence_pinnacle_public_pct": -0.1,
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 2.54,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 51.8,
-            "ev_pct": 7.9
+            "cote": 2.11,
+            "probabilite_modele": 52.0,
+            "ev_pct": 9.8
           }
         ]
       },
@@ -176,13 +69,13 @@
       "modele_b": {
         "lambda_domicile": 1.04,
         "lambda_exterieur": 2.78,
-        "divergence_pinnacle_public_pct": 0.4,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
             "marche": "VICTOIRE SABAH FK",
-            "cote": 9.11,
-            "probabilite_modele": 11.2,
-            "ev_pct": 1.7
+            "cote": 9.1,
+            "probabilite_modele": 11.1,
+            "ev_pct": 1.4
           }
         ]
       },
@@ -203,13 +96,13 @@
       "modele_b": {
         "lambda_domicile": 2.36,
         "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": 1.0,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 49.1,
-            "ev_pct": 7.7
+            "cote": 2.15,
+            "probabilite_modele": 49.2,
+            "ev_pct": 5.9
           }
         ]
       },
@@ -228,12 +121,79 @@
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.74,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 1.1,
+        "lambda_domicile": 2.28,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "Al-Ettifaq vs Al-Ittihad",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-20T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 2.0,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Al-Nassr vs Neom",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-20T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.64,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": 1.3,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 52.6,
+            "ev_pct": 12.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "York City vs Accrington Stanley",
+      "competition": "League 2",
+      "commence_time": "2026-10-20T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE YORK CITY",
+        "cote": 1.7,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 49.4,
+            "ev_pct": 1.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
