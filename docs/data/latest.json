@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T02:39:29.073567+00:00",
+  "generated_at": "2026-10-20T10:40:00.661858+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -8,47 +8,37 @@
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-20T15:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE DIRIYAH CLUB",
-        "cote": 1.53,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.84,
-        "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 49.9,
-            "ev_pct": 9.7
-          }
-        ]
+        "lambda_domicile": 1.82,
+        "lambda_exterieur": 0.94,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Al-Taawoun vs Al-Qadsiah",
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-20T15:10:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
+        "pari": "VICTOIRE AL-QADSIAH",
+        "cote": 1.46,
+        "indice_fixe": 84
       },
       "modele_b": {
         "lambda_domicile": 1.22,
-        "lambda_exterieur": 2.54,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_exterieur": 2.5,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 52.0,
-            "ev_pct": 9.8
+            "cote": 2.14,
+            "probabilite_modele": 51.3,
+            "ev_pct": 9.9
           }
         ]
       },
@@ -61,21 +51,17 @@
       "match": "Sabah FK vs Borussia Dortmund",
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-20T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 2.78,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 0.9,
+        "lambda_exterieur": 2.68,
+        "divergence_pinnacle_public_pct": -0.9,
         "value_bets": [
           {
-            "marche": "VICTOIRE SABAH FK",
-            "cote": 9.1,
-            "probabilite_modele": 11.1,
-            "ev_pct": 1.4
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 1.98,
+            "probabilite_modele": 51.9,
+            "ev_pct": 2.8
           }
         ]
       },
@@ -89,20 +75,20 @@
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-20T16:45:00Z",
       "modele_a": {
-        "pari": "VICTOIRE FENERBAHCE",
-        "cote": 1.62,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.36,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 2.3,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 49.2,
-            "ev_pct": 5.9
+            "cote": 1.93,
+            "probabilite_modele": 53.0,
+            "ev_pct": 2.0
           }
         ]
       },
@@ -116,17 +102,27 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-10-20T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE IFK NORRKOPING",
-        "cote": 1.69,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.28,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": []
+        "lambda_domicile": 2.38,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 52.1,
+            "ev_pct": 3.4
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Al-Ettifaq vs Al-Ittihad",
@@ -134,8 +130,8 @@
       "commence_time": "2026-10-20T18:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 2.0,
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 2.06,
         "divergence_pinnacle_public_pct": 0.8,
         "value_bets": []
       },
@@ -147,19 +143,19 @@
       "commence_time": "2026-10-20T18:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.81,
+        "cote": 1.84,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.64,
+        "lambda_domicile": 2.6,
         "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": 1.3,
+        "divergence_pinnacle_public_pct": 1.1,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 52.6,
-            "ev_pct": 12.6
+            "cote": 2.16,
+            "probabilite_modele": 52.0,
+            "ev_pct": 12.4
           }
         ]
       },
@@ -174,19 +170,19 @@
       "commence_time": "2026-10-20T18:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE YORK CITY",
-        "cote": 1.7,
+        "cote": 1.71,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.74,
         "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 0.6,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 49.4,
-            "ev_pct": 1.9
+            "cote": 2.07,
+            "probabilite_modele": 49.5,
+            "ev_pct": 2.6
           }
         ]
       },
