@@ -1,121 +1,39 @@
 {
-  "generated_at": "2026-10-21T16:19:11.950242+00:00",
+  "generated_at": "2026-10-21T21:02:42.247007+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 16,
   "matchs": [
-    {
-      "match": "PK-35 vs Jaro",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-21T15:32:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.8,
-        "lambda_exterieur": 1.94,
-        "divergence_pinnacle_public_pct": -1.4,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.34,
-            "probabilite_modele": 53.6,
-            "ev_pct": 25.5
-          },
-          {
-            "marche": "VICTOIRE JARO",
-            "cote": 2.94,
-            "probabilite_modele": 37.2,
-            "ev_pct": 9.4
-          },
-          {
-            "marche": "VICTOIRE PK-35",
-            "cote": 3.31,
-            "probabilite_modele": 31.1,
-            "ev_pct": 3.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Como vs Manchester United",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-21T16:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.86,
-        "lambda_exterieur": 1.74,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Lille vs Galatasaray",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-21T16:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.88,
-        "lambda_exterieur": 1.8,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 49.0,
-            "ev_pct": 3.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Levante vs Athletic Bilbao",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-10-21T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Bayern Munich vs Arsenal",
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-21T19:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.43,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.98,
-        "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 0.23,
+        "lambda_exterieur": 0.21,
+        "divergence_pinnacle_public_pct": 12.4,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 48.7,
-            "ev_pct": 2.4
+            "marche": "VICTOIRE BAYERN MUNICH",
+            "cote": 19.42,
+            "probabilite_modele": 17.1,
+            "ev_pct": 232.8
           },
           {
             "marche": "VICTOIRE ARSENAL",
-            "cote": 3.05,
-            "probabilite_modele": 33.0,
-            "ev_pct": 0.4
+            "cote": 16.65,
+            "probabilite_modele": 15.4,
+            "ev_pct": 156.7
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 12.31,
+            "probabilite_modele": 16.3,
+            "ev_pct": 101.1
           }
         ]
       },
@@ -128,27 +46,31 @@
       "match": "Aston Villa vs Viking FK",
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-21T19:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 3.42,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 4.0,
+        "lambda_exterieur": 0.15,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 4.0 BUTS",
-            "cote": 2.43,
-            "probabilite_modele": 48.5,
-            "ev_pct": 17.8
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 8.32,
+            "probabilite_modele": 40.3,
+            "ev_pct": 235.7
           },
           {
-            "marche": "VICTOIRE VIKING FK",
-            "cote": 10.33,
-            "probabilite_modele": 10.2,
-            "ev_pct": 5.1
+            "marche": "NUL",
+            "cote": 44.33,
+            "probabilite_modele": 2.7,
+            "ev_pct": 18.5
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -159,23 +81,29 @@
       "commence_time": "2026-10-21T19:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 88
+        "cote": 1.45,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.08,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 2.92,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 53.0,
-            "ev_pct": 7.9
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 11.94,
+            "probabilite_modele": 33.9,
+            "ev_pct": 305.1
+          },
+          {
+            "marche": "NUL",
+            "cote": 44.33,
+            "probabilite_modele": 5.9,
+            "ev_pct": 161.9
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -185,20 +113,32 @@
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-21T19:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE REAL BETIS",
-        "cote": 1.64,
-        "indice_fixe": 78
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.37,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.38,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": -10.1,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 47.7,
-            "ev_pct": 5.9
+            "marche": "VICTOIRE FEYENOORD",
+            "cote": 295.12,
+            "probabilite_modele": 1.5,
+            "ev_pct": 346.4
+          },
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 9.53,
+            "probabilite_modele": 36.7,
+            "ev_pct": 249.7
+          },
+          {
+            "marche": "NUL",
+            "cote": 14.97,
+            "probabilite_modele": 19.8,
+            "ev_pct": 196.7
           }
         ]
       },
@@ -211,17 +151,334 @@
       "match": "Inter Milan vs Shakhtar Donetsk",
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-21T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.44,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": -11.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 8.6,
+            "probabilite_modele": 38.4,
+            "ev_pct": 230.1
+          },
+          {
+            "marche": "NUL",
+            "cote": 13.15,
+            "probabilite_modele": 20.9,
+            "ev_pct": 174.2
+          },
+          {
+            "marche": "VICTOIRE SHAKHTAR DONETSK",
+            "cote": 133.8,
+            "probabilite_modele": 1.8,
+            "ev_pct": 144.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Sporting Lisbon vs LASK",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-10-21T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.04,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE SPORTING LISBON",
+            "cote": 116.21,
+            "probabilite_modele": 3.2,
+            "ev_pct": 270.2
+          },
+          {
+            "marche": "PLUS DE 5.5 BUTS",
+            "cote": 6.45,
+            "probabilite_modele": 42.9,
+            "ev_pct": 176.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Reading vs Leyton Orient",
+      "competition": "League 1",
+      "commence_time": "2026-10-21T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.35,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 13.38,
+            "probabilite_modele": 37.9,
+            "ev_pct": 407.2
+          },
+          {
+            "marche": "NUL",
+            "cote": 9.87,
+            "probabilite_modele": 22.4,
+            "ev_pct": 121.2
+          },
+          {
+            "marche": "VICTOIRE LEYTON ORIENT",
+            "cote": 123.33,
+            "probabilite_modele": 1.1,
+            "ev_pct": 36.6
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Real Madrid vs RB Leipzig",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-10-21T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.04,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 3.26,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 426.6,
+            "probabilite_modele": 4.3,
+            "ev_pct": 1722.2
+          },
+          {
+            "marche": "PLUS DE 5.5 BUTS",
+            "cote": 10.28,
+            "probabilite_modele": 11.8,
+            "ev_pct": 21.6
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Montevideo City Torque vs Clube Atlético Mineiro",
+      "competition": "Copa Sudamericana",
+      "commence_time": "2026-10-21T22:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.78,
-        "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": -1.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 48.0,
+            "ev_pct": 2.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Cincinnati vs D.C. United",
+      "competition": "MLS",
+      "commence_time": "2026-10-21T23:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FC CINCINNATI",
+        "cote": 1.59,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.3,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 50.6,
-            "ev_pct": 11.0
+            "cote": 2.29,
+            "probabilite_modele": 52.3,
+            "ev_pct": 19.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Palmeiras-SP vs Fluminense-RJ",
+      "competition": "Copa Libertadores",
+      "commence_time": "2026-10-22T00:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.18,
+            "probabilite_modele": 45.9,
+            "ev_pct": 0.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Atlas vs América",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-22T01:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 1.96,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 53.1,
+            "ev_pct": 12.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Puebla vs Monterrey",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-22T01:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.0,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 51.8,
+            "ev_pct": 5.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Toluca vs Tijuana",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-22T01:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.66,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 51.1,
+            "ev_pct": 5.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Pachuca vs Cruz Azul",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.92,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.15,
+            "probabilite_modele": 51.8,
+            "ev_pct": 11.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Santos Laguna vs Pumas",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 1.64,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.15,
+            "probabilite_modele": 51.8,
+            "ev_pct": 11.2
           }
         ]
       },
