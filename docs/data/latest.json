@@ -1,57 +1,82 @@
 {
-  "generated_at": "2026-10-22T10:51:59.131412+00:00",
+  "generated_at": "2026-10-22T16:18:08.289210+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
-    {
-      "match": "Al-Hazem vs Al-Fayha",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-22T13:40:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.48,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "FC Kairat vs Panathinaikos FC",
       "competition": "UEFA Europa Conference League",
       "commence_time": "2026-10-22T14:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE PANATHINAIKOS FC",
-        "cote": 1.64,
-        "indice_fixe": 78
+        "pari": "MOINS DE 6.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.92,
-        "lambda_exterieur": 1.82,
-        "divergence_pinnacle_public_pct": -0.6,
-        "value_bets": []
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE FC KAIRAT",
+            "cote": 50.67,
+            "probabilite_modele": 7.8,
+            "ev_pct": 295.7
+          },
+          {
+            "marche": "NUL",
+            "cote": 30.67,
+            "probabilite_modele": 9.5,
+            "ev_pct": 191.5
+          },
+          {
+            "marche": "PLUS DE 6.5 BUTS",
+            "cote": 2.99,
+            "probabilite_modele": 38.6,
+            "ev_pct": 15.5
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Al-Fateh vs Al-Shabab",
       "competition": "Saudi Pro League",
-      "commence_time": "2026-10-22T14:45:00Z",
-      "modele_a": null,
+      "commence_time": "2026-10-22T14:46:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.25 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.66,
-        "lambda_exterieur": 2.02,
-        "divergence_pinnacle_public_pct": -1.0,
+        "lambda_domicile": 1.06,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 50.6,
-            "ev_pct": 10.9
+            "marche": "VICTOIRE AL-FATEH",
+            "cote": 43.56,
+            "probabilite_modele": 5.2,
+            "ev_pct": 126.0
+          },
+          {
+            "marche": "MOINS DE 5.25 BUTS",
+            "cote": 2.54,
+            "probabilite_modele": 57.5,
+            "ev_pct": 46.5
+          },
+          {
+            "marche": "NUL",
+            "cote": 13.06,
+            "probabilite_modele": 7.9,
+            "ev_pct": 3.7
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -61,27 +86,17 @@
       "competition": "UEFA Europa League",
       "commence_time": "2026-10-22T16:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
+        "pari": "VICTOIRE AZ ALKMAAR",
+        "cote": 1.4,
+        "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 2.52,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 52.7,
-            "ev_pct": 1.0
-          }
-        ]
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 2.56,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "OFI Crete vs Bayer Leverkusen",
@@ -90,14 +105,14 @@
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 0.8,
-        "lambda_exterieur": 2.9,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_exterieur": 2.88,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.24,
-            "probabilite_modele": 49.3,
-            "ev_pct": 10.4
+            "cote": 2.22,
+            "probabilite_modele": 49.8,
+            "ev_pct": 10.7
           }
         ]
       },
@@ -112,21 +127,15 @@
       "commence_time": "2026-10-22T16:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.78,
-        "lambda_exterieur": 2.94,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 0.82,
+        "lambda_exterieur": 2.92,
+        "divergence_pinnacle_public_pct": -0.0,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 48.9,
-            "ev_pct": 2.0
-          },
-          {
-            "marche": "VICTOIRE FK JABLONEC",
-            "cote": 14.95,
-            "probabilite_modele": 6.8,
-            "ev_pct": 1.5
+            "cote": 2.11,
+            "probabilite_modele": 48.6,
+            "ev_pct": 2.6
           }
         ]
       },
@@ -140,20 +149,20 @@
       "competition": "UEFA Europa League",
       "commence_time": "2026-10-22T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.84,
+        "pari": "VICTOIRE DINAMO ZAGREB",
+        "cote": 1.54,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.52,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 2.4,
+        "lambda_exterieur": 1.24,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": [
           {
             "marche": "PLUS DE 3.0 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 52.7,
-            "ev_pct": 5.8
+            "cote": 2.05,
+            "probabilite_modele": 49.5,
+            "ev_pct": 1.4
           }
         ]
       },
@@ -168,15 +177,102 @@
       "commence_time": "2026-10-22T16:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.92,
-        "lambda_exterieur": 1.68,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 51.0,
-            "ev_pct": 6.2
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.01,
+            "probabilite_modele": 51.8,
+            "ev_pct": 4.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Iberia 1999 vs Mjällby AIF",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.01,
+            "probabilite_modele": 52.3,
+            "ev_pct": 5.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Getafe vs FC Lugano",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.21,
+            "probabilite_modele": 46.4,
+            "ev_pct": 2.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Nordsjaelland vs PFC CSKA Sofia",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.58,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE PFC CSKA SOFIA",
+            "cote": 6.96,
+            "probabilite_modele": 14.7,
+            "ev_pct": 2.4
+          },
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 47.9,
+            "ev_pct": 1.1
           }
         ]
       },
