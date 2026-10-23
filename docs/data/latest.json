@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-10-23T16:07:49.994578+00:00",
+  "generated_at": "2026-10-23T20:48:57.027425+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 18,
   "matchs": [
     {
-      "match": "Al-Ittihad vs Diriyah Club",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-23T15:30:00Z",
+      "match": "Brest vs Nice",
+      "competition": "Ligue 1 - France",
+      "commence_time": "2026-10-23T18:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.38,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.34,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": -15.8,
+        "lambda_domicile": 0.05,
+        "lambda_exterieur": 2.26,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
-            "marche": "VICTOIRE DIRIYAH CLUB",
-            "cote": 9.62,
-            "probabilite_modele": 20.6,
-            "ev_pct": 98.2
+            "marche": "VICTOIRE BREST",
+            "cote": 358.58,
+            "probabilite_modele": 0.8,
+            "ev_pct": 173.2
           },
           {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.25,
-            "probabilite_modele": 51.9,
-            "ev_pct": 16.8
+            "marche": "VICTOIRE NICE",
+            "cote": 1.47,
+            "probabilite_modele": 88.4,
+            "ev_pct": 29.8
           },
           {
             "marche": "NUL",
-            "cote": 5.04,
-            "probabilite_modele": 21.6,
-            "ev_pct": 9.0
+            "cote": 10.93,
+            "probabilite_modele": 10.8,
+            "ev_pct": 17.7
           }
         ]
       },
@@ -43,103 +43,162 @@
       }
     },
     {
-      "match": "Motor Lublin vs Zagłębie Lubin",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-10-23T16:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": 1.7,
-        "value_bets": []
+      "match": "Derry City vs Dundalk",
+      "competition": "League of Ireland",
+      "commence_time": "2026-10-23T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.02,
+        "indice_fixe": 82
       },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "RB Leipzig vs Bayern Munich",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-10-23T16:30:00Z",
-      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.68,
-        "lambda_exterieur": 3.04,
-        "divergence_pinnacle_public_pct": -0.0,
+        "lambda_domicile": 2.14,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 49.0,
-            "ev_pct": 0.5
+            "marche": "NUL",
+            "cote": 14.0,
+            "probabilite_modele": 12.4,
+            "ev_pct": 73.9
+          },
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 8.64,
+            "probabilite_modele": 17.9,
+            "ev_pct": 54.5
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
     },
     {
-      "match": "FC Akhmat Grozny vs Gazovik Orenburg",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-10-23T16:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.58,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 1.5,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "SV Darmstadt 98 vs FC St. Pauli",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-10-23T16:30:00Z",
+      "match": "Torino vs Monza",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-10-23T18:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.22,
+        "indice_fixe": 88
       },
       "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "VfL Bochum vs VfL Wolfsburg",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-10-23T16:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.74,
-        "lambda_exterieur": 2.0,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Alanyaspor vs Kocaelispor",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-10-23T17:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": -1.3,
+        "lambda_domicile": 3.16,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 44.33,
+            "probabilite_modele": 4.7,
+            "ev_pct": 108.3
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 9.28,
+            "probabilite_modele": 21.6,
+            "ev_pct": 100.1
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Waterford FC vs Drogheda United",
+      "competition": "League of Ireland",
+      "commence_time": "2026-10-23T18:46:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.09,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.86,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 38.0,
+            "probabilite_modele": 6.3,
+            "ev_pct": 137.7
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Bohemians vs Shelbourne Dublin",
+      "competition": "League of Ireland",
+      "commence_time": "2026-10-23T18:52:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.24,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.05,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 10.56,
+            "probabilite_modele": 31.7,
+            "ev_pct": 234.9
+          },
+          {
+            "marche": "NUL",
+            "cote": 6.08,
+            "probabilite_modele": 26.6,
+            "ev_pct": 61.8
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Alavés vs Málaga",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-10-23T19:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE MÁLAGA",
+        "cote": 1.45,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 0.66,
+        "lambda_exterieur": 1.88,
+        "divergence_pinnacle_public_pct": -1.1,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE MÁLAGA",
+            "cote": 10.11,
+            "probabilite_modele": 66.2,
+            "ev_pct": 568.8
+          },
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 48.3,
-            "ev_pct": 5.7
+            "cote": 4.67,
+            "probabilite_modele": 47.5,
+            "ev_pct": 121.9
+          },
+          {
+            "marche": "VICTOIRE ALAVÉS",
+            "cote": 22.16,
+            "probabilite_modele": 9.9,
+            "ev_pct": 120.5
           }
         ]
       },
@@ -149,24 +208,75 @@
       }
     },
     {
-      "match": "Randers FC vs Brondby IF",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-10-23T17:00:00Z",
+      "match": "Bolton Wanderers vs Middlesbrough",
+      "competition": "Championship",
+      "commence_time": "2026-10-23T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
+        "pari": "PLUS DE 6.5 BUTS",
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 2.16,
-        "divergence_pinnacle_public_pct": 1.0,
+        "lambda_domicile": 1.48,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "VICTOIRE RANDERS FC",
-            "cote": 3.64,
-            "probabilite_modele": 27.6,
-            "ev_pct": 0.5
+            "marche": "VICTOIRE BOLTON WANDERERS",
+            "cote": 50.67,
+            "probabilite_modele": 9.0,
+            "ev_pct": 355.2
+          },
+          {
+            "marche": "NUL",
+            "cote": 30.67,
+            "probabilite_modele": 10.1,
+            "ev_pct": 209.1
+          },
+          {
+            "marche": "PLUS DE 6.5 BUTS",
+            "cote": 4.07,
+            "probabilite_modele": 42.2,
+            "ev_pct": 71.6
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Ipswich Town vs Nottingham Forest",
+      "competition": "EPL",
+      "commence_time": "2026-10-23T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.3,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.15,
+        "lambda_exterieur": 0.21,
+        "divergence_pinnacle_public_pct": 1.3,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE IPSWICH TOWN",
+            "cote": 10.62,
+            "probabilite_modele": 10.8,
+            "ev_pct": 14.2
+          },
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.21,
+            "probabilite_modele": 86.8,
+            "ev_pct": 5.0
+          },
+          {
+            "marche": "VICTOIRE NOTTINGHAM FOREST",
+            "cote": 6.32,
+            "probabilite_modele": 16.5,
+            "ev_pct": 4.3
           }
         ]
       },
@@ -176,41 +286,225 @@
       }
     },
     {
-      "match": "IK Oddevold vs GIF Sundsvall",
-      "competition": "Superettan - Sweden",
-      "commence_time": "2026-10-23T17:00:00Z",
+      "match": "Shamrock Rovers vs Sligo Rovers",
+      "competition": "League of Ireland",
+      "commence_time": "2026-10-23T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.36,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.06,
-        "lambda_exterieur": 0.7,
-        "divergence_pinnacle_public_pct": 0.7,
+        "lambda_domicile": 3.32,
+        "lambda_exterieur": 0.32,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 7.51,
+            "probabilite_modele": 30.0,
+            "ev_pct": 125.3
+          },
+          {
+            "marche": "NUL",
+            "cote": 21.0,
+            "probabilite_modele": 6.2,
+            "ev_pct": 31.2
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Vitória SC vs CS Maritimo",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-10-23T19:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.18,
+        "lambda_exterieur": 0.46,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Västerås SK vs Halmstads BK",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-10-23T17:00:00Z",
+      "match": "Gimnasia La Plata vs Sarmiento de Junin",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-23T21:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE VÄSTERÅS SK",
-        "cote": 1.68,
+        "pari": "VICTOIRE GIMNASIA LA PLATA",
+        "cote": 1.63,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.78,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.84,
+        "lambda_exterieur": 0.9,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Gimnasia Mendoza vs Platense",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 88
+      },
+      "modele_b": {
+        "lambda_domicile": 1.28,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Operario PR vs Athletic Club (MG)",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-23T22:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 49.6,
+            "ev_pct": 0.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Audax Italiano vs Huachipato",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-10-23T23:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 48.6,
-            "ev_pct": 2.5
+            "cote": 1.97,
+            "probabilite_modele": 52.3,
+            "ev_pct": 3.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Cruzeiro vs Remo",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-23T23:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.64,
+        "lambda_exterieur": 0.9,
+        "divergence_pinnacle_public_pct": 1.9,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 1.95,
+            "probabilite_modele": 52.6,
+            "ev_pct": 2.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Sport Recife vs Criciuma",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-24T00:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "CA Tigre BA vs Atlético Tucuman",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-24T00:15:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE CA TIGRE BA",
+        "cote": 1.76,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.72,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 2.21,
+            "probabilite_modele": 49.7,
+            "ev_pct": 9.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Necaxa vs FC Juárez",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-24T01:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE NECAXA",
+        "cote": 1.73,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.72,
+        "lambda_exterieur": 0.94,
+        "divergence_pinnacle_public_pct": 1.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 50.2,
+            "ev_pct": 4.7
           }
         ]
       },
