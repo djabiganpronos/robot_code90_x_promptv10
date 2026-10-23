@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-10-23T02:35:02.181871+00:00",
+  "generated_at": "2026-10-23T10:43:06.242274+00:00",
   "erreur": null,
   "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Flamengo-RJ vs Estudiantes La Plata",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-10-23T00:30:00Z",
+      "match": "Brisbane Roar vs Perth Glory",
+      "competition": "A-League",
+      "commence_time": "2026-10-23T09:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.42,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.71,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.36,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": 19.6,
+        "lambda_domicile": 2.68,
+        "lambda_exterieur": 0.68,
+        "divergence_pinnacle_public_pct": -5.5,
         "value_bets": [
           {
-            "marche": "PLUS DE 0.5 BUTS",
-            "cote": 10.5,
-            "probabilite_modele": 33.2,
-            "ev_pct": 248.4
+            "marche": "VICTOIRE PERTH GLORY",
+            "cote": 58.43,
+            "probabilite_modele": 5.0,
+            "ev_pct": 193.9
           },
           {
-            "marche": "VICTOIRE FLAMENGO-RJ",
-            "cote": 9.06,
-            "probabilite_modele": 29.3,
-            "ev_pct": 165.8
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 3.19,
+            "probabilite_modele": 43.5,
+            "ev_pct": 38.8
           },
           {
-            "marche": "VICTOIRE ESTUDIANTES LA PLATA",
-            "cote": 39.35,
-            "probabilite_modele": 3.6,
-            "ev_pct": 43.5
+            "marche": "NUL",
+            "cote": 6.89,
+            "probabilite_modele": 15.5,
+            "ev_pct": 6.5
           }
         ]
       },
@@ -43,31 +43,18 @@
       }
     },
     {
-      "match": "Brisbane Roar vs Perth Glory",
-      "competition": "A-League",
-      "commence_time": "2026-10-23T09:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": -1.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
       "match": "Al-Faisaly KSA FC vs Al-Nassr",
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-23T13:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.94,
-        "lambda_exterieur": 2.8,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 0.9,
+        "lambda_exterieur": 2.88,
+        "divergence_pinnacle_public_pct": 0.4,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -76,17 +63,21 @@
       "match": "Al-Ittihad vs Diriyah Club",
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-23T15:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 2.08,
+        "lambda_domicile": 2.26,
         "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": 2.1,
+        "divergence_pinnacle_public_pct": 2.4,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.23,
-            "probabilite_modele": 48.7,
-            "ev_pct": 8.6
+            "cote": 2.19,
+            "probabilite_modele": 52.5,
+            "ev_pct": 15.2
           }
         ]
       },
@@ -99,15 +90,11 @@
       "match": "Motor Lublin vs Zagłębie Lubin",
       "competition": "Ekstraklasa - Poland",
       "commence_time": "2026-10-23T16:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.64,
+        "lambda_domicile": 1.62,
         "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": 1.4,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -117,27 +104,17 @@
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-10-23T16:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.25 BUTS",
-        "cote": 1.81,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.88,
-        "lambda_exterieur": 2.86,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE RB LEIPZIG",
-            "cote": 11.25,
-            "probabilite_modele": 8.9,
-            "ev_pct": 0.6
-          }
-        ]
+        "lambda_domicile": 0.72,
+        "lambda_exterieur": 3.02,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "FC Akhmat Grozny vs Gazovik Orenburg",
@@ -146,8 +123,8 @@
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.58,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": 1.2,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -156,24 +133,18 @@
       "match": "SV Darmstadt 98 vs FC St. Pauli",
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-10-23T16:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.5,
-        "divergence_pinnacle_public_pct": -1.9,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 49.5,
-            "ev_pct": 3.4
-          }
-        ]
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "modele_b": {
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.48,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     },
     {
       "match": "VfL Bochum vs VfL Wolfsburg",
@@ -181,12 +152,35 @@
       "commence_time": "2026-10-23T16:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 2.12,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 2.06,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "Alanyaspor vs Kocaelispor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-10-23T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.0,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 48.9,
+            "ev_pct": 5.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
