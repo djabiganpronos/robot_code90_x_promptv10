@@ -1,64 +1,8 @@
 {
-  "generated_at": "2026-10-23T10:43:06.242274+00:00",
+  "generated_at": "2026-10-23T16:07:49.994578+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 10,
   "matchs": [
-    {
-      "match": "Brisbane Roar vs Perth Glory",
-      "competition": "A-League",
-      "commence_time": "2026-10-23T09:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.68,
-        "lambda_exterieur": 0.68,
-        "divergence_pinnacle_public_pct": -5.5,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE PERTH GLORY",
-            "cote": 58.43,
-            "probabilite_modele": 5.0,
-            "ev_pct": 193.9
-          },
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 3.19,
-            "probabilite_modele": 43.5,
-            "ev_pct": 38.8
-          },
-          {
-            "marche": "NUL",
-            "cote": 6.89,
-            "probabilite_modele": 15.5,
-            "ev_pct": 6.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Al-Faisaly KSA FC vs Al-Nassr",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-23T13:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.9,
-        "lambda_exterieur": 2.88,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Al-Ittihad vs Diriyah Club",
       "competition": "Saudi Pro League",
@@ -69,15 +13,27 @@
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.26,
-        "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": 2.4,
+        "lambda_domicile": 2.34,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": -15.8,
         "value_bets": [
           {
+            "marche": "VICTOIRE DIRIYAH CLUB",
+            "cote": 9.62,
+            "probabilite_modele": 20.6,
+            "ev_pct": 98.2
+          },
+          {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 52.5,
-            "ev_pct": 15.2
+            "cote": 2.25,
+            "probabilite_modele": 51.9,
+            "ev_pct": 16.8
+          },
+          {
+            "marche": "NUL",
+            "cote": 5.04,
+            "probabilite_modele": 21.6,
+            "ev_pct": 9.0
           }
         ]
       },
@@ -92,9 +48,9 @@
       "commence_time": "2026-10-23T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": 1.0,
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": 1.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -103,18 +59,24 @@
       "match": "RB Leipzig vs Bayern Munich",
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-10-23T16:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.72,
-        "lambda_exterieur": 3.02,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": []
+        "lambda_domicile": 0.68,
+        "lambda_exterieur": 3.04,
+        "divergence_pinnacle_public_pct": -0.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 49.0,
+            "ev_pct": 0.5
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "FC Akhmat Grozny vs Gazovik Orenburg",
@@ -124,7 +86,7 @@
       "modele_b": {
         "lambda_domicile": 1.58,
         "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.6,
+        "divergence_pinnacle_public_pct": 1.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -141,7 +103,7 @@
       "modele_b": {
         "lambda_domicile": 1.26,
         "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": -0.5,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -150,11 +112,15 @@
       "match": "VfL Bochum vs VfL Wolfsburg",
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-10-23T16:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.66,
-        "lambda_exterieur": 2.06,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 2.0,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -165,15 +131,86 @@
       "commence_time": "2026-10-23T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": -1.3,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 48.9,
-            "ev_pct": 5.6
+            "cote": 2.19,
+            "probabilite_modele": 48.3,
+            "ev_pct": 5.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Randers FC vs Brondby IF",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-10-23T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 2.16,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE RANDERS FC",
+            "cote": 3.64,
+            "probabilite_modele": 27.6,
+            "ev_pct": 0.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "IK Oddevold vs GIF Sundsvall",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-10-23T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.06,
+        "lambda_exterieur": 0.7,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Västerås SK vs Halmstads BK",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-10-23T17:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE VÄSTERÅS SK",
+        "cote": 1.68,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.78,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 48.6,
+            "ev_pct": 2.5
           }
         ]
       },
