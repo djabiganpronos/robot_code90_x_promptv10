@@ -1,24 +1,36 @@
 {
-  "generated_at": "2026-10-26T11:53:11.922694+00:00",
+  "generated_at": "2026-10-26T17:55:42.256723+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
       "match": "Besiktas JK vs Basaksehir",
       "competition": "Turkey Super League",
       "commence_time": "2026-10-26T16:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE BESIKTAS JK",
-        "cote": 1.38,
-        "indice_fixe": 84
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.64,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": []
+        "lambda_domicile": 2.7,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 8.96,
+            "probabilite_modele": 51.3,
+            "ev_pct": 359.0
+          },
+          {
+            "marche": "NUL",
+            "cote": 18.81,
+            "probabilite_modele": 7.3,
+            "ev_pct": 37.1
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Çaykur Rizespor vs Trabzonspor",
@@ -26,15 +38,27 @@
       "commence_time": "2026-10-26T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 2.18,
-        "divergence_pinnacle_public_pct": -0.0,
+        "lambda_domicile": 3.6,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": 16.3,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 48.5,
-            "ev_pct": 0.9
+            "marche": "VICTOIRE ÇAYKUR RIZESPOR",
+            "cote": 427.6,
+            "probabilite_modele": 26.2,
+            "ev_pct": 11103.6
+          },
+          {
+            "marche": "NUL",
+            "cote": 21.52,
+            "probabilite_modele": 34.1,
+            "ev_pct": 634.4
+          },
+          {
+            "marche": "PLUS DE 7.5 BUTS",
+            "cote": 9.62,
+            "probabilite_modele": 49.8,
+            "ev_pct": 379.5
           }
         ]
       },
@@ -48,20 +72,20 @@
       "competition": "Denmark Superliga",
       "commence_time": "2026-10-26T18:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE FC COPENHAGEN",
-        "cote": 1.44,
-        "indice_fixe": 84
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.52,
-        "lambda_exterieur": 1.14,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 2.62,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 50.0,
-            "ev_pct": 3.0
+            "cote": 2.01,
+            "probabilite_modele": 52.7,
+            "ev_pct": 5.8
           }
         ]
       },
@@ -76,15 +100,15 @@
       "commence_time": "2026-10-26T18:05:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 1.34,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": 1.8,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 49.9,
-            "ev_pct": 1.6
+            "cote": 2.02,
+            "probabilite_modele": 50.1,
+            "ev_pct": 1.1
           }
         ]
       },
@@ -97,74 +121,154 @@
       "match": "Galatasaray vs Fenerbahce",
       "competition": "Turkey Super League",
       "commence_time": "2026-10-26T18:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.02,
-        "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": []
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 2.16,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 52.7,
+            "ev_pct": 9.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Santa Clara vs Benfica",
       "competition": "Primeira Liga - Portugal",
       "commence_time": "2026-10-26T18:45:00Z",
       "modele_a": {
-        "pari": "VICTOIRE BENFICA",
-        "cote": 1.35,
-        "indice_fixe": 84
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.66,
-        "lambda_exterieur": 2.1,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": []
+        "lambda_domicile": 1.12,
+        "lambda_exterieur": 2.7,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 46.8,
+            "ev_pct": 0.1
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Andorra CF vs Burgos CF",
       "competition": "La Liga 2 - Spain",
       "commence_time": "2026-10-26T19:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.25 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": -0.4,
-        "value_bets": []
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 1.93,
+            "probabilite_modele": 52.8,
+            "ev_pct": 1.7
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Paris Saint Germain vs Lyon",
       "competition": "Ligue 1 - France",
       "commence_time": "2026-10-26T19:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE PARIS SAINT GERMAIN",
-        "cote": 1.36,
-        "indice_fixe": 84
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.02,
-        "lambda_exterieur": 0.6,
+        "lambda_domicile": 2.12,
+        "lambda_exterieur": 0.62,
         "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 51.4,
-            "ev_pct": 8.7
+            "cote": 2.2,
+            "probabilite_modele": 48.6,
+            "ev_pct": 6.9
           },
           {
             "marche": "NUL",
-            "cote": 5.68,
-            "probabilite_modele": 18.2,
-            "ev_pct": 3.3
+            "cote": 5.74,
+            "probabilite_modele": 17.5,
+            "ev_pct": 0.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Boulogne vs Stade de Reims",
+      "competition": "Ligue 2 - France",
+      "commence_time": "2026-10-26T19:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 49.4,
+            "ev_pct": 2.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Montpellier vs Red Star",
+      "competition": "Ligue 2 - France",
+      "commence_time": "2026-10-26T19:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.98,
+            "probabilite_modele": 52.8,
+            "ev_pct": 4.7
           }
         ]
       },
