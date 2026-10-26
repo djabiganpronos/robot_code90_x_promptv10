@@ -1,415 +1,37 @@
 {
-  "generated_at": "2026-10-25T20:09:30.007741+00:00",
+  "generated_at": "2026-10-26T02:21:14.431923+00:00",
   "erreur": null,
-  "nb_matchs": 17,
+  "nb_matchs": 13,
   "matchs": [
-    {
-      "match": "Nacional vs Braga",
-      "competition": "Primeira Liga - Portugal",
-      "commence_time": "2026-10-25T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.22,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE BRAGA",
-            "cote": 336.08,
-            "probabilite_modele": 1.2,
-            "ev_pct": 302.4
-          },
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 8.5,
-            "probabilite_modele": 32.5,
-            "ev_pct": 176.5
-          },
-          {
-            "marche": "NUL",
-            "cote": 10.66,
-            "probabilite_modele": 24.2,
-            "ev_pct": 157.8
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Union La Calera vs Universidad Católica (CHI)",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-10-25T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.26,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.56,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 7.98,
-            "probabilite_modele": 25.7,
-            "ev_pct": 104.9
-          },
-          {
-            "marche": "VICTOIRE UNIVERSIDAD CATÓLICA (CHI)",
-            "cote": 509.33,
-            "probabilite_modele": 0.4,
-            "ev_pct": 104.5
-          },
-          {
-            "marche": "NUL",
-            "cote": 15.25,
-            "probabilite_modele": 8.3,
-            "ev_pct": 27.0
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Molde vs Fredrikstad FK",
-      "competition": "Eliteserien - Norway",
-      "commence_time": "2026-10-25T18:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 6.5 BUTS",
-        "cote": 1.45,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 30.67,
-            "probabilite_modele": 7.3,
-            "ev_pct": 123.3
-          },
-          {
-            "marche": "VICTOIRE FREDRIKSTAD FK",
-            "cote": 50.67,
-            "probabilite_modele": 4.3,
-            "ev_pct": 116.7
-          },
-          {
-            "marche": "PLUS DE 6.5 BUTS",
-            "cote": 7.26,
-            "probabilite_modele": 28.3,
-            "ev_pct": 105.4
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Union Saint-Gilloise vs Cercle Brugge KSV",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-10-25T18:17:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 7.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CERCLE BRUGGE KSV",
-            "cote": 91.62,
-            "probabilite_modele": 9.6,
-            "ev_pct": 779.3
-          },
-          {
-            "marche": "PLUS DE 7.5 BUTS",
-            "cote": 7.51,
-            "probabilite_modele": 33.7,
-            "ev_pct": 152.9
-          },
-          {
-            "marche": "NUL",
-            "cote": 18.5,
-            "probabilite_modele": 10.4,
-            "ev_pct": 91.6
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Waldhof Mannheim vs TSG Hoffenheim II",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-25T18:30:03Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": -42.7,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE TSG HOFFENHEIM II",
-            "cote": 21.9,
-            "probabilite_modele": 31.6,
-            "ev_pct": 592.4
-          },
-          {
-            "marche": "NUL",
-            "cote": 4.19,
-            "probabilite_modele": 36.8,
-            "ev_pct": 54.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "AZ Alkmaar vs FC Twente Enschede",
-      "competition": "Dutch Eredivisie",
-      "commence_time": "2026-10-25T19:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.82,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 0.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Udinese vs AC Milan",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-10-25T19:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.98,
-        "lambda_exterieur": 2.84,
-        "divergence_pinnacle_public_pct": -1.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Barcelona vs Real Madrid",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-10-25T20:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE BARCELONA",
-        "cote": 1.62,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.9,
-        "lambda_exterieur": 1.84,
-        "divergence_pinnacle_public_pct": 0.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 4.0 BUTS",
-            "cote": 2.24,
-            "probabilite_modele": 48.8,
-            "ev_pct": 9.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Independiente vs Boca Juniors",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-25T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.64,
-        "divergence_pinnacle_public_pct": -0.9,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 52.4,
-            "ev_pct": 15.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Sporting Lisbon vs Académico de Viseu",
-      "competition": "Primeira Liga - Portugal",
-      "commence_time": "2026-10-25T20:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 85
-      },
-      "modele_b": {
-        "lambda_domicile": 2.86,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Palestino vs Colo Colo",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-10-25T20:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.98,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": -0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 52.3,
-            "ev_pct": 4.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "River Plate vs Racing Club",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-25T22:15:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE RIVER PLATE",
-        "cote": 1.5,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.88,
-        "lambda_exterieur": 0.74,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Atlas vs Puebla",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-25T23:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE ATLAS",
-        "cote": 1.66,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.74,
-        "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": 1.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 51.9,
-            "ev_pct": 5.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Universidad de Concepción vs Deportes Limache",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-10-25T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": 0.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Barracas Central vs Estudiantes de Río Cuarto",
       "competition": "Primera División - Argentina",
       "commence_time": "2026-10-26T00:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.47,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 0.92,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 2.94,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "VICTOIRE ESTUDIANTES DE RÍO CUARTO",
-            "cote": 6.16,
-            "probabilite_modele": 16.8,
-            "ev_pct": 3.6
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 3.8,
+            "probabilite_modele": 34.9,
+            "ev_pct": 32.6
           },
           {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 52.4,
-            "ev_pct": 3.5
+            "marche": "NUL",
+            "cote": 17.64,
+            "probabilite_modele": 5.8,
+            "ev_pct": 2.3
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -418,21 +40,37 @@
       "match": "Central Córdoba vs Velez Sarsfield BA",
       "competition": "Primera División - Argentina",
       "commence_time": "2026-10-26T00:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 0.6,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 51.7,
-            "ev_pct": 7.6
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 9.6,
+            "probabilite_modele": 50.4,
+            "ev_pct": 384.2
+          },
+          {
+            "marche": "NUL",
+            "cote": 30.67,
+            "probabilite_modele": 5.3,
+            "ev_pct": 63.0
+          },
+          {
+            "marche": "VICTOIRE CENTRAL CÓRDOBA",
+            "cote": 50.67,
+            "probabilite_modele": 2.1,
+            "ev_pct": 8.0
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -443,15 +81,54 @@
       "commence_time": "2026-10-26T01:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 2.12,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 48.5,
-            "ev_pct": 2.1
+            "marche": "VICTOIRE QUERÉTARO",
+            "cote": 46.0,
+            "probabilite_modele": 6.0,
+            "ev_pct": 176.5
+          },
+          {
+            "marche": "NUL",
+            "cote": 13.0,
+            "probabilite_modele": 8.5,
+            "ev_pct": 10.3
+          },
+          {
+            "marche": "PLUS DE 5.5 BUTS",
+            "cote": 2.25,
+            "probabilite_modele": 45.1,
+            "ev_pct": 1.4
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "América vs Pachuca",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-26T01:05:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.78,
+        "lambda_exterieur": 1.94,
+        "divergence_pinnacle_public_pct": -16.2,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE PACHUCA",
+            "cote": 4.8,
+            "probabilite_modele": 40.8,
+            "ev_pct": 95.9
           }
         ]
       },
@@ -459,6 +136,201 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Los Angeles FC vs LA Galaxy",
+      "competition": "MLS",
+      "commence_time": "2026-10-26T01:12:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.08,
+            "probabilite_modele": 50.9,
+            "ev_pct": 5.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Tijuana vs Santos Laguna",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-26T03:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.94,
+        "lambda_exterieur": 1.54,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 53.5,
+            "ev_pct": 10.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Besiktas JK vs Basaksehir",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-10-26T16:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE BESIKTAS JK",
+        "cote": 1.38,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 2.64,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Çaykur Rizespor vs Trabzonspor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-10-26T16:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 2.08,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 50.6,
+            "ev_pct": 8.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Copenhagen vs OB Odense BK",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FC COPENHAGEN",
+        "cote": 1.49,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.94,
+        "lambda_exterieur": 0.8,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 51.3,
+            "ev_pct": 1.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Örebro SK vs Falkenbergs FF",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-10-26T18:05:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.28,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.01,
+            "probabilite_modele": 51.5,
+            "ev_pct": 3.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Galatasaray vs Fenerbahce",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-10-26T18:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.98,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Santa Clara vs Benfica",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-10-26T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.68,
+        "lambda_exterieur": 2.04,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Andorra CF vs Burgos CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-10-26T19:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.25 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": -0.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
