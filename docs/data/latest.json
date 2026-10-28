@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T03:05:57.674474+00:00",
+  "generated_at": "2026-10-28T11:50:34.526209+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,15 +7,11 @@
       "match": "AC Oulu vs VPS Vaasa",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-10-28T16:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -25,20 +21,20 @@
       "competition": "DFB-Pokal",
       "commence_time": "2026-10-28T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.83,
-        "indice_fixe": 85
+        "indice_fixe": 88
       },
       "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.48,
+        "divergence_pinnacle_public_pct": -0.3,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.25,
-            "probabilite_modele": 47.4,
-            "ev_pct": 6.5
+            "probabilite_modele": 52.5,
+            "ev_pct": 18.0
           }
         ]
       },
@@ -53,9 +49,9 @@
       "commence_time": "2026-10-28T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.68,
+        "lambda_domicile": 0.64,
         "lambda_exterieur": 4.0,
-        "divergence_pinnacle_public_pct": -0.4,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -66,26 +62,16 @@
       "commence_time": "2026-10-28T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 2.3,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": -1.2,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE VFL WOLFSBURG",
-            "cote": 5.25,
-            "probabilite_modele": 19.1,
-            "ev_pct": 0.1
-          }
-        ]
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "SC Paderborn vs VfB Stuttgart",
@@ -93,25 +79,19 @@
       "commence_time": "2026-10-28T17:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE VFB STUTTGART",
-        "cote": 1.58,
+        "cote": 1.57,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.28,
-        "lambda_exterieur": 2.32,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_exterieur": 2.36,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
             "cote": 2.13,
-            "probabilite_modele": 51.3,
-            "ev_pct": 9.5
-          },
-          {
-            "marche": "VICTOIRE SC PADERBORN",
-            "cote": 5.19,
-            "probabilite_modele": 19.4,
-            "ev_pct": 0.6
+            "probabilite_modele": 50.4,
+            "ev_pct": 7.5
           }
         ]
       },
@@ -125,17 +105,27 @@
       "competition": "Serie A - Italy",
       "commence_time": "2026-10-28T17:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
+        "pari": "VICTOIRE AC MILAN",
+        "cote": 1.73,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.8,
-        "lambda_exterieur": 0.98,
-        "divergence_pinnacle_public_pct": -0.0,
-        "value_bets": []
+        "lambda_domicile": 1.78,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 52.0,
+            "ev_pct": 4.9
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Venezia vs Inter Milan",
@@ -143,25 +133,19 @@
       "commence_time": "2026-10-28T17:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE INTER MILAN",
-        "cote": 1.37,
+        "cote": 1.38,
         "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 1.06,
-        "lambda_exterieur": 2.6,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 1.04,
+        "lambda_exterieur": 2.56,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 50.3,
-            "ev_pct": 8.6
-          },
-          {
-            "marche": "VICTOIRE VENEZIA",
-            "cote": 7.79,
-            "probabilite_modele": 13.0,
-            "ev_pct": 1.4
+            "cote": 2.08,
+            "probabilite_modele": 51.5,
+            "ev_pct": 7.3
           }
         ]
       },
@@ -174,17 +158,21 @@
       "match": "Parma vs Udinese",
       "competition": "Serie A - Italy",
       "commence_time": "2026-10-28T17:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
             "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 48.1,
-            "ev_pct": 2.6
+            "cote": 2.07,
+            "probabilite_modele": 52.8,
+            "ev_pct": 9.4
           }
         ]
       },
