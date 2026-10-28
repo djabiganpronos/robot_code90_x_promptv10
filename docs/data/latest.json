@@ -1,776 +1,8 @@
 {
-  "generated_at": "2026-10-27T21:36:59.992399+00:00",
+  "generated_at": "2026-10-28T03:05:57.674474+00:00",
   "erreur": null,
-  "nb_matchs": 30,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Llanera vs SD Ponferradina",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-10-27T19:00:00Z",
-      "modele_a": null,
-      "modele_b": null,
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Tordesillas vs CD Mirandés",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-10-27T19:01:00Z",
-      "modele_a": null,
-      "modele_b": null,
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Don Benito vs Extremadura",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-10-27T19:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.33,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.13,
-        "lambda_exterieur": 0.25,
-        "divergence_pinnacle_public_pct": 4.7,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 7.0,
-            "probabilite_modele": 70.5,
-            "ev_pct": 393.6
-          },
-          {
-            "marche": "VICTOIRE DON BENITO",
-            "cote": 20.0,
-            "probabilite_modele": 9.4,
-            "ev_pct": 87.9
-          },
-          {
-            "marche": "MOINS DE 4.5 BUTS",
-            "cote": 1.33,
-            "probabilite_modele": 85.6,
-            "ev_pct": 13.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Manresa vs UE Sant Andreu",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-10-27T19:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.39,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.17,
-        "lambda_exterieur": 0.23,
-        "divergence_pinnacle_public_pct": 8.4,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE MANRESA",
-            "cote": 26.8,
-            "probabilite_modele": 13.2,
-            "ev_pct": 252.6
-          },
-          {
-            "marche": "VICTOIRE UE SANT ANDREU",
-            "cote": 17.04,
-            "probabilite_modele": 17.5,
-            "ev_pct": 198.6
-          },
-          {
-            "marche": "NUL",
-            "cote": 1.62,
-            "probabilite_modele": 69.3,
-            "ev_pct": 12.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "AS Roma vs Cagliari",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-10-27T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 6.5 BUTS",
-        "cote": 1.51,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.36,
-        "lambda_exterieur": 0.13,
-        "divergence_pinnacle_public_pct": -65.4,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 21.0,
-            "probabilite_modele": 64.0,
-            "ev_pct": 1244.2
-          },
-          {
-            "marche": "VICTOIRE CAGLIARI",
-            "cote": 70.38,
-            "probabilite_modele": 8.9,
-            "ev_pct": 529.5
-          },
-          {
-            "marche": "PLUS DE 6.5 BUTS",
-            "cote": 9.27,
-            "probabilite_modele": 18.1,
-            "ev_pct": 67.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Milton Keynes Dons vs Bromley FC",
-      "competition": "League 1",
-      "commence_time": "2026-10-27T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.36,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.38,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 33.25,
-            "probabilite_modele": 4.0,
-            "ev_pct": 33.5
-          },
-          {
-            "marche": "PLUS DE 5.5 BUTS",
-            "cote": 3.74,
-            "probabilite_modele": 28.7,
-            "ev_pct": 7.4
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Sheffield Wednesday vs Cambridge United",
-      "competition": "League 1",
-      "commence_time": "2026-10-27T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.23,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.15,
-        "lambda_exterieur": 0.15,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CAMBRIDGE UNITED",
-            "cote": 12.59,
-            "probabilite_modele": 11.8,
-            "ev_pct": 48.4
-          },
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.13,
-            "probabilite_modele": 88.8,
-            "ev_pct": 0.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Torino vs Como",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-10-27T19:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE TORINO",
-        "cote": 1.47,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 2.44,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 62.5,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE TORINO",
-            "cote": 64.77,
-            "probabilite_modele": 65.7,
-            "ev_pct": 4157.8
-          },
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 3.4,
-            "probabilite_modele": 48.1,
-            "ev_pct": 63.5
-          },
-          {
-            "marche": "NUL",
-            "cote": 7.1,
-            "probabilite_modele": 22.4,
-            "ev_pct": 59.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Luton vs Doncaster Rovers",
-      "competition": "League 1",
-      "commence_time": "2026-10-27T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.17,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.0,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 31.67,
-            "probabilite_modele": 5.5,
-            "ev_pct": 73.3
-          },
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 6.96,
-            "probabilite_modele": 18.7,
-            "ev_pct": 29.8
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Oxford United vs Stockport County FC",
-      "competition": "League 1",
-      "commence_time": "2026-10-27T19:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.48,
-        "lambda_exterieur": 0.19,
-        "divergence_pinnacle_public_pct": -17.8,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE STOCKPORT COUNTY FC",
-            "cote": 141.0,
-            "probabilite_modele": 5.3,
-            "ev_pct": 640.9
-          },
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 7.5,
-            "probabilite_modele": 49.3,
-            "ev_pct": 270.1
-          },
-          {
-            "marche": "NUL",
-            "cote": 8.67,
-            "probabilite_modele": 23.8,
-            "ev_pct": 106.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "1. FC Köln vs Union Berlin",
-      "competition": "DFB-Pokal",
-      "commence_time": "2026-10-27T19:45:05Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.48,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.26,
-        "lambda_exterieur": 0.62,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE UNION BERLIN",
-            "cote": 225.0,
-            "probabilite_modele": 4.0,
-            "ev_pct": 797.2
-          },
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 5.8,
-            "probabilite_modele": 35.0,
-            "ev_pct": 103.0
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Borussia Monchengladbach vs Karlsruher SC",
-      "competition": "DFB-Pokal",
-      "commence_time": "2026-10-27T19:45:11Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.52,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 30.2,
-            "probabilite_modele": 8.6,
-            "ev_pct": 161.2
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 4.76,
-            "probabilite_modele": 45.7,
-            "ev_pct": 117.4
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Elversberg vs SV Darmstadt 98",
-      "competition": "DFB-Pokal",
-      "commence_time": "2026-10-27T19:45:39Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.05,
-        "lambda_exterieur": 2.56,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 6.24,
-            "probabilite_modele": 47.1,
-            "ev_pct": 193.7
-          },
-          {
-            "marche": "NUL",
-            "cote": 25.4,
-            "probabilite_modele": 8.3,
-            "ev_pct": 111.5
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Barnet vs York City",
-      "competition": "League 2",
-      "commence_time": "2026-10-27T19:46:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.5,
-        "lambda_exterieur": 2.04,
-        "divergence_pinnacle_public_pct": -55.8,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE YORK CITY",
-            "cote": 41.75,
-            "probabilite_modele": 23.1,
-            "ev_pct": 865.0
-          },
-          {
-            "marche": "NUL",
-            "cote": 14.25,
-            "probabilite_modele": 34.8,
-            "ev_pct": 395.5
-          },
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 4.27,
-            "probabilite_modele": 50.4,
-            "ev_pct": 114.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Leicester City vs Wigan Athletic",
-      "competition": "League 1",
-      "commence_time": "2026-10-27T19:46:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 85
-      },
-      "modele_b": {
-        "lambda_domicile": 3.84,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 7.2,
-            "probabilite_modele": 54.6,
-            "ev_pct": 292.6
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Bradford City vs Peterborough United",
-      "competition": "EFL Cup",
-      "commence_time": "2026-10-27T19:48:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.44,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 11.06,
-            "probabilite_modele": 43.1,
-            "ev_pct": 376.9
-          },
-          {
-            "marche": "NUL",
-            "cote": 38.0,
-            "probabilite_modele": 9.3,
-            "ev_pct": 254.7
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Borussia Dortmund vs Werder Bremen",
-      "competition": "DFB-Pokal",
-      "commence_time": "2026-10-27T19:50:49Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.3,
-        "lambda_exterieur": 1.96,
-        "divergence_pinnacle_public_pct": 8.0,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE WERDER BREMEN",
-            "cote": 10.95,
-            "probabilite_modele": 24.0,
-            "ev_pct": 163.0
-          },
-          {
-            "marche": "VICTOIRE BORUSSIA DORTMUND",
-            "cote": 3.97,
-            "probabilite_modele": 38.5,
-            "ev_pct": 52.8
-          },
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 2.97,
-            "probabilite_modele": 45.6,
-            "ev_pct": 35.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Arosa vs Pontevedra CF",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-10-27T20:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.6,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 18.33,
-            "probabilite_modele": 8.0,
-            "ev_pct": 46.9
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 48.8,
-            "ev_pct": 1.6
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Fleetwood Town vs Arsenal",
-      "competition": "EFL Cup",
-      "commence_time": "2026-10-27T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.06,
-        "lambda_exterieur": 2.74,
-        "divergence_pinnacle_public_pct": -0.4,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE FLEETWOOD TOWN",
-            "cote": 23.79,
-            "probabilite_modele": 7.8,
-            "ev_pct": 85.5
-          },
-          {
-            "marche": "VICTOIRE ARSENAL",
-            "cote": 1.56,
-            "probabilite_modele": 71.6,
-            "ev_pct": 11.9
-          },
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.24,
-            "probabilite_modele": 46.6,
-            "ev_pct": 4.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Sporting de Alcázar vs Málaga",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-10-27T20:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.05,
-        "lambda_exterieur": 2.6,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 30.5,
-            "probabilite_modele": 8.0,
-            "ev_pct": 144.4
-          },
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.4,
-            "probabilite_modele": 52.1,
-            "ev_pct": 25.0
-          },
-          {
-            "marche": "VICTOIRE SPORTING DE ALCÁZAR",
-            "cote": 275.5,
-            "probabilite_modele": 0.4,
-            "ev_pct": 6.4
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Recreativo de Huelva vs Rayo Vallecano",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-10-27T20:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE RAYO VALLECANO",
-        "cote": 1.61,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.76,
-        "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE RECREATIVO DE HUELVA",
-            "cote": 15.0,
-            "probabilite_modele": 11.2,
-            "ev_pct": 68.6
-          },
-          {
-            "marche": "VICTOIRE RAYO VALLECANO",
-            "cote": 2.06,
-            "probabilite_modele": 58.8,
-            "ev_pct": 21.2
-          },
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.9,
-            "probabilite_modele": 52.9,
-            "ev_pct": 0.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Atlético Paso vs Córdoba",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-10-27T20:04:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CÓRDOBA",
-            "cote": 11.77,
-            "probabilite_modele": 25.9,
-            "ev_pct": 205.0
-          },
-          {
-            "marche": "VICTOIRE ATLÉTICO PASO",
-            "cote": 3.79,
-            "probabilite_modele": 46.5,
-            "ev_pct": 76.3
-          },
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.78,
-            "probabilite_modele": 59.6,
-            "ev_pct": 6.1
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Argentinos Juniors vs Independiente Rivadavia",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-27T22:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.58,
-        "lambda_exterieur": 1.14,
-        "divergence_pinnacle_public_pct": -0.6,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 52.1,
-            "ev_pct": 13.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Ceará vs Goiás",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-27T23:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "AC Oulu vs VPS Vaasa",
       "competition": "Veikkausliiga - Finland",
@@ -794,19 +26,19 @@
       "commence_time": "2026-10-28T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
+        "cote": 1.83,
+        "indice_fixe": 85
       },
       "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": 1.4,
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": -0.8,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.26,
-            "probabilite_modele": 48.2,
-            "ev_pct": 8.9
+            "cote": 2.25,
+            "probabilite_modele": 47.4,
+            "ev_pct": 6.5
           }
         ]
       },
@@ -819,48 +51,34 @@
       "match": "SSV Jeddeloh vs Hertha Berlin",
       "competition": "DFB-Pokal",
       "commence_time": "2026-10-28T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.6,
+        "lambda_domicile": 0.68,
         "lambda_exterieur": 4.0,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 4.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 51.3,
-            "ev_pct": 2.5
-          }
-        ]
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "SC Freiburg vs VfL Wolfsburg",
       "competition": "DFB-Pokal",
       "commence_time": "2026-10-28T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.46,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 2.3,
+        "lambda_exterieur": 1.24,
+        "divergence_pinnacle_public_pct": -1.2,
         "value_bets": [
           {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 52.3,
-            "ev_pct": 1.7
+            "marche": "VICTOIRE VFL WOLFSBURG",
+            "cote": 5.25,
+            "probabilite_modele": 19.1,
+            "ev_pct": 0.1
           }
         ]
       },
@@ -875,19 +93,25 @@
       "commence_time": "2026-10-28T17:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE VFB STUTTGART",
-        "cote": 1.52,
+        "cote": 1.58,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 2.4,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.28,
+        "lambda_exterieur": 2.32,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
             "cote": 2.13,
-            "probabilite_modele": 50.4,
-            "ev_pct": 7.4
+            "probabilite_modele": 51.3,
+            "ev_pct": 9.5
+          },
+          {
+            "marche": "VICTOIRE SC PADERBORN",
+            "cote": 5.19,
+            "probabilite_modele": 19.4,
+            "ev_pct": 0.6
           }
         ]
       },
@@ -908,10 +132,66 @@
       "modele_b": {
         "lambda_domicile": 1.8,
         "lambda_exterieur": 0.98,
-        "divergence_pinnacle_public_pct": -0.5,
+        "divergence_pinnacle_public_pct": -0.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "Venezia vs Inter Milan",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-10-28T17:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE INTER MILAN",
+        "cote": 1.37,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.06,
+        "lambda_exterieur": 2.6,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 50.3,
+            "ev_pct": 8.6
+          },
+          {
+            "marche": "VICTOIRE VENEZIA",
+            "cote": 7.79,
+            "probabilite_modele": 13.0,
+            "ev_pct": 1.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Parma vs Udinese",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-10-28T17:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 48.1,
+            "ev_pct": 2.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
