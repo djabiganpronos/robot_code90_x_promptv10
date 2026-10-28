@@ -1,40 +1,99 @@
 {
-  "generated_at": "2026-10-28T11:50:34.526209+00:00",
+  "generated_at": "2026-10-28T17:39:19.184698+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 16,
   "matchs": [
     {
       "match": "AC Oulu vs VPS Vaasa",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-10-28T16:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": []
+      "modele_a": {
+        "pari": "PLUS DE 0.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 0.34,
+        "lambda_exterieur": 0.42,
+        "divergence_pinnacle_public_pct": 4.3,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 0.5 BUTS",
+            "cote": 2.32,
+            "probabilite_modele": 52.7,
+            "ev_pct": 22.2
+          },
+          {
+            "marche": "VICTOIRE AC OULU",
+            "cote": 5.77,
+            "probabilite_modele": 20.1,
+            "ev_pct": 16.1
+          },
+          {
+            "marche": "VICTOIRE VPS VAASA",
+            "cote": 4.28,
+            "probabilite_modele": 26.4,
+            "ev_pct": 12.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
-      "match": "Dynamo Dresden vs FC Schalke 04",
+      "match": "SC Freiburg vs VfL Wolfsburg",
       "competition": "DFB-Pokal",
-      "commence_time": "2026-10-28T17:00:00Z",
+      "commence_time": "2026-10-28T17:00:02Z",
+      "modele_a": {
+        "pari": "PLUS DE 4.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.8,
+        "lambda_exterieur": 1.92,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 4.0 BUTS",
+            "cote": 2.31,
+            "probabilite_modele": 51.6,
+            "ev_pct": 19.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "SC Paderborn vs VfB Stuttgart",
+      "competition": "DFB-Pokal",
+      "commence_time": "2026-10-28T17:00:04Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.83,
-        "indice_fixe": 88
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.02,
+        "lambda_exterieur": 1.52,
+        "divergence_pinnacle_public_pct": 11.7,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.25,
-            "probabilite_modele": 52.5,
-            "ev_pct": 18.0
+            "marche": "VICTOIRE SC PADERBORN",
+            "cote": 7.63,
+            "probabilite_modele": 24.6,
+            "ev_pct": 87.6
+          },
+          {
+            "marche": "NUL",
+            "cote": 4.43,
+            "probabilite_modele": 26.9,
+            "ev_pct": 19.4
           }
         ]
       },
@@ -46,59 +105,36 @@
     {
       "match": "SSV Jeddeloh vs Hertha Berlin",
       "competition": "DFB-Pokal",
-      "commence_time": "2026-10-28T17:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.64,
-        "lambda_exterieur": 4.0,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "SC Freiburg vs VfL Wolfsburg",
-      "competition": "DFB-Pokal",
-      "commence_time": "2026-10-28T17:00:00Z",
+      "commence_time": "2026-10-28T17:00:07Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
+        "pari": "MOINS DE 2.75 BUTS",
         "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.3,
-        "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 0.34,
+        "lambda_exterieur": 2.26,
+        "divergence_pinnacle_public_pct": -1.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "SC Paderborn vs VfB Stuttgart",
+      "match": "Dynamo Dresden vs FC Schalke 04",
       "competition": "DFB-Pokal",
-      "commence_time": "2026-10-28T17:00:00Z",
+      "commence_time": "2026-10-28T17:02:50Z",
       "modele_a": {
-        "pari": "VICTOIRE VFB STUTTGART",
-        "cote": 1.57,
-        "indice_fixe": 78
+        "pari": "PLUS DE 1.75 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 85
       },
       "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 2.36,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 50.4,
-            "ev_pct": 7.5
-          }
-        ]
+        "lambda_domicile": 0.86,
+        "lambda_exterieur": 0.88,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "AC Milan vs Bologna",
@@ -106,19 +142,25 @@
       "commence_time": "2026-10-28T17:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE AC MILAN",
-        "cote": 1.73,
+        "cote": 1.7,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.78,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 0.94,
+        "divergence_pinnacle_public_pct": 4.1,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 52.0,
-            "ev_pct": 4.9
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 51.9,
+            "ev_pct": 7.6
+          },
+          {
+            "marche": "VICTOIRE AC MILAN",
+            "cote": 1.8,
+            "probabilite_modele": 57.3,
+            "ev_pct": 3.1
           }
         ]
       },
@@ -139,13 +181,43 @@
       "modele_b": {
         "lambda_domicile": 1.04,
         "lambda_exterieur": 2.56,
-        "divergence_pinnacle_public_pct": 0.5,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Parma vs Udinese",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-10-28T17:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Chelsea vs AS Roma",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-10-28T17:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 3.72,
+        "lambda_exterieur": 1.0,
+        "divergence_pinnacle_public_pct": 2.1,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 51.5,
-            "ev_pct": 7.3
+            "marche": "MOINS DE 4.0 BUTS",
+            "cote": 2.62,
+            "probabilite_modele": 49.0,
+            "ev_pct": 28.4
           }
         ]
       },
@@ -155,24 +227,144 @@
       }
     },
     {
-      "match": "Parma vs Udinese",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-10-28T17:30:00Z",
+      "match": "Bayern Munich vs Real Madrid",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-10-28T17:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.25 BUTS",
-        "cote": 1.83,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.38,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 2.42,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 52.8,
-            "ev_pct": 9.4
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 48.4,
+            "ev_pct": 2.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Servette FC vs Leuven",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-10-28T17:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 2.02,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "IF Brommapojkarna vs BK Hacken",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-10-28T18:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE BK HACKEN",
+        "cote": 1.6,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.28,
+        "lambda_exterieur": 2.32,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 1.98,
+            "probabilite_modele": 51.3,
+            "ev_pct": 1.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Degerfors IF vs Västerås SK",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-10-28T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "IFK Goteborg vs Djurgardens IF",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-10-28T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Halmstads BK vs Malmo FF",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-10-28T18:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE MALMO FF",
+        "cote": 1.68,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.34,
+        "lambda_exterieur": 2.24,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 51.6,
+            "ev_pct": 10.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Pisa vs Palermo",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-10-28T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 50.9,
+            "ev_pct": 4.9
           }
         ]
       },
