@@ -1,113 +1,21 @@
 {
-  "generated_at": "2026-10-29T03:32:21.626430+00:00",
+  "generated_at": "2026-10-29T11:58:16.361595+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "San Jose Earthquakes vs Colorado Rapids",
-      "competition": "MLS",
-      "commence_time": "2026-10-29T02:40:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 1.76,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Seattle Sounders FC vs Houston Dynamo",
-      "competition": "MLS",
-      "commence_time": "2026-10-29T02:40:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 52.5,
-            "ev_pct": 3.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Vancouver Whitecaps FC vs San Diego FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-29T02:40:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 3.88,
-        "lambda_exterieur": 0.72,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 48.8,
-            "ev_pct": 1.4
-          },
-          {
-            "marche": "VICTOIRE SAN DIEGO FC",
-            "cote": 32.67,
-            "probabilite_modele": 3.1,
-            "ev_pct": 0.6
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "América vs Tijuana",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-29T03:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.86,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": -2.3,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE TIJUANA",
-            "cote": 6.81,
-            "probabilite_modele": 17.1,
-            "ev_pct": 16.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Al-Khaleej vs Al-Hazem",
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-29T14:35:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
       "modele_b": {
         "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": 1.3,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": 1.6,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -116,34 +24,48 @@
       "match": "FC Inter Turku vs HJK Helsinki",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-10-29T16:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": []
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 52.6,
+            "ev_pct": 4.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "KuPS Kuopio vs IF Gnistan",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-10-29T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
+        "pari": "VICTOIRE KUPS KUOPIO",
+        "cote": 1.47,
+        "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 2.48,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": 1.8,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 47.6,
-            "ev_pct": 3.9
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 50.3,
+            "ev_pct": 8.5
           }
         ]
       },
@@ -164,7 +86,7 @@
       "modele_b": {
         "lambda_domicile": 0.96,
         "lambda_exterieur": 1.68,
-        "divergence_pinnacle_public_pct": 0.8,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -175,19 +97,19 @@
       "commence_time": "2026-10-29T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.83,
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": -1.7,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": -2.4,
         "value_bets": [
           {
             "marche": "PLUS DE 2.75 BUTS",
             "cote": 2.05,
-            "probabilite_modele": 51.7,
-            "ev_pct": 5.9
+            "probabilite_modele": 52.2,
+            "ev_pct": 7.1
           }
         ]
       },
@@ -201,20 +123,26 @@
       "competition": "Serie A - Italy",
       "commence_time": "2026-10-29T17:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.25 BUTS",
+        "pari": "PLUS DE 3.5 BUTS",
         "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.38,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 2.34,
+        "lambda_exterieur": 1.5,
+        "divergence_pinnacle_public_pct": -0.6,
         "value_bets": [
           {
-            "marche": "PLUS DE 3.25 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 53.3,
-            "ev_pct": 2.1
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 1.9,
+            "probabilite_modele": 53.7,
+            "ev_pct": 1.8
+          },
+          {
+            "marche": "VICTOIRE LECCE",
+            "cote": 4.44,
+            "probabilite_modele": 22.9,
+            "ev_pct": 1.7
           }
         ]
       },
@@ -228,20 +156,20 @@
       "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-10-29T17:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
+        "pari": "VICTOIRE HAMMARBY IF",
+        "cote": 1.47,
+        "indice_fixe": 84
       },
       "modele_b": {
         "lambda_domicile": 2.5,
-        "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": 1.1,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": 1.2,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 1.94,
-            "probabilite_modele": 52.0,
-            "ev_pct": 1.0
+            "cote": 1.97,
+            "probabilite_modele": 50.9,
+            "ev_pct": 0.0
           }
         ]
       },
@@ -256,13 +184,13 @@
       "commence_time": "2026-10-29T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.16,
-        "lambda_exterieur": 1.64,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": []
       },
       "pinnacle_disponible": true
