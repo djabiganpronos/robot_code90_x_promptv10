@@ -1,40 +1,27 @@
 {
-  "generated_at": "2026-10-30T03:35:13.304680+00:00",
+  "generated_at": "2026-10-30T11:52:26.046608+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Brisbane Roar vs Auckland FC",
-      "competition": "A-League",
-      "commence_time": "2026-10-30T09:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": 1.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Abha Club vs Al-Ittihad",
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-30T12:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
+        "pari": "VICTOIRE AL-ITTIHAD",
+        "cote": 1.47,
+        "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 2.5,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 2.46,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 52.5,
-            "ev_pct": 11.4
+            "cote": 2.19,
+            "probabilite_modele": 50.0,
+            "ev_pct": 9.5
           }
         ]
       },
@@ -50,8 +37,8 @@
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.34,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": 0.4,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -63,21 +50,11 @@
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -0.6,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 50.1,
-            "ev_pct": 4.4
-          }
-        ]
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": -1.0,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Torku Konyaspor vs Galatasaray",
@@ -89,15 +66,15 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.8,
-        "lambda_exterieur": 1.8,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 0.86,
+        "lambda_exterieur": 1.72,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.21,
-            "probabilite_modele": 52.1,
-            "ev_pct": 14.9
+            "cote": 2.22,
+            "probabilite_modele": 52.4,
+            "ev_pct": 16.2
           }
         ]
       },
@@ -110,24 +87,18 @@
       "match": "Arminia Bielefeld vs Eintracht Braunschweig",
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-10-30T17:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.16,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 50.3,
-            "ev_pct": 2.6
-          }
-        ]
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "modele_b": {
+        "lambda_domicile": 1.62,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     },
     {
       "match": "FC Energie Cottbus vs VfL Bochum",
@@ -135,9 +106,9 @@
       "commence_time": "2026-10-30T17:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.68,
-        "lambda_exterieur": 1.9,
-        "divergence_pinnacle_public_pct": -1.0,
+        "lambda_domicile": 1.62,
+        "lambda_exterieur": 1.96,
+        "divergence_pinnacle_public_pct": -1.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -148,16 +119,43 @@
       "commence_time": "2026-10-30T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.82,
+        "cote": 1.83,
         "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 1.4,
         "lambda_exterieur": 2.14,
-        "divergence_pinnacle_public_pct": -0.1,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "Bodø/Glimt vs Viking FK",
+      "competition": "Eliteserien - Norway",
+      "commence_time": "2026-10-30T18:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE BODØ/GLIMT",
+        "cote": 1.55,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.44,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": 1.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.36,
+            "probabilite_modele": 48.5,
+            "ev_pct": 14.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
