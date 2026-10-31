@@ -1,157 +1,33 @@
 {
-  "generated_at": "2026-10-31T03:19:16.883018+00:00",
+  "generated_at": "2026-10-31T11:25:47.817290+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Puebla vs Pumas",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-31T03:00:00Z",
+      "match": "Erzurum BB vs Çorum FK",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-10-31T10:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": -2.8,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 52.3,
-            "ev_pct": 4.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Newcastle Jets FC vs Wellington Phoenix FC",
-      "competition": "A-League",
-      "commence_time": "2026-10-31T04:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.9,
-        "lambda_exterieur": 1.82,
-        "divergence_pinnacle_public_pct": -0.4,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 51.4,
-            "ev_pct": 2.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Jeonbuk Hyundai Motors vs Daejeon Citizen",
-      "competition": "K League 1",
-      "commence_time": "2026-10-31T05:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": -0.6,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 50.6,
-            "ev_pct": 1.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Fagiano Okayama vs FC Tokyo",
-      "competition": "J League",
-      "commence_time": "2026-10-31T05:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": -0.9,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Mito HollyHock vs Hiroshima Sanfrecce FC",
-      "competition": "J League",
-      "commence_time": "2026-10-31T05:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.62,
-        "lambda_exterieur": 1.94,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 53.1,
-            "ev_pct": 13.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Kyoto Purple Sanga vs Shimizu S Pulse",
-      "competition": "J League",
-      "commence_time": "2026-10-31T05:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -2.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Kashima Antlers vs Cerezo Osaka",
-      "competition": "J League",
-      "commence_time": "2026-10-31T06:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE KASHIMA ANTLERS",
-        "cote": 1.69,
+        "pari": "VICTOIRE ÇORUM FK",
+        "cote": 1.57,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": 1.5,
+        "lambda_domicile": 0.8,
+        "lambda_exterieur": 1.82,
+        "divergence_pinnacle_public_pct": -0.0,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 49.7,
-            "ev_pct": 7.6
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.23,
+            "probabilite_modele": 49.5,
+            "ev_pct": 10.1
+          },
+          {
+            "marche": "VICTOIRE ERZURUM BB",
+            "cote": 7.23,
+            "probabilite_modele": 14.3,
+            "ev_pct": 3.1
           }
         ]
       },
@@ -161,33 +37,46 @@
       }
     },
     {
-      "match": "Melbourne City vs Sydney FC",
-      "competition": "A-League",
-      "commence_time": "2026-10-31T06:00:00Z",
+      "match": "Wisła Płock vs Piast Gliwice",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-10-31T11:15:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 1.0,
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Vissel Kobe vs Nagoya Grampus",
-      "competition": "J League",
-      "commence_time": "2026-10-31T06:00:00Z",
+      "match": "1. FC Kaiserslautern vs Hertha Berlin",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-31T12:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 1.98,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "SV Darmstadt 98 vs 1. FC Magdeburg",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-31T12:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": -0.0,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 51.1,
-            "ev_pct": 4.2
+            "cote": 2.15,
+            "probabilite_modele": 50.4,
+            "ev_pct": 8.3
           }
         ]
       },
@@ -195,6 +84,112 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "IFK Norrkoping vs Östersunds FK",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-10-31T12:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "VfL Wolfsburg vs VfL Osnabrück",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-31T12:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE VFL WOLFSBURG",
+        "cote": 1.6,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.32,
+        "lambda_exterieur": 1.28,
+        "divergence_pinnacle_public_pct": 0.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 51.4,
+            "ev_pct": 5.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Rubin Kazan vs FC Fakel Voronezh",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-10-31T12:15:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 52.5,
+            "ev_pct": 5.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Lincoln City vs Birmingham City",
+      "competition": "Championship",
+      "commence_time": "2026-10-31T12:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Bradford City vs Huddersfield Town",
+      "competition": "League 1",
+      "commence_time": "2026-10-31T12:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Leyton Orient vs Cambridge United",
+      "competition": "League 1",
+      "commence_time": "2026-10-31T12:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.28,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
