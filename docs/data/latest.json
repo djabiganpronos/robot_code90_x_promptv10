@@ -1,122 +1,29 @@
 {
-  "generated_at": "2026-11-01T21:29:59.456358+00:00",
+  "generated_at": "2026-11-02T03:28:10.717923+00:00",
   "erreur": null,
-  "nb_matchs": 13,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Juventus vs Napoli",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-11-01T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.68,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 10.42,
-            "probabilite_modele": 19.2,
-            "ev_pct": 100.7
-          },
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 2.7,
-            "probabilite_modele": 45.2,
-            "ev_pct": 21.9
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Marseille vs Toulouse",
-      "competition": "Ligue 1 - France",
-      "commence_time": "2026-11-01T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.58,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 25.64,
-            "probabilite_modele": 8.2,
-            "ev_pct": 109.4
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.3,
-            "probabilite_modele": 47.5,
-            "ev_pct": 9.3
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Athletic Bilbao vs Real Sociedad",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-11-01T20:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE ATHLETIC BILBAO",
-        "cote": 1.35,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 2.6,
-        "lambda_exterieur": 1.0,
-        "divergence_pinnacle_public_pct": -1.5,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE REAL SOCIEDAD",
-            "cote": 14.33,
-            "probabilite_modele": 9.4,
-            "ev_pct": 35.2
-          },
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.25,
-            "probabilite_modele": 51.0,
-            "ev_pct": 14.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Braga vs Famalicão",
-      "competition": "Primeira Liga - Portugal",
-      "commence_time": "2026-11-01T20:30:00Z",
+      "match": "Los Angeles FC vs Minnesota United FC",
+      "competition": "MLS",
+      "commence_time": "2026-11-02T01:40:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 0.52,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_domicile": 0.38,
+        "lambda_exterieur": 2.36,
+        "divergence_pinnacle_public_pct": 3.4,
         "value_bets": [
           {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 49.4,
-            "ev_pct": 5.7
+            "marche": "VICTOIRE LOS ANGELES FC",
+            "cote": 56.9,
+            "probabilite_modele": 4.7,
+            "ev_pct": 170.1
+          },
+          {
+            "marche": "NUL",
+            "cote": 12.62,
+            "probabilite_modele": 13.3,
+            "ev_pct": 67.9
           }
         ]
       },
@@ -126,204 +33,198 @@
       }
     },
     {
-      "match": "Vancouver Whitecaps FC vs Seattle Sounders FC",
+      "match": "Portland Timbers vs Houston Dynamo",
       "competition": "MLS",
-      "commence_time": "2026-11-01T20:40:00Z",
+      "commence_time": "2026-11-02T02:55:00Z",
       "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.85,
+        "pari": "VICTOIRE PORTLAND TIMBERS",
+        "cote": 1.79,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.62,
-        "divergence_pinnacle_public_pct": null,
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": -21.5,
         "value_bets": [
           {
-            "marche": "VICTOIRE SEATTLE SOUNDERS FC",
-            "cote": 67.17,
-            "probabilite_modele": 2.2,
-            "ev_pct": 50.4
+            "marche": "VICTOIRE HOUSTON DYNAMO",
+            "cote": 10.77,
+            "probabilite_modele": 20.7,
+            "ev_pct": 123.0
           },
           {
             "marche": "NUL",
-            "cote": 20.73,
-            "probabilite_modele": 5.4,
-            "ev_pct": 12.6
+            "cote": 5.2,
+            "probabilite_modele": 26.2,
+            "ev_pct": 36.1
           },
           {
-            "marche": "MOINS DE 4.5 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 49.6,
-            "ev_pct": 1.4
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 49.3,
+            "ev_pct": 5.4
           }
         ]
       },
-      "pinnacle_disponible": false,
+      "pinnacle_disponible": true,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
     },
     {
-      "match": "Belgrano de Cordoba vs Barracas Central",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-01T21:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
-      },
+      "match": "Tenerife vs Andorra CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-02T13:00:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 0.92,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": []
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 49.3,
+            "ev_pct": 5.0
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
-      "match": "Cuiabá vs São Bernardo",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-01T21:30:00Z",
+      "match": "Kryliya Sovetov vs Zenit St Petersburg",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-11-02T15:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE CUIABÁ",
-        "cote": 1.72,
+        "pari": "VICTOIRE ZENIT ST PETERSBURG",
+        "cote": 1.57,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.84,
+        "lambda_exterieur": 1.86,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.75 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 49.4,
+            "ev_pct": 6.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Oviedo vs Las Palmas",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-02T15:15:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE OVIEDO",
+        "cote": 1.73,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.7,
-        "lambda_exterieur": 0.88,
-        "divergence_pinnacle_public_pct": 2.0,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 48.2,
-            "ev_pct": 2.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Grêmio Novorizontino vs Operario PR",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-01T21:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.04,
-        "lambda_exterieur": 0.6,
-        "divergence_pinnacle_public_pct": 2.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 51.0,
-            "ev_pct": 5.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Nashville SC vs New York Red Bulls",
-      "competition": "MLS",
-      "commence_time": "2026-11-01T21:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.6,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": 1.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 47.7,
-            "ev_pct": 4.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Newells Old Boys vs Union Santa Fe",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-01T21:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 48.9,
-            "ev_pct": 4.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Atlanta United FC vs Toronto FC",
-      "competition": "MLS",
-      "commence_time": "2026-11-01T21:32:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.12,
-        "lambda_exterieur": 1.64,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 1.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Santos Laguna vs Necaxa",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-01T23:00:00Z",
+      "match": "Atromitos Athens vs Volos FC",
+      "competition": "Super League - Greece",
+      "commence_time": "2026-11-02T16:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.1,
-        "lambda_exterieur": 1.42,
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 1.0,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "FC Inter Turku vs IF Gnistan",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-11-02T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 0.62,
+        "divergence_pinnacle_public_pct": 2.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.96,
+            "probabilite_modele": 52.5,
+            "ev_pct": 3.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "VPS Vaasa vs HJK Helsinki",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-11-02T16:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE HJK HELSINKI",
+        "cote": 1.36,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.06,
+        "lambda_exterieur": 2.64,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Genclerbirligi SK vs Alanyaspor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-02T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 88
+      },
+      "modele_b": {
+        "lambda_domicile": 1.28,
+        "lambda_exterieur": 1.28,
         "divergence_pinnacle_public_pct": 0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Lanus vs Gimnasia Mendoza",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-01T23:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE LANUS",
-        "cote": 1.5,
-        "indice_fixe": 78
-      },
+      "match": "Zagłębie Lubin vs Korona Kielce",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-11-02T17:00:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.96,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 1.5,
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.28,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": []
       },
       "pinnacle_disponible": true
