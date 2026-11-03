@@ -1,109 +1,40 @@
 {
-  "generated_at": "2026-11-03T13:16:33.264662+00:00",
+  "generated_at": "2026-11-03T22:41:43.794441+00:00",
   "erreur": null,
-  "nb_matchs": 7,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Galatasaray vs VfB Stuttgart",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-11-03T17:45:00Z",
+      "match": "Chapecoense vs Mirassol",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-03T22:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.0,
-        "lambda_exterieur": 1.58,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.32,
-            "probabilite_modele": 51.9,
-            "ev_pct": 20.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Shakhtar Donetsk vs Sporting Lisbon",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-11-03T17:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 2.08,
-        "divergence_pinnacle_public_pct": 0.3,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE SHAKHTAR DONETSK",
-            "cote": 3.51,
-            "probabilite_modele": 28.6,
-            "ev_pct": 0.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "IK Sirius vs Halmstads BK",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-11-03T18:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.72,
-        "lambda_exterieur": 1.0,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 1.06,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Blackburn Rovers vs Stoke City",
-      "competition": "Championship",
-      "commence_time": "2026-11-03T19:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": -1.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 51.4,
-            "ev_pct": 2.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Charlton Athletic vs Bolton Wanderers",
-      "competition": "Championship",
-      "commence_time": "2026-11-03T19:45:00Z",
+      "match": "Internacional vs Coritiba",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-04T00:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
+        "pari": "VICTOIRE INTERNACIONAL",
+        "cote": 1.58,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -0.9,
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 0.8,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 52.6,
-            "ev_pct": 6.6
+            "cote": 2.01,
+            "probabilite_modele": 52.0,
+            "ev_pct": 4.2
           }
         ]
       },
@@ -113,43 +44,20 @@
       }
     },
     {
-      "match": "Queens Park Rangers vs Burnley",
-      "competition": "Championship",
-      "commence_time": "2026-11-03T19:45:00Z",
+      "match": "Rennes vs Olympiakos Piraeus",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-11-04T15:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 48.7,
-            "ev_pct": 1.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Derby County vs Norwich City",
-      "competition": "Championship",
-      "commence_time": "2026-11-03T19:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.12,
-        "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": -0.7,
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.04,
-            "probabilite_modele": 49.9,
-            "ev_pct": 1.6
+            "probabilite_modele": 51.1,
+            "ev_pct": 4.1
           }
         ]
       },
@@ -157,6 +65,134 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "AEK Athens vs Real Madrid",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-11-04T17:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.82,
+        "lambda_exterieur": 2.86,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.33,
+            "probabilite_modele": 49.9,
+            "ev_pct": 16.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Fenerbahce vs Liverpool",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-11-04T17:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE LIVERPOOL",
+        "cote": 1.49,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 2.44,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 51.0,
+            "ev_pct": 4.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Club Portugalete vs Real Unión",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-04T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 85
+      },
+      "modele_b": {
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": -1.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "SD Amorebieta vs UD Logroñés",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-04T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": 5.8,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE SD AMOREBIETA",
+            "cote": 3.15,
+            "probabilite_modele": 34.4,
+            "ev_pct": 8.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Reus FC Reddis vs Barakaldo",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-04T19:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": 1.9,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "CD Minera vs FC Cartagena",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-04T19:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
