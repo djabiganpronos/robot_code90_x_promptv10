@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T03:57:11.635712+00:00",
+  "generated_at": "2026-11-04T13:28:58.507329+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -11,13 +11,13 @@
       "modele_b": {
         "lambda_domicile": 1.44,
         "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": 0.0,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 51.2,
-            "ev_pct": 4.2
+            "cote": 2.04,
+            "probabilite_modele": 51.1,
+            "ev_pct": 4.4
           }
         ]
       },
@@ -32,15 +32,15 @@
       "commence_time": "2026-11-04T17:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.82,
-        "lambda_exterieur": 2.88,
-        "divergence_pinnacle_public_pct": -0.0,
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 3.48,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
+            "marche": "MOINS DE 4.0 BUTS",
             "cote": 2.4,
-            "probabilite_modele": 49.4,
-            "ev_pct": 18.4
+            "probabilite_modele": 49.7,
+            "ev_pct": 19.4
           }
         ]
       },
@@ -60,14 +60,14 @@
       },
       "modele_b": {
         "lambda_domicile": 1.18,
-        "lambda_exterieur": 2.44,
+        "lambda_exterieur": 2.48,
         "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 51.0,
-            "ev_pct": 6.5
+            "cote": 2.15,
+            "probabilite_modele": 50.0,
+            "ev_pct": 7.5
           }
         ]
       },
@@ -148,18 +148,24 @@
       "match": "KV Kortrijk vs KV Mechelen",
       "competition": "Belgium First Div",
       "commence_time": "2026-11-04T19:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.75 BUTS",
+            "cote": 1.98,
+            "probabilite_modele": 52.1,
+            "ev_pct": 3.3
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
