@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-11-05T13:43:21.310811+00:00",
+  "generated_at": "2026-11-05T23:01:55.360936+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 11,
   "matchs": [
     {
-      "match": "AC Milan vs Ferencváros TC",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-05T17:45:00Z",
-      "modele_a": null,
+      "match": "Gimnasia La Plata vs Belgrano de Cordoba",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-05T22:15:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 2.66,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 2.24,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": -25.8,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 51.5,
-            "ev_pct": 2.3
+            "marche": "VICTOIRE BELGRANO DE CORDOBA",
+            "cote": 23.25,
+            "probabilite_modele": 17.3,
+            "ev_pct": 302.5
+          },
+          {
+            "marche": "NUL",
+            "cote": 8.55,
+            "probabilite_modele": 22.2,
+            "ev_pct": 90.1
           }
         ]
       },
@@ -27,134 +37,225 @@
       }
     },
     {
-      "match": "AGF Aarhus vs SC Braga",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-05T17:45:00Z",
+      "match": "Botafogo-SP vs Londrina",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-05T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 88
+      },
+      "modele_b": {
+        "lambda_domicile": 2.12,
+        "lambda_exterieur": 0.48,
+        "divergence_pinnacle_public_pct": -1.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.19,
+            "probabilite_modele": 51.8,
+            "ev_pct": 13.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Palmeiras vs Remo",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-05T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 4.0,
+        "lambda_exterieur": 1.0,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE REMO",
+            "cote": 53.83,
+            "probabilite_modele": 4.7,
+            "ev_pct": 154.2
+          },
+          {
+            "marche": "NUL",
+            "cote": 25.5,
+            "probabilite_modele": 7.6,
+            "ev_pct": 94.2
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Cruzeiro vs Bahia",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE CRUZEIRO",
+        "cote": 1.79,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.2,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 50.3,
+            "ev_pct": 0.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Sydney FC vs Central Coast Mariners",
+      "competition": "A-League",
+      "commence_time": "2026-11-06T08:40:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.94,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.15,
+            "probabilite_modele": 46.9,
+            "ev_pct": 1.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Lokomotiv Moscow vs Rubin Kazan",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-11-06T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE RUBIN KAZAN",
+            "cote": 3.46,
+            "probabilite_modele": 29.1,
+            "ev_pct": 0.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Gazişehir Gaziantep vs Kasimpasa SK",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-06T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 1.64,
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.32,
         "divergence_pinnacle_public_pct": -0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "FC Midtjylland vs Ajax",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-05T17:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.7,
-        "lambda_exterieur": 2.0,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 49.0,
-            "ev_pct": 1.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Anderlecht vs Salzburg",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-05T17:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.02,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.24,
-            "probabilite_modele": 52.1,
-            "ev_pct": 16.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Atalanta BC vs FC Kairat",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-05T17:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 3.14,
-        "lambda_exterieur": 0.5,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.48,
-            "probabilite_modele": 50.7,
-            "ev_pct": 25.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Sparta Prague vs Bournemouth",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-05T17:45:00Z",
+      "match": "Motor Lublin vs Wisła Płock",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-11-06T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE BOURNEMOUTH",
-        "cote": 1.41,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 2.56,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Crystal Palace vs TSG Hoffenheim",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-05T17:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE CRYSTAL PALACE",
-        "cote": 1.83,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.18,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": 1.2,
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": 1.4,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "FC Thun vs Hearts",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-05T17:45:00Z",
+      "match": "Bayern Munich vs Werder Bremen",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-06T17:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
+        "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.85,
-        "indice_fixe": 85
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.14,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 2.96,
+        "lambda_exterieur": 0.68,
+        "divergence_pinnacle_public_pct": 1.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Dynamo Dresden vs Greuther Fürth",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-06T17:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.08,
+        "lambda_exterieur": 1.48,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 1.93,
+            "probabilite_modele": 52.0,
+            "ev_pct": 0.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Eintracht Braunschweig vs FC Energie Cottbus",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-06T17:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.06,
+        "lambda_exterieur": 1.56,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
