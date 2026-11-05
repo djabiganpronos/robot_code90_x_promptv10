@@ -1,139 +1,33 @@
 {
-  "generated_at": "2026-11-04T22:59:44.628150+00:00",
+  "generated_at": "2026-11-05T04:17:53.542898+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Atletico Paranaense vs Vasco da Gama",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-04T22:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE ATLETICO PARANAENSE",
-        "cote": 1.55,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.84,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 50.0,
-            "ev_pct": 5.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Flamengo vs Grêmio",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-04T22:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 3.0,
-        "lambda_exterieur": 0.62,
-        "divergence_pinnacle_public_pct": -6.3,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE GRÊMIO",
-            "cote": 36.23,
-            "probabilite_modele": 4.4,
-            "ev_pct": 58.4
-          },
-          {
-            "marche": "NUL",
-            "cote": 13.82,
-            "probabilite_modele": 11.2,
-            "ev_pct": 54.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Botafogo vs Atletico Mineiro",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-05T00:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE BOTAFOGO",
-        "cote": 1.58,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.84,
-        "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": 1.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 50.1,
-            "ev_pct": 6.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Sao Paulo vs Corinthians",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-05T00:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": -1.5,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.29,
-            "probabilite_modele": 50.5,
-            "ev_pct": 15.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "AC Milan vs Ferencváros TC",
       "competition": "UEFA Europa League",
       "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.83,
+        "cote": 1.82,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.56,
+        "lambda_domicile": 2.58,
         "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": -2.2,
+        "divergence_pinnacle_public_pct": -1.9,
         "value_bets": [
           {
             "marche": "VICTOIRE FERENCVÁROS TC",
-            "cote": 8.26,
-            "probabilite_modele": 13.8,
-            "ev_pct": 13.7
+            "cote": 8.29,
+            "probabilite_modele": 13.6,
+            "ev_pct": 12.7
           },
           {
             "marche": "PLUS DE 3.0 BUTS",
             "cote": 2.04,
-            "probabilite_modele": 50.4,
-            "ev_pct": 2.8
+            "probabilite_modele": 50.8,
+            "ev_pct": 3.3
           }
         ]
       },
@@ -148,9 +42,9 @@
       "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": -1.1,
+        "lambda_domicile": 1.04,
+        "lambda_exterieur": 1.56,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -159,21 +53,17 @@
       "match": "FC Midtjylland vs Ajax",
       "competition": "UEFA Europa Conference League",
       "commence_time": "2026-11-05T17:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 88
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.74,
-        "lambda_exterieur": 1.8,
-        "divergence_pinnacle_public_pct": 1.3,
+        "lambda_domicile": 1.78,
+        "lambda_exterieur": 1.84,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 52.4,
-            "ev_pct": 6.3
+            "cote": 2.05,
+            "probabilite_modele": 50.9,
+            "ev_pct": 4.3
           }
         ]
       },
@@ -190,13 +80,13 @@
       "modele_b": {
         "lambda_domicile": 2.04,
         "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": 0.3,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
             "cote": 2.24,
-            "probabilite_modele": 52.0,
-            "ev_pct": 16.6
+            "probabilite_modele": 51.9,
+            "ev_pct": 16.3
           }
         ]
       },
@@ -209,21 +99,17 @@
       "match": "Atalanta BC vs FC Kairat",
       "competition": "UEFA Europa Conference League",
       "commence_time": "2026-11-05T17:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 88
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.92,
-        "lambda_exterieur": 0.66,
+        "lambda_domicile": 2.96,
+        "lambda_exterieur": 0.68,
         "divergence_pinnacle_public_pct": 1.4,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 51.9,
-            "ev_pct": 12.0
+            "cote": 2.18,
+            "probabilite_modele": 50.7,
+            "ev_pct": 10.3
           }
         ]
       },
@@ -244,13 +130,13 @@
       "modele_b": {
         "lambda_domicile": 1.2,
         "lambda_exterieur": 2.44,
-        "divergence_pinnacle_public_pct": -0.3,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.32,
-            "probabilite_modele": 50.4,
-            "ev_pct": 16.8
+            "cote": 2.25,
+            "probabilite_modele": 50.3,
+            "ev_pct": 13.1
           }
         ]
       },
@@ -258,6 +144,50 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Crystal Palace vs TSG Hoffenheim",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.06,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 1.87,
+            "probabilite_modele": 53.4,
+            "ev_pct": 0.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Thun vs Hearts",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 85
+      },
+      "modele_b": {
+        "lambda_domicile": 1.98,
+        "lambda_exterieur": 1.76,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
