@@ -1,40 +1,300 @@
 {
-  "generated_at": "2026-11-06T13:27:40.748258+00:00",
+  "generated_at": "2026-11-06T22:31:59.894901+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 13,
   "matchs": [
     {
-      "match": "Lokomotiv Moscow vs Rubin Kazan",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-11-06T16:30:00Z",
+      "match": "Famalicão vs Arouca",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-11-06T20:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.3,
+        "lambda_exterieur": 0.23,
+        "divergence_pinnacle_public_pct": 9.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 0.5 BUTS",
+            "cote": 4.78,
+            "probabilite_modele": 41.1,
+            "ev_pct": 96.5
+          },
+          {
+            "marche": "VICTOIRE AROUCA",
+            "cote": 12.03,
+            "probabilite_modele": 16.1,
+            "ev_pct": 93.5
+          },
+          {
+            "marche": "VICTOIRE FAMALICÃO",
+            "cote": 7.35,
+            "probabilite_modele": 21.5,
+            "ev_pct": 58.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Independiente vs Deportivo Riestra",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-06T22:14:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 0.17,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 5.12,
+            "probabilite_modele": 20.9,
+            "ev_pct": 7.1
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Union Santa Fe vs Velez Sarsfield BA",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-06T22:14:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.64,
+        "lambda_exterieur": 0.74,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE VELEZ SARSFIELD BA",
+            "cote": 14.36,
+            "probabilite_modele": 8.1,
+            "ev_pct": 15.9
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "San Lorenzo vs Platense",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-06T22:15:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.48,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 0.88,
+        "lambda_exterieur": 0.8,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 1.5 BUTS",
+            "cote": 2.08,
+            "probabilite_modele": 50.3,
+            "ev_pct": 4.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Operario PR vs Sport Recife",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Gazişehir Gaziantep vs Kasimpasa SK",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-11-06T17:00:00Z",
+      "match": "Vitoria vs Fluminense",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-06T23:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": -0.8,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 48.1,
+            "ev_pct": 0.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Atlético San Luis vs FC Juárez",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-07T01:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ATLÉTICO SAN LUIS",
+        "cote": 1.63,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.82,
+        "lambda_exterieur": 0.88,
+        "divergence_pinnacle_public_pct": 1.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 49.5,
+            "ev_pct": 5.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Banfield vs Atlético Tucuman",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-07T01:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.24,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 48.6,
+            "ev_pct": 0.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "CA Tigre BA vs Sarmiento de Junin",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-07T01:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 0.98,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 47.3,
+            "ev_pct": 1.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Necaxa vs Tijuana",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-07T01:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Atlante FC vs Santos Laguna",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-07T03:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.18,
+            "probabilite_modele": 52.0,
+            "ev_pct": 13.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Auckland FC vs Wellington Phoenix FC",
+      "competition": "A-League",
+      "commence_time": "2026-11-07T04:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.84,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.3,
-        "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": -1.4,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.99,
+            "cote": 1.97,
             "probabilite_modele": 52.8,
-            "ev_pct": 5.0
+            "ev_pct": 3.9
           }
         ]
       },
@@ -44,20 +304,24 @@
       }
     },
     {
-      "match": "Motor Lublin vs Wisła Płock",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-11-06T17:00:00Z",
-      "modele_a": null,
+      "match": "Shimizu S Pulse vs Tokyo Verdy",
+      "competition": "J League",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 1.1,
+        "lambda_domicile": 1.3,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": -1.1,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 48.9,
-            "ev_pct": 2.9
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.23,
+            "probabilite_modele": 46.1,
+            "ev_pct": 2.8
           }
         ]
       },
@@ -65,75 +329,6 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
-    },
-    {
-      "match": "Bayern Munich vs Werder Bremen",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-06T17:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 3.06,
-        "lambda_exterieur": 0.74,
-        "divergence_pinnacle_public_pct": 1.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Dynamo Dresden vs Greuther Fürth",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-06T17:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.14,
-        "lambda_exterieur": 1.58,
-        "divergence_pinnacle_public_pct": 1.1,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Eintracht Braunschweig vs FC Energie Cottbus",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-06T17:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.06,
-        "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Eintracht Frankfurt vs VfL Wolfsburg",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-06T17:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 2.06,
-        "divergence_pinnacle_public_pct": -1.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "FC Viktoria Köln 1904 vs 1. FC Saarbrücken",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-11-06T18:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.12,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
     }
   ]
 }
