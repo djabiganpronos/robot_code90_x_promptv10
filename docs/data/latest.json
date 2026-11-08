@@ -1,210 +1,240 @@
 {
-  "generated_at": "2026-11-08T12:27:43.290580+00:00",
+  "generated_at": "2026-11-08T21:28:53.733312+00:00",
   "erreur": null,
-  "nb_matchs": 14,
+  "nb_matchs": 15,
   "matchs": [
     {
-      "match": "Çaykur Rizespor vs Erzurum BB",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-11-08T10:29:00Z",
+      "match": "Lech Poznań vs Zagłębie Lubin",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-11-08T19:19:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.37,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.0,
+        "lambda_exterieur": 2.56,
+        "divergence_pinnacle_public_pct": -5.0,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE ZAGŁĘBIE LUBIN",
+            "cote": 23.94,
+            "probabilite_modele": 70.2,
+            "ev_pct": 1580.3
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 6.82,
+            "probabilite_modele": 29.6,
+            "ev_pct": 101.8
+          },
+          {
+            "marche": "VICTOIRE LECH POZNAŃ",
+            "cote": 13.65,
+            "probabilite_modele": 9.2,
+            "ev_pct": 25.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Fiorentina vs Juventus",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-11-08T19:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.04,
+        "lambda_exterieur": 2.34,
+        "divergence_pinnacle_public_pct": 7.7,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE FIORENTINA",
+            "cote": 5.84,
+            "probabilite_modele": 29.1,
+            "ev_pct": 69.7
+          },
+          {
+            "marche": "VICTOIRE JUVENTUS",
+            "cote": 3.6,
+            "probabilite_modele": 41.1,
+            "ev_pct": 47.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "RC Lens vs Marseille",
+      "competition": "Ligue 1 - France",
+      "commence_time": "2026-11-08T19:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.68,
+        "lambda_exterieur": 1.64,
+        "divergence_pinnacle_public_pct": 20.8,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE RC LENS",
+            "cote": 31.0,
+            "probabilite_modele": 31.6,
+            "ev_pct": 878.4
+          },
+          {
+            "marche": "NUL",
+            "cote": 4.92,
+            "probabilite_modele": 38.9,
+            "ev_pct": 91.6
+          },
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.57,
+            "probabilite_modele": 46.5,
+            "ev_pct": 19.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Atlético Madrid vs Barcelona",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-11-08T20:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 2.08,
+        "divergence_pinnacle_public_pct": 14.1,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE ATLÉTICO MADRID",
+            "cote": 11.75,
+            "probabilite_modele": 26.5,
+            "ev_pct": 211.1
+          },
+          {
+            "marche": "NUL",
+            "cote": 4.02,
+            "probabilite_modele": 27.0,
+            "ev_pct": 8.6
+          },
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.22,
+            "probabilite_modele": 48.6,
+            "ev_pct": 7.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "CF Estrela vs Benfica",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-11-08T20:31:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.21,
+        "lambda_exterieur": 2.58,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 47.4,
+            "ev_pct": 1.4
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Rio Ave FC vs Braga",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-11-08T20:31:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
         "cote": 1.79,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 3.28,
-        "lambda_exterieur": 0.21,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 7.6,
-            "probabilite_modele": 46.2,
-            "ev_pct": 251.0
-          },
-          {
-            "marche": "VICTOIRE ERZURUM BB",
-            "cote": 322.6,
-            "probabilite_modele": 1.0,
-            "ev_pct": 215.5
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "FC Copenhagen vs Brondby IF",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-11-08T11:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 0.07,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 1.5 BUTS",
-            "cote": 2.3,
-            "probabilite_modele": 52.3,
-            "ev_pct": 20.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Kryliya Sovetov vs Gazovik Orenburg",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-11-08T11:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.5,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 15.75,
-            "probabilite_modele": 8.8,
-            "ev_pct": 38.8
-          },
-          {
-            "marche": "MOINS DE 2.0 BUTS",
-            "cote": 2.24,
-            "probabilite_modele": 53.9,
-            "ev_pct": 20.7
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Heerenveen vs Feyenoord",
-      "competition": "Dutch Eredivisie",
-      "commence_time": "2026-11-08T11:15:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 5.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.98,
-        "lambda_exterieur": 3.9,
-        "divergence_pinnacle_public_pct": -15.9,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE FEYENOORD",
-            "cote": 2.14,
-            "probabilite_modele": 69.5,
-            "ev_pct": 49.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Napoli vs Lazio",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-11-08T11:32:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.86,
-        "lambda_exterieur": 1.7,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 52.6,
-            "ev_pct": 10.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Stafford Rangers FC vs Grimsby Town",
-      "competition": "FA Cup",
-      "commence_time": "2026-11-08T12:01:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.96,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": -1.6,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.42,
-            "probabilite_modele": 52.3,
-            "ev_pct": 26.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "1. FC Heidenheim vs Hannover 96",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-08T12:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.1,
-        "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": 0.7,
+        "lambda_domicile": 0.48,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "1. FC Magdeburg vs FC St. Pauli",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-08T12:30:00Z",
-      "modele_a": null,
+      "match": "Union La Calera vs Huachipato",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-11-08T20:31:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": -1.1,
+        "lambda_domicile": 1.94,
+        "lambda_exterieur": 0.6,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 49.6,
-            "ev_pct": 4.3
+            "marche": "VICTOIRE HUACHIPATO",
+            "cote": 9.69,
+            "probabilite_modele": 10.6,
+            "ev_pct": 2.4
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Ceará vs América Mineiro",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-08T22:15:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE CEARÁ",
+        "cote": 1.68,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 0.9,
+        "divergence_pinnacle_public_pct": 2.0,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 50.0,
+            "ev_pct": 0.8
           }
         ]
       },
@@ -214,24 +244,20 @@
       }
     },
     {
-      "match": "Club Brugge vs Anderlecht",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-11-08T12:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
+      "match": "Goiás vs Ponte Preta",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-08T22:15:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.28,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 3.06,
+        "lambda_exterieur": 0.62,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
             "cote": 2.04,
-            "probabilite_modele": 52.8,
-            "ev_pct": 8.0
+            "probabilite_modele": 49.9,
+            "ev_pct": 1.7
           }
         ]
       },
@@ -241,54 +267,60 @@
       }
     },
     {
-      "match": "SV Meppen vs Jahn Regensburg",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-11-08T12:30:00Z",
+      "match": "Central Córdoba vs Lanus",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-08T22:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE LANUS",
+        "cote": 1.79,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.96,
+        "lambda_exterieur": 1.68,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.17,
+            "probabilite_modele": 49.4,
+            "ev_pct": 6.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Universidad de Concepción vs O'Higgins",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-11-08T23:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.96,
-        "lambda_exterieur": 1.74,
-        "divergence_pinnacle_public_pct": 1.0,
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "VfL Bochum vs Karlsruher SC",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-08T12:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE VFL BOCHUM",
-        "cote": 1.69,
-        "indice_fixe": 78
-      },
+      "match": "Querétaro vs Puebla",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-09T00:00:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.26,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": 1.8,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "AGF Aarhus vs AC Horsens",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-11-08T13:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE AGF AARHUS",
-        "cote": 1.71,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.72,
-        "lambda_exterieur": 0.92,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.0,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 51.0,
-            "ev_pct": 10.4
+            "cote": 2.11,
+            "probabilite_modele": 50.7,
+            "ev_pct": 6.9
           }
         ]
       },
@@ -298,24 +330,20 @@
       }
     },
     {
-      "match": "HJK Helsinki vs AC Oulu",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-11-08T13:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.75 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
+      "match": "León vs Guadalajara",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-09T02:10:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.86,
-        "lambda_exterieur": 0.7,
-        "divergence_pinnacle_public_pct": 1.7,
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 1.56,
+        "divergence_pinnacle_public_pct": -1.0,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.75 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 52.6,
-            "ev_pct": 16.7
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 49.2,
+            "ev_pct": 2.0
           }
         ]
       },
@@ -325,21 +353,54 @@
       }
     },
     {
-      "match": "Halmstads BK vs Djurgardens IF",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-11-08T13:00:00Z",
+      "match": "1. FC Köln vs RB Leipzig",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-09T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE DJURGARDENS IF",
-        "cote": 1.42,
-        "indice_fixe": 84
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.74,
-        "lambda_exterieur": 2.0,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": []
+        "lambda_domicile": 1.62,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.75 BUTS",
+            "cote": 2.24,
+            "probabilite_modele": 47.1,
+            "ev_pct": 5.3
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Kristiansund BK vs Vålerenga",
+      "competition": "Eliteserien - Norway",
+      "commence_time": "2026-11-09T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 1.84,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 51.8,
+            "ev_pct": 6.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
