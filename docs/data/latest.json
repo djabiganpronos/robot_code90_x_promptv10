@@ -1,23 +1,60 @@
 {
-  "generated_at": "2026-11-08T03:26:19.062048+00:00",
+  "generated_at": "2026-11-08T12:27:43.290580+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 14,
   "matchs": [
     {
-      "match": "Pumas vs América",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-08T03:10:00Z",
-      "modele_a": null,
+      "match": "Çaykur Rizespor vs Erzurum BB",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-08T10:29:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 2.2,
-        "lambda_exterieur": 2.42,
-        "divergence_pinnacle_public_pct": 2.2,
+        "lambda_domicile": 3.28,
+        "lambda_exterieur": 0.21,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "VICTOIRE PUMAS",
-            "cote": 3.0,
-            "probabilite_modele": 34.5,
-            "ev_pct": 3.2
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 7.6,
+            "probabilite_modele": 46.2,
+            "ev_pct": 251.0
+          },
+          {
+            "marche": "VICTOIRE ERZURUM BB",
+            "cote": 322.6,
+            "probabilite_modele": 1.0,
+            "ev_pct": 215.5
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Copenhagen vs Brondby IF",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-11-08T11:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 0.07,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 1.5 BUTS",
+            "cote": 2.3,
+            "probabilite_modele": 52.3,
+            "ev_pct": 20.0
           }
         ]
       },
@@ -27,20 +64,84 @@
       }
     },
     {
-      "match": "Macarthur FC vs Brisbane Roar",
-      "competition": "A-League",
-      "commence_time": "2026-11-08T04:00:00Z",
-      "modele_a": null,
+      "match": "Kryliya Sovetov vs Gazovik Orenburg",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-11-08T11:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": -0.9,
+        "lambda_domicile": 2.5,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 15.75,
+            "probabilite_modele": 8.8,
+            "ev_pct": 38.8
+          },
+          {
+            "marche": "MOINS DE 2.0 BUTS",
+            "cote": 2.24,
+            "probabilite_modele": 53.9,
+            "ev_pct": 20.7
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Heerenveen vs Feyenoord",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-11-08T11:15:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 5.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.98,
+        "lambda_exterieur": 3.9,
+        "divergence_pinnacle_public_pct": -15.9,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE FEYENOORD",
+            "cote": 2.14,
+            "probabilite_modele": 69.5,
+            "ev_pct": 49.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Napoli vs Lazio",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-11-08T11:32:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.86,
+        "lambda_exterieur": 1.7,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 49.9,
-            "ev_pct": 3.2
+            "cote": 2.09,
+            "probabilite_modele": 52.6,
+            "ev_pct": 10.1
           }
         ]
       },
@@ -50,82 +151,24 @@
       }
     },
     {
-      "match": "Daejeon Citizen vs Incheon United",
-      "competition": "K League 1",
-      "commence_time": "2026-11-08T05:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": []
+      "match": "Stafford Rangers FC vs Grimsby Town",
+      "competition": "FA Cup",
+      "commence_time": "2026-11-08T12:01:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
       },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "FC Machida Zelvia vs Hiroshima Sanfrecce FC",
-      "competition": "J League",
-      "commence_time": "2026-11-08T05:00:00Z",
-      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": -1.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "FC Seoul vs Ulsan Hyundai FC",
-      "competition": "K League 1",
-      "commence_time": "2026-11-08T05:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": -0.4,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Vissel Kobe vs Urawa Red Diamonds",
-      "competition": "J League",
-      "commence_time": "2026-11-08T05:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.14,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.75 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 50.4,
-            "ev_pct": 0.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Adelaide United vs Melbourne Victory",
-      "competition": "A-League",
-      "commence_time": "2026-11-08T06:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -0.9,
+        "lambda_domicile": 0.96,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": -1.6,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 50.5,
-            "ev_pct": 11.0
+            "cote": 2.42,
+            "probabilite_modele": 52.3,
+            "ev_pct": 26.7
           }
         ]
       },
@@ -135,19 +178,32 @@
       }
     },
     {
-      "match": "Gamba Osaka vs Cerezo Osaka",
-      "competition": "J League",
-      "commence_time": "2026-11-08T06:00:00Z",
+      "match": "1. FC Heidenheim vs Hannover 96",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-08T12:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 2.1,
+        "lambda_exterieur": 1.52,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "1. FC Magdeburg vs FC St. Pauli",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-08T12:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": -1.1,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 50.9,
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 49.6,
             "ev_pct": 4.3
           }
         ]
@@ -158,14 +214,129 @@
       }
     },
     {
-      "match": "Beijing FC vs Chongqing Tonglianglong FC",
-      "competition": "Super League - China",
-      "commence_time": "2026-11-08T07:30:00Z",
+      "match": "Club Brugge vs Anderlecht",
+      "competition": "Belgium First Div",
+      "commence_time": "2026-11-08T12:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.28,
+        "lambda_exterieur": 1.24,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 52.8,
+            "ev_pct": 8.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "SV Meppen vs Jahn Regensburg",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-11-08T12:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.7,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": 2.2,
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 1.74,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "VfL Bochum vs Karlsruher SC",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-08T12:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE VFL BOCHUM",
+        "cote": 1.69,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.26,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": 1.8,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "AGF Aarhus vs AC Horsens",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-11-08T13:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE AGF AARHUS",
+        "cote": 1.71,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.72,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 51.0,
+            "ev_pct": 10.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "HJK Helsinki vs AC Oulu",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-11-08T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.75 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.86,
+        "lambda_exterieur": 0.7,
+        "divergence_pinnacle_public_pct": 1.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.75 BUTS",
+            "cote": 2.22,
+            "probabilite_modele": 52.6,
+            "ev_pct": 16.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Halmstads BK vs Djurgardens IF",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-11-08T13:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE DJURGARDENS IF",
+        "cote": 1.42,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 0.74,
+        "lambda_exterieur": 2.0,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
