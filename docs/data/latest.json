@@ -1,60 +1,27 @@
 {
-  "generated_at": "2026-11-09T03:43:17.628624+00:00",
+  "generated_at": "2026-11-09T14:43:02.524719+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "León vs Guadalajara",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-09T02:10:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE GUADALAJARA",
-        "cote": 1.72,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.05,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 3.28,
-            "probabilite_modele": 41.1,
-            "ev_pct": 34.7
-          },
-          {
-            "marche": "MOINS DE 0.5 BUTS",
-            "cote": 2.36,
-            "probabilite_modele": 46.2,
-            "ev_pct": 9.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "1. FC Köln vs RB Leipzig",
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-11-09T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
+        "pari": "VICTOIRE 1. FC KÖLN",
+        "cote": 1.76,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.68,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.23,
-            "probabilite_modele": 47.1,
-            "ev_pct": 5.2
+            "cote": 2.21,
+            "probabilite_modele": 49.0,
+            "ev_pct": 8.4
           }
         ]
       },
@@ -69,15 +36,15 @@
       "commence_time": "2026-11-09T18:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.72,
-        "lambda_exterieur": 1.88,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.68,
+        "lambda_exterieur": 1.92,
+        "divergence_pinnacle_public_pct": -0.6,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 51.5,
-            "ev_pct": 5.9
+            "cote": 2.03,
+            "probabilite_modele": 51.1,
+            "ev_pct": 4.0
           }
         ]
       },
@@ -90,17 +57,44 @@
       "match": "Plymouth Parkway FC vs Berkhamsted FC",
       "competition": "FA Cup",
       "commence_time": "2026-11-09T19:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "VICTOIRE PLYMOUTH PARKWAY FC",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": 0.7,
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 1.3,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 49.3,
-            "ev_pct": 6.2
+            "cote": 2.07,
+            "probabilite_modele": 49.9,
+            "ev_pct": 3.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Las Palmas vs CD Eldense",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-09T19:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 52.1,
+            "ev_pct": 5.2
           }
         ]
       },
@@ -114,14 +108,14 @@
       "competition": "La Liga 2 - Spain",
       "commence_time": "2026-11-09T19:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE SABADELL FC",
-        "cote": 1.76,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 88
       },
       "modele_b": {
-        "lambda_domicile": 1.74,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 0.9,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -130,21 +124,17 @@
       "match": "BK Hacken vs Chelsea",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-10T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 85
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.72,
-        "lambda_exterieur": 3.02,
-        "divergence_pinnacle_public_pct": -0.7,
+        "lambda_domicile": 0.8,
+        "lambda_exterieur": 2.84,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.23,
-            "probabilite_modele": 48.6,
-            "ev_pct": 8.2
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 50.8,
+            "ev_pct": 6.0
           }
         ]
       },
@@ -158,20 +148,20 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-10T17:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.82,
         "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 2.46,
         "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": 0.0,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 52.0,
-            "ev_pct": 7.4
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 52.1,
+            "ev_pct": 5.3
           }
         ]
       },
@@ -181,30 +171,30 @@
       }
     },
     {
-      "match": "CF Trival Valderas vs Leganés",
+      "match": "CD Pamplona vs SD Eibar",
       "competition": "Copa del Rey",
-      "commence_time": "2026-11-10T19:00:00Z",
+      "commence_time": "2026-11-10T18:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.86,
-        "lambda_exterieur": 2.78,
-        "divergence_pinnacle_public_pct": 1.0,
+        "lambda_domicile": 0.92,
+        "lambda_exterieur": 2.86,
+        "divergence_pinnacle_public_pct": 1.1,
         "value_bets": [
-          {
-            "marche": "VICTOIRE CF TRIVAL VALDERAS",
-            "cote": 12.37,
-            "probabilite_modele": 8.7,
-            "ev_pct": 7.7
-          },
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 49.3,
-            "ev_pct": 1.8
+            "cote": 2.2,
+            "probabilite_modele": 52.3,
+            "ev_pct": 15.1
+          },
+          {
+            "marche": "VICTOIRE CD PAMPLONA",
+            "cote": 12.93,
+            "probabilite_modele": 8.7,
+            "ev_pct": 12.8
           }
         ]
       },
@@ -212,23 +202,6 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
-    },
-    {
-      "match": "Mijas Las Lagunas vs Real Jaen",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-10T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.12,
-        "lambda_exterieur": 1.5,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
     }
   ]
 }
