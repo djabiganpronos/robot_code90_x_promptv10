@@ -1,138 +1,46 @@
 {
-  "generated_at": "2026-11-11T13:13:18.187630+00:00",
+  "generated_at": "2026-11-11T23:51:33.526521+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Leuven vs HB Køge",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-11T17:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE HB KØGE",
-        "cote": 1.65,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.9,
-        "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 51.2,
-            "ev_pct": 6.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Sheffield Wednesday vs Accrington Stanley",
-      "competition": "EFL Trophy",
-      "commence_time": "2026-11-11T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.34,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": -1.3,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 51.7,
-            "ev_pct": 3.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Barnsley vs Oldham Athletic",
-      "competition": "EFL Trophy",
-      "commence_time": "2026-11-11T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.26,
-        "lambda_exterieur": 1.5,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 48.2,
-            "ev_pct": 0.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Juventus vs Lyon",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-11T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.0 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.0,
-        "lambda_exterieur": 3.76,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 4.0 BUTS",
-            "cote": 2.62,
-            "probabilite_modele": 48.3,
-            "ev_pct": 26.7
-          },
-          {
-            "marche": "VICTOIRE JUVENTUS",
-            "cote": 17.62,
-            "probabilite_modele": 5.7,
-            "ev_pct": 1.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Londrina vs Nautico PE",
       "competition": "Brazil Série B",
       "commence_time": "2026-11-11T22:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.72,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": []
+        "lambda_domicile": 0.74,
+        "lambda_exterieur": 2.38,
+        "divergence_pinnacle_public_pct": -66.0,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE NAUTICO PE",
+            "cote": 75.58,
+            "probabilite_modele": 73.5,
+            "ev_pct": 5456.5
+          },
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 7.12,
+            "probabilite_modele": 38.5,
+            "ev_pct": 174.5
+          },
+          {
+            "marche": "NUL",
+            "cote": 7.57,
+            "probabilite_modele": 19.1,
+            "ev_pct": 44.7
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Armenia vs Cyprus",
@@ -140,11 +48,11 @@
       "commence_time": "2026-11-12T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.25 BUTS",
-        "cote": 1.77,
+        "cote": 1.76,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.38,
+        "lambda_domicile": 1.34,
         "lambda_exterieur": 1.16,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
@@ -156,20 +64,47 @@
       "competition": "UEFA Nations League",
       "commence_time": "2026-11-12T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.25 BUTS",
-        "cote": 1.85,
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.82,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 2.12,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 2.06,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.25 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 52.9,
-            "ev_pct": 1.6
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 1.93,
+            "probabilite_modele": 53.8,
+            "ev_pct": 3.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "CD Puertollano vs Albacete",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-12T17:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ALBACETE",
+        "cote": 1.54,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.86,
+        "lambda_exterieur": 1.82,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.08,
+            "probabilite_modele": 49.9,
+            "ev_pct": 3.8
           }
         ]
       },
@@ -182,21 +117,17 @@
       "match": "Barcelona vs Arsenal",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-12T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.75 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.76,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 3.5,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.75 BUTS",
-            "cote": 2.51,
-            "probabilite_modele": 47.7,
-            "ev_pct": 20.0
+            "marche": "MOINS DE 4.0 BUTS",
+            "cote": 2.75,
+            "probabilite_modele": 49.4,
+            "ev_pct": 35.7
           }
         ]
       },
@@ -204,6 +135,84 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "CDA Navalcarnero vs Real Betis",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-12T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.7,
+        "lambda_exterieur": 2.96,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Tarancón vs Levante",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-12T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.7,
+        "lambda_exterieur": 3.08,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE TARANCÓN",
+            "cote": 18.44,
+            "probabilite_modele": 5.6,
+            "ev_pct": 2.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Albania vs Finland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-12T19:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.59,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 0.88,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "San Marino vs Belarus",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-12T19:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.4,
+        "lambda_exterieur": 2.54,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
     }
   ]
 }
