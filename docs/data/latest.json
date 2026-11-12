@@ -1,156 +1,61 @@
 {
-  "generated_at": "2026-11-12T14:16:55.489732+00:00",
+  "generated_at": "2026-11-12T22:58:41.511973+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Armenia vs Cyprus",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-12T17:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": -1.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 47.0,
-            "ev_pct": 2.5
-          }
-        ]
+      "match": "Ponte Preta vs Operario PR",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-12T22:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "modele_b": {
+        "lambda_domicile": 0.56,
+        "lambda_exterieur": 0.88,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     },
     {
-      "match": "Turkey vs Belgium",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-12T17:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 2.08,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.25 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 51.3,
-            "ev_pct": 2.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "CD Puertollano vs Albacete",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-12T17:30:00Z",
+      "match": "São Bernardo vs Athletic Club (MG)",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-12T23:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.8,
+        "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.72,
-        "lambda_exterieur": 1.86,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.23,
-            "probabilite_modele": 52.5,
-            "ev_pct": 17.1
-          }
-        ]
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": -1.2,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
-      "match": "Barcelona vs Arsenal",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-12T17:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 3.36,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 4.0 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 50.4,
-            "ev_pct": 8.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "CDA Navalcarnero vs Real Betis",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-12T18:00:00Z",
+      "match": "Moldova vs Kazakhstan",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-13T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.74,
-        "lambda_exterieur": 2.96,
-        "divergence_pinnacle_public_pct": 2.7,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CDA NAVALCARNERO",
-            "cote": 18.21,
-            "probabilite_modele": 7.1,
-            "ev_pct": 29.4
-          },
-          {
-            "marche": "NUL",
-            "cote": 9.46,
-            "probabilite_modele": 11.1,
-            "ev_pct": 4.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Tarancón vs Levante",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-12T18:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.75,
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.7,
-        "lambda_exterieur": 3.1,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": [
           {
-            "marche": "VICTOIRE TARANCÓN",
-            "cote": 19.22,
-            "probabilite_modele": 5.5,
-            "ev_pct": 6.1
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 2.38,
+            "probabilite_modele": 52.2,
+            "ev_pct": 24.3
           }
         ]
       },
@@ -160,24 +65,30 @@
       }
     },
     {
-      "match": "Albania vs Finland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-12T19:45:00Z",
+      "match": "Hamburger SV vs FSV Mainz 05",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-13T17:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
+        "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.79,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 2.14,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": -1.2,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.0 BUTS",
-            "cote": 1.96,
-            "probabilite_modele": 55.2,
-            "ev_pct": 8.4
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 1.98,
+            "probabilite_modele": 53.2,
+            "ev_pct": 5.5
+          },
+          {
+            "marche": "VICTOIRE FSV MAINZ 05",
+            "cote": 4.3,
+            "probabilite_modele": 23.3,
+            "ev_pct": 0.4
           }
         ]
       },
@@ -187,20 +98,118 @@
       }
     },
     {
-      "match": "San Marino vs Belarus",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-12T19:45:00Z",
-      "modele_a": null,
+      "match": "Dijon vs Orléans",
+      "competition": "Coupe de France",
+      "commence_time": "2026-11-13T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 0.27,
-        "lambda_exterieur": 2.46,
+        "lambda_domicile": 2.3,
+        "lambda_exterieur": 1.24,
         "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 48.6,
-            "ev_pct": 5.9
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 52.6,
+            "ev_pct": 7.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Leganés vs Burgos CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-13T19:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 47.4,
+            "ev_pct": 1.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Andorra vs Gibraltar",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-13T19:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ANDORRA",
+        "cote": 1.68,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 0.46,
+        "divergence_pinnacle_public_pct": 1.5,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 1.75 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 50.2,
+            "ev_pct": 6.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Liechtenstein vs Azerbaijan",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-13T19:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.25 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.52,
+        "lambda_exterieur": 2.04,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Bulgaria vs Iceland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-13T19:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ICELAND",
+        "cote": 1.84,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.02,
+        "lambda_exterieur": 1.68,
+        "divergence_pinnacle_public_pct": -0.9,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 51.2,
+            "ev_pct": 3.8
           }
         ]
       },
