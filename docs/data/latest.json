@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T04:56:30.456399+00:00",
+  "generated_at": "2026-11-12T14:16:55.489732+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,38 +7,40 @@
       "match": "Armenia vs Cyprus",
       "competition": "UEFA Nations League",
       "commence_time": "2026-11-12T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.25 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": -1.1,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.18,
+            "probabilite_modele": 47.0,
+            "ev_pct": 2.5
+          }
+        ]
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Turkey vs Belgium",
       "competition": "UEFA Nations League",
       "commence_time": "2026-11-12T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.42,
+        "lambda_domicile": 1.52,
         "lambda_exterieur": 2.08,
-        "divergence_pinnacle_public_pct": -0.0,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 1.93,
-            "probabilite_modele": 53.5,
-            "ev_pct": 3.0
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 51.3,
+            "ev_pct": 2.1
           }
         ]
       },
@@ -53,19 +55,19 @@
       "commence_time": "2026-11-12T17:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.8,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.84,
-        "lambda_exterieur": 1.78,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 0.72,
+        "lambda_exterieur": 1.86,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 51.2,
-            "ev_pct": 6.5
+            "cote": 2.23,
+            "probabilite_modele": 52.5,
+            "ev_pct": 17.1
           }
         ]
       },
@@ -78,27 +80,17 @@
       "match": "Barcelona vs Arsenal",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-12T17:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.0 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 3.3,
-        "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": -0.9,
+        "lambda_domicile": 3.36,
+        "lambda_exterieur": 1.28,
+        "divergence_pinnacle_public_pct": 0.7,
         "value_bets": [
           {
             "marche": "MOINS DE 4.0 BUTS",
-            "cote": 2.68,
-            "probabilite_modele": 52.1,
-            "ev_pct": 39.5
-          },
-          {
-            "marche": "VICTOIRE ARSENAL",
-            "cote": 9.82,
-            "probabilite_modele": 10.3,
-            "ev_pct": 1.5
+            "cote": 2.16,
+            "probabilite_modele": 50.4,
+            "ev_pct": 8.7
           }
         ]
       },
@@ -113,19 +105,25 @@
       "commence_time": "2026-11-12T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.8,
+        "cote": 1.84,
         "indice_fixe": 82
       },
       "modele_b": {
         "lambda_domicile": 0.74,
-        "lambda_exterieur": 2.9,
-        "divergence_pinnacle_public_pct": 2.0,
+        "lambda_exterieur": 2.96,
+        "divergence_pinnacle_public_pct": 2.7,
         "value_bets": [
           {
             "marche": "VICTOIRE CDA NAVALCARNERO",
-            "cote": 15.0,
-            "probabilite_modele": 7.4,
-            "ev_pct": 11.3
+            "cote": 18.21,
+            "probabilite_modele": 7.1,
+            "ev_pct": 29.4
+          },
+          {
+            "marche": "NUL",
+            "cote": 9.46,
+            "probabilite_modele": 11.1,
+            "ev_pct": 4.6
           }
         ]
       },
@@ -140,19 +138,19 @@
       "commence_time": "2026-11-12T18:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.76,
+        "cote": 1.75,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 0.7,
-        "lambda_exterieur": 3.08,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_exterieur": 3.1,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
             "marche": "VICTOIRE TARANCÓN",
-            "cote": 18.67,
-            "probabilite_modele": 5.6,
-            "ev_pct": 4.1
+            "cote": 19.22,
+            "probabilite_modele": 5.5,
+            "ev_pct": 6.1
           }
         ]
       },
@@ -165,23 +163,21 @@
       "match": "Albania vs Finland",
       "competition": "UEFA Nations League",
       "commence_time": "2026-11-12T19:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.14,
-        "divergence_pinnacle_public_pct": -1.7,
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.02,
+        "divergence_pinnacle_public_pct": 0.4,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.4,
-            "probabilite_modele": 49.1,
-            "ev_pct": 17.8
-          },
-          {
-            "marche": "VICTOIRE FINLAND",
-            "cote": 3.69,
-            "probabilite_modele": 28.0,
-            "ev_pct": 3.4
+            "marche": "MOINS DE 2.0 BUTS",
+            "cote": 1.96,
+            "probabilite_modele": 55.2,
+            "ev_pct": 8.4
           }
         ]
       },
@@ -194,21 +190,17 @@
       "match": "San Marino vs Belarus",
       "competition": "UEFA Nations League",
       "commence_time": "2026-11-12T19:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.32,
-        "lambda_exterieur": 2.48,
-        "divergence_pinnacle_public_pct": -0.1,
+        "lambda_domicile": 0.27,
+        "lambda_exterieur": 2.46,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 47.1,
-            "ev_pct": 1.6
+            "cote": 2.18,
+            "probabilite_modele": 48.6,
+            "ev_pct": 5.9
           }
         ]
       },
