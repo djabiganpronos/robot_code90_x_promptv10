@@ -1,143 +1,27 @@
 {
-  "generated_at": "2026-11-13T13:38:48.924816+00:00",
+  "generated_at": "2026-11-13T23:01:32.218900+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Moldova vs Kazakhstan",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-13T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 52.0,
-            "ev_pct": 7.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Hamburger SV vs FSV Mainz 05",
+      "match": "TSG Hoffenheim vs SC Freiburg",
       "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-13T17:30:00Z",
+      "commence_time": "2026-11-14T11:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.14,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": -1.5,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 53.2,
-            "ev_pct": 5.9
-          },
-          {
-            "marche": "VICTOIRE FSV MAINZ 05",
-            "cote": 4.36,
-            "probabilite_modele": 23.3,
-            "ev_pct": 1.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Dijon vs Orléans",
-      "competition": "Coupe de France",
-      "commence_time": "2026-11-13T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
+        "pari": "VICTOIRE TSG HOFFENHEIM",
+        "cote": 1.71,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.78,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": -1.6,
+        "lambda_domicile": 2.2,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": 1.9,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 48.8,
-            "ev_pct": 6.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "US St Philbert de Grandlieu vs VFC La Roche-sur-Yon",
-      "competition": "Coupe de France",
-      "commence_time": "2026-11-13T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.7,
-        "lambda_exterieur": 2.12,
-        "divergence_pinnacle_public_pct": 2.7,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE US ST PHILBERT DE GRANDLIEU",
-            "cote": 8.99,
-            "probabilite_modele": 12.0,
-            "ev_pct": 8.0
-          },
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 46.9,
-            "ev_pct": 2.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Leganés vs Burgos CF",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-11-13T19:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.25 BUTS",
+            "marche": "PLUS DE 3.5 BUTS",
             "cote": 2.1,
-            "probabilite_modele": 47.8,
-            "ev_pct": 0.3
+            "probabilite_modele": 49.5,
+            "ev_pct": 4.1
           }
         ]
       },
@@ -147,47 +31,33 @@
       }
     },
     {
-      "match": "Andorra vs Gibraltar",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-13T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.75 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 0.42,
-        "divergence_pinnacle_public_pct": 0.8,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 1.75 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 48.5,
-            "ev_pct": 4.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Liechtenstein vs Azerbaijan",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-13T19:45:00Z",
+      "match": "Exeter City vs Cheltenham Town",
+      "competition": "League 2",
+      "commence_time": "2026-11-14T12:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.42,
-        "lambda_exterieur": 2.28,
-        "divergence_pinnacle_public_pct": -0.0,
+        "lambda_domicile": 1.62,
+        "lambda_exterieur": 1.02,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Real Valladolid CF vs CD Castellón",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-14T13:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": 0.7,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.25 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 50.6,
-            "ev_pct": 4.5
+            "marche": "MOINS DE 2.75 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 49.5,
+            "ev_pct": 0.9
           }
         ]
       },
@@ -197,18 +67,108 @@
       }
     },
     {
-      "match": "Bulgaria vs Iceland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-13T19:45:00Z",
+      "match": "FC Versailles vs Rodez AF",
+      "competition": "Coupe de France",
+      "commence_time": "2026-11-14T13:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Tourcoing vs Stade de Reims",
+      "competition": "Coupe de France",
+      "commence_time": "2026-11-14T13:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.82,
+        "pari": "MOINS DE 4.25 BUTS",
+        "cote": 1.75,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.86,
-        "lambda_exterieur": 1.68,
-        "divergence_pinnacle_public_pct": -1.2,
+        "lambda_domicile": 0.82,
+        "lambda_exterieur": 3.7,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Werder Bremen vs Union Berlin",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-14T13:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.16,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 52.4,
+            "ev_pct": 7.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "CA Boulay vs Sochaux",
+      "competition": "Coupe de France",
+      "commence_time": "2026-11-14T13:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.8,
+        "lambda_exterieur": 2.96,
+        "divergence_pinnacle_public_pct": 2.6,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE CA BOULAY",
+            "cote": 17.67,
+            "probabilite_modele": 7.5,
+            "ev_pct": 31.7
+          },
+          {
+            "marche": "NUL",
+            "cote": 8.7,
+            "probabilite_modele": 11.8,
+            "ev_pct": 3.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Kosovo vs Israel",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-14T14:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE KOSOVO",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 1.0,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
