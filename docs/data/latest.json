@@ -1,215 +1,648 @@
 {
-  "generated_at": "2026-11-14T12:43:17.225488+00:00",
+  "generated_at": "2026-11-14T21:48:55.231906+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 22,
   "matchs": [
     {
-      "match": "TSG Hoffenheim vs SC Freiburg",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-14T11:00:00Z",
+      "match": "América Mineiro vs Avai",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-14T19:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.54,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.39,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.32,
-        "lambda_exterieur": 0.19,
-        "divergence_pinnacle_public_pct": 6.4,
+        "lambda_domicile": 0.05,
+        "lambda_exterieur": 2.16,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "PLUS DE 0.5 BUTS",
-            "cote": 3.31,
-            "probabilite_modele": 39.3,
-            "ev_pct": 30.1
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 12.5,
+            "probabilite_modele": 34.8,
+            "ev_pct": 334.9
           },
           {
-            "marche": "VICTOIRE TSG HOFFENHEIM",
-            "cote": 5.4,
-            "probabilite_modele": 23.1,
-            "ev_pct": 24.5
-          },
-          {
-            "marche": "VICTOIRE SC FREIBURG",
-            "cote": 8.38,
-            "probabilite_modele": 13.5,
-            "ev_pct": 13.4
+            "marche": "NUL",
+            "cote": 26.0,
+            "probabilite_modele": 12.2,
+            "ev_pct": 216.9
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
     },
     {
-      "match": "Exeter City vs Cheltenham Town",
-      "competition": "League 2",
-      "commence_time": "2026-11-14T12:30:00Z",
+      "match": "Juventude vs Botafogo-SP",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-14T19:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.31,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.06,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 26.0,
+            "probabilite_modele": 13.4,
+            "ev_pct": 248.5
+          },
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 8.65,
+            "probabilite_modele": 31.3,
+            "ev_pct": 171.0
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Clube de Regatas Brasil vs Ceará",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-14T19:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.5,
+        "lambda_domicile": 0.78,
+        "lambda_exterieur": 1.7,
+        "divergence_pinnacle_public_pct": 2.3,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE CEARÁ",
+            "cote": 34.76,
+            "probabilite_modele": 58.4,
+            "ev_pct": 1931.5
+          },
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 8.73,
+            "probabilite_modele": 46.4,
+            "ev_pct": 304.9
+          },
+          {
+            "marche": "VICTOIRE CLUBE DE REGATAS BRASIL",
+            "cote": 9.73,
+            "probabilite_modele": 14.3,
+            "ev_pct": 38.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Criciuma vs Grêmio Novorizontino",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-14T19:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.37,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.05,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 12.5,
+            "probabilite_modele": 40.1,
+            "ev_pct": 401.1
+          },
+          {
+            "marche": "NUL",
+            "cote": 14.75,
+            "probabilite_modele": 20.8,
+            "ev_pct": 206.4
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Fortaleza vs Vila Nova",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-14T19:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.44,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 10.0,
+            "probabilite_modele": 42.0,
+            "ev_pct": 320.0
+          },
+          {
+            "marche": "NUL",
+            "cote": 14.6,
+            "probabilite_modele": 20.0,
+            "ev_pct": 191.9
+          },
+          {
+            "marche": "VICTOIRE VILA NOVA",
+            "cote": 151.2,
+            "probabilite_modele": 1.0,
+            "ev_pct": 48.9
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Sport Recife vs Goiás",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-14T19:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 88
+      },
+      "modele_b": {
+        "lambda_domicile": 3.22,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 9.42,
+            "probabilite_modele": 41.1,
+            "ev_pct": 287.3
+          },
+          {
+            "marche": "NUL",
+            "cote": 34.0,
+            "probabilite_modele": 4.4,
+            "ev_pct": 50.9
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Austria vs Iceland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-14T19:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.33,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": -5.0,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 11.42,
+            "probabilite_modele": 18.4,
+            "ev_pct": 109.8
+          },
+          {
+            "marche": "VICTOIRE ICELAND",
+            "cote": 147.25,
+            "probabilite_modele": 1.3,
+            "ev_pct": 87.5
+          },
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 3.15,
+            "probabilite_modele": 35.8,
+            "ev_pct": 12.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Sweden vs Bosnia & Herzegovina",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-14T19:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.52,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 3.84,
         "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": -9.2,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE BOSNIA & HERZEGOVINA",
+            "cote": 243.07,
+            "probabilite_modele": 3.7,
+            "ev_pct": 797.3
+          },
+          {
+            "marche": "PLUS DE 5.5 BUTS",
+            "cote": 6.7,
+            "probabilite_modele": 36.5,
+            "ev_pct": 144.6
+          },
+          {
+            "marche": "NUL",
+            "cote": 16.27,
+            "probabilite_modele": 11.1,
+            "ev_pct": 81.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Portugal vs Denmark",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-14T19:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.36,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 412.74,
+            "probabilite_modele": 3.9,
+            "ev_pct": 1508.2
+          },
+          {
+            "marche": "VICTOIRE PORTUGAL",
+            "cote": 458.6,
+            "probabilite_modele": 1.0,
+            "ev_pct": 370.9
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 8.6,
+            "probabilite_modele": 46.4,
+            "ev_pct": 299.1
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Austria vs Republic of Ireland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-14T19:46:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.02,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 20.44,
+            "probabilite_modele": 25.6,
+            "ev_pct": 423.4
+          },
+          {
+            "marche": "VICTOIRE REPUBLIC OF IRELAND",
+            "cote": 381.25,
+            "probabilite_modele": 1.3,
+            "ev_pct": 384.0
+          },
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 8.0,
+            "probabilite_modele": 41.8,
+            "ev_pct": 234.8
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Northern Ireland vs Ukraine",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-14T19:46:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.25,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": -6.0,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 10.56,
+            "probabilite_modele": 32.8,
+            "ev_pct": 246.2
+          },
+          {
+            "marche": "NUL",
+            "cote": 15.11,
+            "probabilite_modele": 18.3,
+            "ev_pct": 177.1
+          },
+          {
+            "marche": "VICTOIRE UKRAINE",
+            "cote": 175.09,
+            "probabilite_modele": 1.2,
+            "ev_pct": 116.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Romania vs Poland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-14T19:46:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.36,
+        "lambda_exterieur": 0.62,
+        "divergence_pinnacle_public_pct": -15.1,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE POLAND",
+            "cote": 184.25,
+            "probabilite_modele": 6.0,
+            "ev_pct": 998.5
+          },
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 7.04,
+            "probabilite_modele": 35.5,
+            "ev_pct": 149.8
+          },
+          {
+            "marche": "NUL",
+            "cote": 11.15,
+            "probabilite_modele": 18.0,
+            "ev_pct": 100.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Oviedo vs Girona FC",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-14T20:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.76,
+        "lambda_exterieur": 2.54,
+        "divergence_pinnacle_public_pct": 2.6,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE OVIEDO",
+            "cote": 61.21,
+            "probabilite_modele": 6.5,
+            "ev_pct": 300.0
+          },
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 4.5,
+            "probabilite_modele": 42.3,
+            "ev_pct": 90.2
+          },
+          {
+            "marche": "NUL",
+            "cote": 6.82,
+            "probabilite_modele": 17.9,
+            "ev_pct": 21.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Mirassol vs Atletico Mineiro",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-14T21:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Querétaro vs Monterrey",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-14T23:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.12,
+        "lambda_exterieur": 1.62,
         "divergence_pinnacle_public_pct": -0.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Real Valladolid CF vs CD Castellón",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-11-14T13:00:00Z",
-      "modele_a": null,
+      "match": "Chapecoense vs Vasco da Gama",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-14T23:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE VASCO DA GAMA",
+        "cote": 1.4,
+        "indice_fixe": 84
+      },
       "modele_b": {
-        "lambda_domicile": 1.68,
-        "lambda_exterieur": 2.04,
-        "divergence_pinnacle_public_pct": -0.1,
+        "lambda_domicile": 1.12,
+        "lambda_exterieur": 2.62,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 48.5,
+            "ev_pct": 3.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Tenerife vs AD Ceuta FC",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-15T13:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE TENERIFE",
+        "cote": 1.79,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 1.3,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "FC Versailles vs Rodez AF",
+      "match": "CS Sedan vs Bourges FC",
       "competition": "Coupe de France",
-      "commence_time": "2026-11-14T13:00:00Z",
-      "modele_a": null,
+      "commence_time": "2026-11-15T13:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.36,
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 2.54,
+        "divergence_pinnacle_public_pct": 2.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.18,
+            "probabilite_modele": 51.9,
+            "ev_pct": 12.8
+          },
+          {
+            "marche": "VICTOIRE CS SEDAN",
+            "cote": 6.69,
+            "probabilite_modele": 16.5,
+            "ev_pct": 10.1
+          },
+          {
+            "marche": "NUL",
+            "cote": 5.69,
+            "probabilite_modele": 17.7,
+            "ev_pct": 0.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Paris 13 Atletico vs Red Star",
+      "competition": "Coupe de France",
+      "commence_time": "2026-11-15T13:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.96,
+        "lambda_exterieur": 1.78,
         "divergence_pinnacle_public_pct": 0.9,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Tourcoing vs Stade de Reims",
+      "match": "AS Atlas Paillade vs Cannes",
       "competition": "Coupe de France",
-      "commence_time": "2026-11-14T13:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.86,
-        "lambda_exterieur": 2.96,
-        "divergence_pinnacle_public_pct": 2.1,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE TOURCOING",
-            "cote": 12.17,
-            "probabilite_modele": 8.7,
-            "ev_pct": 6.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Werder Bremen vs Union Berlin",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-14T13:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.1,
-        "lambda_exterieur": 1.66,
-        "divergence_pinnacle_public_pct": 0.3,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 52.3,
-            "ev_pct": 8.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "CA Boulay vs Sochaux",
-      "competition": "Coupe de France",
-      "commence_time": "2026-11-14T13:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 2.74,
-        "divergence_pinnacle_public_pct": 3.4,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CA BOULAY",
-            "cote": 12.33,
-            "probabilite_modele": 11.2,
-            "ev_pct": 38.0
-          },
-          {
-            "marche": "NUL",
-            "cote": 7.04,
-            "probabilite_modele": 15.4,
-            "ev_pct": 8.1
-          },
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 51.9,
-            "ev_pct": 2.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Kosovo vs Israel",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-14T14:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.64,
-        "lambda_exterieur": 1.0,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Port Vale vs Accrington Stanley",
-      "competition": "League 2",
-      "commence_time": "2026-11-14T15:00:00Z",
+      "commence_time": "2026-11-15T14:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.74,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_domicile": 0.58,
+        "lambda_exterieur": 2.24,
+        "divergence_pinnacle_public_pct": 1.4,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 51.0,
-            "ev_pct": 2.2
+            "cote": 1.99,
+            "probabilite_modele": 53.3,
+            "ev_pct": 5.9
+          },
+          {
+            "marche": "NUL",
+            "cote": 6.49,
+            "probabilite_modele": 15.9,
+            "ev_pct": 3.1
+          },
+          {
+            "marche": "VICTOIRE AS ATLAS PAILLADE",
+            "cote": 11.43,
+            "probabilite_modele": 8.8,
+            "ev_pct": 0.1
           }
         ]
       },
@@ -219,20 +652,20 @@
       }
     },
     {
-      "match": "Wigan Athletic vs Barnsley",
-      "competition": "League 1",
-      "commence_time": "2026-11-14T15:00:00Z",
+      "match": "Latvia vs Armenia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-15T14:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.96,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": 1.6,
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.25 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 51.8,
-            "ev_pct": 10.4
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 48.3,
+            "ev_pct": 2.5
           }
         ]
       },
@@ -240,6 +673,19 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Cyprus vs Montenegro",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-15T14:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": -0.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
