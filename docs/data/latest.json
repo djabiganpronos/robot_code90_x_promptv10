@@ -1,27 +1,39 @@
 {
-  "generated_at": "2026-11-14T04:05:50.513849+00:00",
+  "generated_at": "2026-11-14T12:43:17.225488+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
       "match": "TSG Hoffenheim vs SC Freiburg",
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-11-14T11:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE TSG HOFFENHEIM",
-        "cote": 1.71,
-        "indice_fixe": 78
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.54,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.2,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": 1.7,
+        "lambda_domicile": 0.32,
+        "lambda_exterieur": 0.19,
+        "divergence_pinnacle_public_pct": 6.4,
         "value_bets": [
           {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 49.5,
-            "ev_pct": 4.1
+            "marche": "PLUS DE 0.5 BUTS",
+            "cote": 3.31,
+            "probabilite_modele": 39.3,
+            "ev_pct": 30.1
+          },
+          {
+            "marche": "VICTOIRE TSG HOFFENHEIM",
+            "cote": 5.4,
+            "probabilite_modele": 23.1,
+            "ev_pct": 24.5
+          },
+          {
+            "marche": "VICTOIRE SC FREIBURG",
+            "cote": 8.38,
+            "probabilite_modele": 13.5,
+            "ev_pct": 13.4
           }
         ]
       },
@@ -34,11 +46,15 @@
       "match": "Exeter City vs Cheltenham Town",
       "competition": "League 2",
       "commence_time": "2026-11-14T12:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -49,9 +65,9 @@
       "commence_time": "2026-11-14T13:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 1.68,
+        "lambda_exterieur": 2.04,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -62,9 +78,9 @@
       "commence_time": "2026-11-14T13:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -74,17 +90,27 @@
       "competition": "Coupe de France",
       "commence_time": "2026-11-14T13:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.25 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.82,
-        "lambda_exterieur": 3.7,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
+        "lambda_domicile": 0.86,
+        "lambda_exterieur": 2.96,
+        "divergence_pinnacle_public_pct": 2.1,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE TOURCOING",
+            "cote": 12.17,
+            "probabilite_modele": 8.7,
+            "ev_pct": 6.4
+          }
+        ]
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Werder Bremen vs Union Berlin",
@@ -92,19 +118,19 @@
       "commence_time": "2026-11-14T13:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.82,
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.02,
-        "lambda_exterieur": 1.7,
-        "divergence_pinnacle_public_pct": -1.6,
+        "lambda_domicile": 2.1,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
             "cote": 2.07,
-            "probabilite_modele": 51.5,
-            "ev_pct": 6.5
+            "probabilite_modele": 52.3,
+            "ev_pct": 8.1
           }
         ]
       },
@@ -118,26 +144,32 @@
       "competition": "Coupe de France",
       "commence_time": "2026-11-14T13:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 82
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.94,
-        "lambda_exterieur": 2.66,
-        "divergence_pinnacle_public_pct": 3.5,
+        "lambda_domicile": 1.02,
+        "lambda_exterieur": 2.74,
+        "divergence_pinnacle_public_pct": 3.4,
         "value_bets": [
           {
             "marche": "VICTOIRE CA BOULAY",
             "cote": 12.33,
-            "probabilite_modele": 10.9,
-            "ev_pct": 34.9
+            "probabilite_modele": 11.2,
+            "ev_pct": 38.0
           },
           {
             "marche": "NUL",
-            "cote": 7.31,
-            "probabilite_modele": 15.1,
-            "ev_pct": 10.0
+            "cote": 7.04,
+            "probabilite_modele": 15.4,
+            "ev_pct": 8.1
+          },
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 51.9,
+            "ev_pct": 2.3
           }
         ]
       },
@@ -150,18 +182,64 @@
       "match": "Kosovo vs Israel",
       "competition": "UEFA Nations League",
       "commence_time": "2026-11-14T14:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE KOSOVO",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.66,
+        "lambda_domicile": 1.64,
         "lambda_exterieur": 1.0,
-        "divergence_pinnacle_public_pct": 0.9,
+        "divergence_pinnacle_public_pct": -0.3,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "Port Vale vs Accrington Stanley",
+      "competition": "League 2",
+      "commence_time": "2026-11-14T15:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 51.0,
+            "ev_pct": 2.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Wigan Athletic vs Barnsley",
+      "competition": "League 1",
+      "commence_time": "2026-11-14T15:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": 1.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 51.8,
+            "ev_pct": 10.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
