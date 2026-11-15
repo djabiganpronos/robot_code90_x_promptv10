@@ -1,33 +1,27 @@
 {
-  "generated_at": "2026-11-15T13:10:40.819507+00:00",
+  "generated_at": "2026-11-15T22:17:01.991852+00:00",
   "erreur": null,
-  "nb_matchs": 11,
+  "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Paris 13 Atletico vs Red Star",
-      "competition": "Coupe de France",
-      "commence_time": "2026-11-15T13:00:00Z",
+      "match": "Faroe Islands vs Moldova",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-16T15:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE RED STAR",
-        "cote": 1.75,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.98,
-        "lambda_exterieur": 1.68,
-        "divergence_pinnacle_public_pct": 6.0,
+        "lambda_domicile": 1.62,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 0.4,
         "value_bets": [
           {
-            "marche": "VICTOIRE PARIS 13 ATLETICO",
-            "cote": 6.9,
-            "probabilite_modele": 20.9,
-            "ev_pct": 44.3
-          },
-          {
-            "marche": "NUL",
-            "cote": 4.14,
-            "probabilite_modele": 25.7,
-            "ev_pct": 6.4
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 47.3,
+            "ev_pct": 0.6
           }
         ]
       },
@@ -37,58 +31,121 @@
       }
     },
     {
-      "match": "CS Sedan vs Bourges FC",
-      "competition": "Coupe de France",
-      "commence_time": "2026-11-15T13:02:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 2.5,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Tenerife vs AD Ceuta FC",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-11-15T13:03:00Z",
+      "match": "Kazakhstan vs Slovakia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-16T15:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.0,
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 1.5,
         "divergence_pinnacle_public_pct": 0.8,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "AS Atlas Paillade vs Cannes",
-      "competition": "Coupe de France",
-      "commence_time": "2026-11-15T14:00:00Z",
+      "match": "VfB Stuttgart vs Bayer Leverkusen",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-16T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 2.3,
+        "divergence_pinnacle_public_pct": -1.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Estonia vs Bulgaria",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-16T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.0 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 49.8,
+            "ev_pct": 6.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Iceland vs Luxembourg",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-16T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.16,
+        "lambda_exterieur": 0.54,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 49.4,
+            "ev_pct": 4.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Lithuania vs Liechtenstein",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-16T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.52,
+        "lambda_exterieur": 0.27,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Albacete vs Celta Fortuna",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-16T19:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.58,
-        "lambda_exterieur": 2.1,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 0.84,
+        "divergence_pinnacle_public_pct": 1.6,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
+            "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.02,
-            "probabilite_modele": 49.9,
-            "ev_pct": 0.8
+            "probabilite_modele": 52.0,
+            "ev_pct": 5.2
           }
         ]
       },
@@ -98,137 +155,21 @@
       }
     },
     {
-      "match": "Latvia vs Armenia",
+      "match": "Germany vs Netherlands",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-11-15T14:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.25,
-            "probabilite_modele": 47.4,
-            "ev_pct": 6.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Cyprus vs Montenegro",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-15T14:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "GFA Rumilly Vallières vs Saint Etienne",
-      "competition": "Coupe de France",
-      "commence_time": "2026-11-15T14:00:00Z",
+      "commence_time": "2026-11-16T19:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
+        "cote": 1.81,
+        "indice_fixe": 85
       },
       "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 2.54,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.24,
-            "probabilite_modele": 51.5,
-            "ev_pct": 15.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "1. FC Nürnberg vs 1. FC Köln",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-15T15:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 2.2,
-        "divergence_pinnacle_public_pct": 1.4,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "RB Leipzig vs Eintracht Frankfurt",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-15T15:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 2.48,
-        "divergence_pinnacle_public_pct": -1.4,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Granada CF vs Las Palmas",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-11-15T15:15:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": 1.4,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Belarus vs Albania",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-15T17:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.02,
+        "lambda_domicile": 2.22,
         "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": -1.3,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.26,
-            "probabilite_modele": 49.9,
-            "ev_pct": 12.9
-          }
-        ]
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     }
   ]
 }
