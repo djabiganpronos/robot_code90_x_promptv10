@@ -1,67 +1,169 @@
 {
-  "generated_at": "2026-11-17T15:10:53.384880+00:00",
+  "generated_at": "2026-11-18T00:13:26.954317+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Luton vs Peterborough United",
-      "competition": "EFL Trophy",
-      "commence_time": "2026-11-17T19:00:00Z",
+      "match": "BK Hacken vs Manchester City",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-18T17:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.83,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.3,
-        "lambda_exterieur": 1.26,
+        "lambda_domicile": 0.96,
+        "lambda_exterieur": 2.62,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 51.8,
+            "ev_pct": 3.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Real Madrid vs Inter Milan",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-18T17:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.82,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 47.7,
+            "ev_pct": 1.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Club Portugalete vs Real Unión",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 50.6,
+            "ev_pct": 4.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Utebo FC vs Sabadell FC",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.84,
+        "lambda_exterieur": 1.74,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE UTEBO FC",
+            "cote": 5.87,
+            "probabilite_modele": 17.3,
+            "ev_pct": 1.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Alcoyano vs Mallorca",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.8,
+        "lambda_exterieur": 1.74,
         "divergence_pinnacle_public_pct": 0.6,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Israel vs Austria",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
+      "match": "Badajoz vs Tenerife",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T19:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE AUSTRIA",
-        "cote": 1.8,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 2.18,
-        "divergence_pinnacle_public_pct": -0.9,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.25,
-            "probabilite_modele": 51.1,
-            "ev_pct": 15.1
-          }
-        ]
+        "lambda_domicile": 0.94,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": 1.1,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
-      "match": "Bosnia & Herzegovina vs Romania",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": null,
+      "match": "Reus FC Reddis vs Barakaldo",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T19:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 1.2,
+        "lambda_domicile": 1.06,
+        "lambda_exterieur": 1.48,
         "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 48.2,
-            "ev_pct": 2.2
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.18,
+            "probabilite_modele": 47.5,
+            "ev_pct": 3.6
           }
         ]
       },
@@ -71,128 +173,24 @@
       }
     },
     {
-      "match": "Denmark vs Norway",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 1.86,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 49.7,
-            "ev_pct": 0.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Ukraine vs Georgia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
+      "match": "CD Minera vs FC Cartagena",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T19:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.48,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 46.9,
-            "ev_pct": 0.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Hungary vs Northern Ireland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 0.3,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.21,
-            "probabilite_modele": 46.1,
-            "ev_pct": 2.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Republic of Ireland vs Kosovo",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.81,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.75,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.66,
-        "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": 1.2,
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 2.28,
-            "probabilite_modele": 53.2,
-            "ev_pct": 21.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Poland vs Sweden",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.04,
-        "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.0 BUTS",
-            "cote": 1.98,
-            "probabilite_modele": 52.5,
-            "ev_pct": 3.7
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.29,
+            "probabilite_modele": 53.3,
+            "ev_pct": 21.9
           }
         ]
       },
