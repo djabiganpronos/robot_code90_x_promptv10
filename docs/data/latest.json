@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:13:26.954317+00:00",
+  "generated_at": "2026-11-18T14:48:27.795164+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -8,20 +8,20 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-18T17:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.96,
-        "lambda_exterieur": 2.62,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 2.7,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 51.8,
-            "ev_pct": 3.9
+            "cote": 2.36,
+            "probabilite_modele": 47.8,
+            "ev_pct": 12.8
           }
         ]
       },
@@ -35,20 +35,20 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-18T17:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.82,
-        "lambda_exterieur": 0.96,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 2.78,
+        "lambda_exterieur": 0.8,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 47.7,
-            "ev_pct": 1.1
+            "cote": 2.5,
+            "probabilite_modele": 52.0,
+            "ev_pct": 30.0
           }
         ]
       },
@@ -63,19 +63,19 @@
       "commence_time": "2026-11-18T18:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 1.28,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 50.6,
-            "ev_pct": 4.1
+            "cote": 2.07,
+            "probabilite_modele": 51.7,
+            "ev_pct": 6.9
           }
         ]
       },
@@ -90,19 +90,19 @@
       "commence_time": "2026-11-18T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.84,
-        "lambda_exterieur": 1.74,
+        "lambda_domicile": 0.88,
+        "lambda_exterieur": 1.68,
         "divergence_pinnacle_public_pct": 1.0,
         "value_bets": [
           {
             "marche": "VICTOIRE UTEBO FC",
-            "cote": 5.87,
-            "probabilite_modele": 17.3,
-            "ev_pct": 1.7
+            "cote": 5.45,
+            "probabilite_modele": 18.8,
+            "ev_pct": 2.5
           }
         ]
       },
@@ -116,14 +116,14 @@
       "competition": "Copa del Rey",
       "commence_time": "2026-11-18T19:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82
+        "pari": "VICTOIRE MALLORCA",
+        "cote": 1.48,
+        "indice_fixe": 84
       },
       "modele_b": {
         "lambda_domicile": 0.8,
-        "lambda_exterieur": 1.74,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_exterieur": 1.86,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -138,9 +138,9 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.94,
-        "lambda_exterieur": 1.58,
-        "divergence_pinnacle_public_pct": 1.1,
+        "lambda_domicile": 0.84,
+        "lambda_exterieur": 1.68,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -151,19 +151,19 @@
       "commence_time": "2026-11-18T19:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.82,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.06,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 47.5,
-            "ev_pct": 3.6
+            "cote": 2.2,
+            "probabilite_modele": 47.3,
+            "ev_pct": 4.0
           }
         ]
       },
@@ -177,20 +177,20 @@
       "competition": "Copa del Rey",
       "commence_time": "2026-11-18T19:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.42,
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.24,
         "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
             "cote": 2.29,
-            "probabilite_modele": 53.3,
-            "ev_pct": 21.9
+            "probabilite_modele": 45.4,
+            "ev_pct": 3.8
           }
         ]
       },
