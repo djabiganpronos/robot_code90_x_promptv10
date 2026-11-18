@@ -1,169 +1,63 @@
 {
-  "generated_at": "2026-11-18T14:48:27.795164+00:00",
+  "generated_at": "2026-11-18T23:42:50.325732+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 12,
   "matchs": [
     {
-      "match": "BK Hacken vs Manchester City",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-18T17:45:00Z",
+      "match": "Coritiba vs Santos",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-18T22:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.08,
-        "lambda_exterieur": 2.7,
-        "divergence_pinnacle_public_pct": 0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.36,
-            "probabilite_modele": 47.8,
-            "ev_pct": 12.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Real Madrid vs Inter Milan",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-18T17:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.78,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.5,
-            "probabilite_modele": 52.0,
-            "ev_pct": 30.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Club Portugalete vs Real Unión",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-18T18:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 51.7,
-            "ev_pct": 6.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Utebo FC vs Sabadell FC",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-18T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "MOINS DE 1.5 BUTS",
         "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.88,
-        "lambda_exterieur": 1.68,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE UTEBO FC",
-            "cote": 5.45,
-            "probabilite_modele": 18.8,
-            "ev_pct": 2.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Alcoyano vs Mallorca",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-18T19:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE MALLORCA",
-        "cote": 1.48,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 0.8,
-        "lambda_exterieur": 1.86,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 0.66,
+        "lambda_exterieur": 0.88,
+        "divergence_pinnacle_public_pct": -1.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Badajoz vs Tenerife",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-18T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82
-      },
+      "match": "Remo vs Chapecoense",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-18T23:00:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.84,
-        "lambda_exterieur": 1.68,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_domicile": 3.34,
+        "lambda_exterieur": 0.38,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": false
     },
     {
-      "match": "Reus FC Reddis vs Barakaldo",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-18T19:30:00Z",
+      "match": "Flamengo vs Atletico Paranaense",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-18T23:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "PLUS DE 3.0 BUTS",
         "cote": 1.82,
-        "indice_fixe": 82
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.08,
-        "lambda_exterieur": 1.46,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 2.96,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": 9.7,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 47.3,
-            "ev_pct": 4.0
+            "marche": "VICTOIRE FLAMENGO",
+            "cote": 1.38,
+            "probabilite_modele": 79.4,
+            "ev_pct": 9.3
+          },
+          {
+            "marche": "PLUS DE 3.0 BUTS",
+            "cote": 1.91,
+            "probabilite_modele": 53.0,
+            "ev_pct": 1.2
           }
         ]
       },
@@ -173,24 +67,218 @@
       }
     },
     {
-      "match": "CD Minera vs FC Cartagena",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-18T19:30:00Z",
+      "match": "Cruzeiro vs Palmeiras",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-18T23:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": 2.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Grêmio vs Bahia",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-19T00:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.94,
+        "lambda_exterieur": 1.82,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 47.5,
+            "ev_pct": 0.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Corinthians vs Botafogo",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-19T00:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE CORINTHIANS",
+        "cote": 1.71,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Austria Wien vs Bayern Munich",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-19T17:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.75 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.56,
+        "lambda_exterieur": 3.04,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.75 BUTS",
+            "cote": 2.73,
+            "probabilite_modele": 51.6,
+            "ev_pct": 41.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Paris FC vs HB Køge",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-19T17:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.26,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 53.1,
+            "ev_pct": 13.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Benfica vs AS Roma",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-19T20:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.25 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.06,
+        "lambda_exterieur": 1.74,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Arsenal vs Lyon",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-19T20:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE LYON",
         "cote": 1.76,
-        "indice_fixe": 82
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 2.16,
+        "divergence_pinnacle_public_pct": -1.0,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.29,
-            "probabilite_modele": 45.4,
-            "ev_pct": 3.8
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 1.95,
+            "probabilite_modele": 51.4,
+            "ev_pct": 0.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Barcelona vs Servette FC",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-19T20:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 6.0 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 4.0,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE SERVETTE FC",
+            "cote": 52.43,
+            "probabilite_modele": 8.4,
+            "ev_pct": 339.8
+          },
+          {
+            "marche": "NUL",
+            "cote": 29.69,
+            "probabilite_modele": 9.8,
+            "ev_pct": 190.8
+          },
+          {
+            "marche": "MOINS DE 6.0 BUTS",
+            "cote": 3.17,
+            "probabilite_modele": 59.5,
+            "ev_pct": 88.4
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Vitoria vs Bragantino-SP",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-19T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 88
+      },
+      "modele_b": {
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 52.8,
+            "ev_pct": 5.3
           }
         ]
       },
