@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T05:04:14.735442+00:00",
+  "generated_at": "2026-11-19T14:55:14.174347+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -8,20 +8,26 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-19T17:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.75 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.64,
-        "lambda_exterieur": 2.94,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 0.72,
+        "lambda_exterieur": 3.06,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.75 BUTS",
+            "marche": "MOINS DE 3.5 BUTS",
             "cote": 2.62,
-            "probabilite_modele": 52.0,
-            "ev_pct": 36.0
+            "probabilite_modele": 47.7,
+            "ev_pct": 24.9
+          },
+          {
+            "marche": "VICTOIRE AUSTRIA WIEN",
+            "cote": 19.33,
+            "probabilite_modele": 5.5,
+            "ev_pct": 5.6
           }
         ]
       },
@@ -35,20 +41,20 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-19T17:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.25 BUTS",
-        "cote": 1.79,
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.83,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.26,
-        "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 2.34,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.25 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 53.1,
-            "ev_pct": 13.2
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 52.2,
+            "ev_pct": 5.9
           }
         ]
       },
@@ -61,20 +67,16 @@
       "match": "Benfica vs AS Roma",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-19T20:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.92,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 53.2,
+            "cote": 2.03,
+            "probabilite_modele": 51.5,
             "ev_pct": 4.7
           }
         ]
@@ -89,20 +91,20 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-19T20:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
+        "pari": "VICTOIRE LYON",
+        "cote": 1.61,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 2.16,
-        "divergence_pinnacle_public_pct": -0.7,
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 2.3,
+        "divergence_pinnacle_public_pct": -0.3,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 1.93,
-            "probabilite_modele": 51.9,
-            "ev_pct": 0.1
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 50.0,
+            "ev_pct": 1.1
           }
         ]
       },
@@ -116,32 +118,32 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-19T20:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 6.0 BUTS",
-        "cote": 1.76,
+        "pari": "PLUS DE 6.25 BUTS",
+        "cote": 1.78,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 4.0,
-        "lambda_exterieur": 1.48,
+        "lambda_exterieur": 1.44,
         "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
             "marche": "VICTOIRE SERVETTE FC",
-            "cote": 43.93,
-            "probabilite_modele": 9.0,
-            "ev_pct": 294.7
+            "cote": 57.14,
+            "probabilite_modele": 8.6,
+            "ev_pct": 390.6
           },
           {
             "marche": "NUL",
-            "cote": 28.69,
-            "probabilite_modele": 10.1,
-            "ev_pct": 189.1
+            "cote": 32.96,
+            "probabilite_modele": 9.9,
+            "ev_pct": 226.1
           },
           {
-            "marche": "MOINS DE 6.0 BUTS",
-            "cote": 2.86,
-            "probabilite_modele": 58.3,
-            "ev_pct": 66.9
+            "marche": "MOINS DE 6.25 BUTS",
+            "cote": 3.14,
+            "probabilite_modele": 58.8,
+            "ev_pct": 84.7
           }
         ]
       },
@@ -155,27 +157,17 @@
       "competition": "Brazil Série A",
       "commence_time": "2026-11-19T22:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.83,
-        "indice_fixe": 88
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 53.0,
-            "ev_pct": 5.7
-          }
-        ]
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Vasco da Gama vs Internacional",
@@ -183,19 +175,19 @@
       "commence_time": "2026-11-19T22:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE VASCO DA GAMA",
-        "cote": 1.59,
+        "cote": 1.57,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": 1.9,
+        "lambda_domicile": 1.86,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": 1.3,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 50.4,
-            "ev_pct": 2.2
+            "cote": 2.08,
+            "probabilite_modele": 49.9,
+            "ev_pct": 3.8
           }
         ]
       },
@@ -208,17 +200,21 @@
       "match": "Orlando City SC vs FC Cincinnati",
       "competition": "MLS",
       "commence_time": "2026-11-20T00:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.84,
-        "lambda_exterieur": 1.82,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 1.74,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 49.8,
-            "ev_pct": 10.6
+            "cote": 2.24,
+            "probabilite_modele": 52.6,
+            "ev_pct": 17.9
           }
         ]
       },
