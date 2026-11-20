@@ -1,193 +1,74 @@
 {
-  "generated_at": "2026-11-19T14:55:14.174347+00:00",
+  "generated_at": "2026-11-20T00:01:28.565956+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
-    {
-      "match": "Austria Wien vs Bayern Munich",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-19T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.72,
-        "lambda_exterieur": 3.06,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.62,
-            "probabilite_modele": 47.7,
-            "ev_pct": 24.9
-          },
-          {
-            "marche": "VICTOIRE AUSTRIA WIEN",
-            "cote": 19.33,
-            "probabilite_modele": 5.5,
-            "ev_pct": 5.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Paris FC vs HB Køge",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-19T17:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.34,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 52.2,
-            "ev_pct": 5.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Benfica vs AS Roma",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-19T20:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.96,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 51.5,
-            "ev_pct": 4.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Arsenal vs Lyon",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-19T20:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE LYON",
-        "cote": 1.61,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 2.3,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 50.0,
-            "ev_pct": 1.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Barcelona vs Servette FC",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-19T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 6.25 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE SERVETTE FC",
-            "cote": 57.14,
-            "probabilite_modele": 8.6,
-            "ev_pct": 390.6
-          },
-          {
-            "marche": "NUL",
-            "cote": 32.96,
-            "probabilite_modele": 9.9,
-            "ev_pct": 226.1
-          },
-          {
-            "marche": "MOINS DE 6.25 BUTS",
-            "cote": 3.14,
-            "probabilite_modele": 58.8,
-            "ev_pct": 84.7
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Vitoria vs Bragantino-SP",
       "competition": "Brazil Série A",
       "commence_time": "2026-11-19T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.38,
-        "divergence_pinnacle_public_pct": 0.8,
-        "value_bets": []
+        "lambda_domicile": 2.4,
+        "lambda_exterieur": 0.23,
+        "divergence_pinnacle_public_pct": -2.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.33,
+            "probabilite_modele": 51.2,
+            "ev_pct": 19.3
+          },
+          {
+            "marche": "NUL",
+            "cote": 9.53,
+            "probabilite_modele": 11.4,
+            "ev_pct": 8.7
+          },
+          {
+            "marche": "VICTOIRE BRAGANTINO-SP",
+            "cote": 34.0,
+            "probabilite_modele": 3.0,
+            "ev_pct": 1.3
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Vasco da Gama vs Internacional",
       "competition": "Brazil Série A",
       "commence_time": "2026-11-19T22:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE VASCO DA GAMA",
-        "cote": 1.57,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.75,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.86,
-        "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 1.3,
+        "lambda_domicile": 2.22,
+        "lambda_exterieur": 1.5,
+        "divergence_pinnacle_public_pct": -32.8,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 49.9,
-            "ev_pct": 3.8
+            "marche": "VICTOIRE INTERNACIONAL",
+            "cote": 24.87,
+            "probabilite_modele": 20.0,
+            "ev_pct": 397.2
+          },
+          {
+            "marche": "NUL",
+            "cote": 5.62,
+            "probabilite_modele": 29.3,
+            "ev_pct": 64.8
+          },
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.22,
+            "probabilite_modele": 47.0,
+            "ev_pct": 4.4
           }
         ]
       },
@@ -200,21 +81,174 @@
       "match": "Orlando City SC vs FC Cincinnati",
       "competition": "MLS",
       "commence_time": "2026-11-20T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.8,
-        "lambda_exterieur": 1.74,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.88,
+        "lambda_exterieur": 1.8,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.24,
-            "probabilite_modele": 52.6,
-            "ev_pct": 17.9
+            "cote": 2.27,
+            "probabilite_modele": 49.4,
+            "ev_pct": 12.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Sao Paulo vs Fluminense",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-20T00:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.24,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 49.5,
+            "ev_pct": 4.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Seattle Sounders FC vs Real Salt Lake",
+      "competition": "MLS",
+      "commence_time": "2026-11-20T03:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Western Sydney Wanderers vs Adelaide United",
+      "competition": "A-League",
+      "commence_time": "2026-11-20T08:40:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE WESTERN SYDNEY WANDERERS",
+        "cote": 1.7,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.26,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.01,
+            "probabilite_modele": 50.3,
+            "ev_pct": 1.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Kashiwa Reysol vs JEF United Chiba",
+      "competition": "J League",
+      "commence_time": "2026-11-20T10:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE KASHIWA REYSOL",
+        "cote": 1.51,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.88,
+        "lambda_exterieur": 0.76,
+        "divergence_pinnacle_public_pct": 1.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 50.9,
+            "ev_pct": 8.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Kashima Antlers vs Shimizu S Pulse",
+      "competition": "J League",
+      "commence_time": "2026-11-20T10:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE KASHIMA ANTLERS",
+        "cote": 1.51,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.94,
+        "lambda_exterieur": 0.8,
+        "divergence_pinnacle_public_pct": 1.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Vissel Kobe vs Mito HollyHock",
+      "competition": "J League",
+      "commence_time": "2026-11-20T10:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE VISSEL KOBE",
+        "cote": 1.4,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 0.64,
+        "divergence_pinnacle_public_pct": 1.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 51.8,
+            "ev_pct": 2.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FK Rostov vs Kryliya Sovetov",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-11-20T16:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.25 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 51.5,
+            "ev_pct": 3.1
           }
         ]
       },
