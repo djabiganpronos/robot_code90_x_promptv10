@@ -1,86 +1,35 @@
 {
-  "generated_at": "2026-11-20T23:29:26.284114+00:00",
+  "generated_at": "2026-11-21T04:50:11.084651+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 11,
   "matchs": [
-    {
-      "match": "Velez Sarsfield BA vs Belgrano de Cordoba",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-20T23:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.98,
-        "lambda_exterieur": 1.58,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 52.1,
-            "ev_pct": 2.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Palestino vs Union La Calera",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-11-20T23:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Puebla vs Atlético San Luis",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-21T01:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 47.9,
-            "ev_pct": 1.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "FC Juárez vs Atlas",
       "competition": "Liga MX",
       "commence_time": "2026-11-21T03:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.08,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 2.14,
+        "lambda_exterieur": 2.28,
+        "divergence_pinnacle_public_pct": 10.1,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 49.0,
-            "ev_pct": 1.5
+            "marche": "VICTOIRE FC JUÁREZ",
+            "cote": 6.2,
+            "probabilite_modele": 31.2,
+            "ev_pct": 93.5
+          },
+          {
+            "marche": "VICTOIRE ATLAS",
+            "cote": 4.96,
+            "probabilite_modele": 37.1,
+            "ev_pct": 84.2
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 2.68,
+            "probabilite_modele": 47.4,
+            "ev_pct": 26.9
           }
         ]
       },
@@ -94,20 +43,26 @@
       "competition": "Liga MX",
       "commence_time": "2026-11-21T03:10:00Z",
       "modele_a": {
-        "pari": "VICTOIRE TIJUANA",
-        "cote": 1.56,
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.72,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.84,
-        "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 1.1,
+        "lambda_domicile": 1.02,
+        "lambda_exterieur": 0.64,
+        "divergence_pinnacle_public_pct": -36.0,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 50.2,
-            "ev_pct": 4.4
+            "marche": "VICTOIRE ATLANTE FC",
+            "cote": 28.95,
+            "probabilite_modele": 19.3,
+            "ev_pct": 458.4
+          },
+          {
+            "marche": "NUL",
+            "cote": 5.25,
+            "probabilite_modele": 38.7,
+            "ev_pct": 103.2
           }
         ]
       },
@@ -120,17 +75,27 @@
       "match": "Auckland FC vs Melbourne Victory",
       "competition": "A-League",
       "commence_time": "2026-11-21T04:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 21.3,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 52.0,
-            "ev_pct": 2.4
+            "marche": "VICTOIRE AUCKLAND FC",
+            "cote": 7.0,
+            "probabilite_modele": 36.0,
+            "ev_pct": 152.1
+          },
+          {
+            "marche": "NUL",
+            "cote": 3.47,
+            "probabilite_modele": 31.0,
+            "ev_pct": 7.8
           }
         ]
       },
@@ -149,15 +114,15 @@
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_domicile": 1.48,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
             "cote": 2.01,
-            "probabilite_modele": 51.8,
-            "ev_pct": 4.3
+            "probabilite_modele": 52.0,
+            "ev_pct": 4.8
           }
         ]
       },
@@ -172,32 +137,19 @@
       "commence_time": "2026-11-21T05:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE FC MACHIDA ZELVIA",
-        "cote": 1.52,
+        "cote": 1.5,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Jeonbuk Hyundai Motors vs FC Seoul",
-      "competition": "K League 1",
-      "commence_time": "2026-11-21T05:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 1.9,
+        "lambda_exterieur": 0.76,
+        "divergence_pinnacle_public_pct": 0.7,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.94,
-            "probabilite_modele": 52.0,
-            "ev_pct": 1.1
+            "cote": 1.99,
+            "probabilite_modele": 50.5,
+            "ev_pct": 0.7
           }
         ]
       },
@@ -205,6 +157,112 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Jeonbuk Hyundai Motors vs FC Seoul",
+      "competition": "K League 1",
+      "commence_time": "2026-11-21T05:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.48,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": 2.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Hiroshima Sanfrecce FC vs Yokohama F Marinos",
+      "competition": "J League",
+      "commence_time": "2026-11-21T05:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.42,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 2.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Kyoto Purple Sanga vs Urawa Red Diamonds",
+      "competition": "J League",
+      "commence_time": "2026-11-21T05:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.5,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 50.1,
+            "ev_pct": 1.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Tokyo Verdy vs Nagoya Grampus",
+      "competition": "J League",
+      "commence_time": "2026-11-21T05:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Kawasaki Frontale vs Avispa Fukuoka",
+      "competition": "J League",
+      "commence_time": "2026-11-21T06:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE KAWASAKI FRONTALE",
+        "cote": 1.74,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.7,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 51.5,
+            "ev_pct": 2.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Central Coast Mariners vs Perth Glory",
+      "competition": "A-League",
+      "commence_time": "2026-11-21T06:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 1.9,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
