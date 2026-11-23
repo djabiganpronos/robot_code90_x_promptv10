@@ -1,23 +1,39 @@
 {
-  "generated_at": "2026-11-23T04:47:40.870033+00:00",
+  "generated_at": "2026-11-23T16:51:41.230307+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
     {
       "match": "Asteras Tripolis vs Aris Thessaloniki",
       "competition": "Super League - Greece",
       "commence_time": "2026-11-23T15:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.43,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.46,
-        "divergence_pinnacle_public_pct": -1.5,
+        "lambda_domicile": 0.19,
+        "lambda_exterieur": 0.23,
+        "divergence_pinnacle_public_pct": 10.6,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 49.4,
-            "ev_pct": 3.1
+            "marche": "VICTOIRE ASTERAS TRIPOLIS",
+            "cote": 20.95,
+            "probabilite_modele": 14.6,
+            "ev_pct": 205.4
+          },
+          {
+            "marche": "VICTOIRE ARIS THESSALONIKI",
+            "cote": 15.09,
+            "probabilite_modele": 17.2,
+            "ev_pct": 159.7
+          },
+          {
+            "marche": "PLUS DE 0.5 BUTS",
+            "cote": 7.32,
+            "probabilite_modele": 33.6,
+            "ev_pct": 145.8
           }
         ]
       },
@@ -32,15 +48,15 @@
       "commence_time": "2026-11-23T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 2.14,
+        "lambda_exterieur": 1.52,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 51.0,
-            "ev_pct": 9.5
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.08,
+            "probabilite_modele": 50.3,
+            "ev_pct": 4.5
           }
         ]
       },
@@ -54,27 +70,17 @@
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-11-23T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.72,
-        "divergence_pinnacle_public_pct": 1.4,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 51.1,
-            "ev_pct": 2.9
-          }
-        ]
+        "lambda_domicile": 3.94,
+        "lambda_exterieur": 0.62,
+        "divergence_pinnacle_public_pct": 3.0,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Brondby IF vs FC Midtjylland",
@@ -83,14 +89,14 @@
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.86,
-        "lambda_exterieur": 1.86,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_exterieur": 1.88,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 51.4,
-            "ev_pct": 5.4
+            "cote": 2.04,
+            "probabilite_modele": 51.8,
+            "ev_pct": 5.5
           }
         ]
       },
@@ -105,12 +111,22 @@
       "commence_time": "2026-11-23T18:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.88,
-        "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": []
+        "lambda_domicile": 3.02,
+        "lambda_exterieur": 0.72,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.26,
+            "probabilite_modele": 48.7,
+            "ev_pct": 10.1
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Örgryte IS vs Kalmar FF",
@@ -118,15 +134,15 @@
       "commence_time": "2026-11-23T18:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.1,
+        "lambda_domicile": 1.16,
         "lambda_exterieur": 1.5,
-        "divergence_pinnacle_public_pct": -0.3,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 2.75 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 51.6,
-            "ev_pct": 1.5
+            "cote": 2.01,
+            "probabilite_modele": 50.4,
+            "ev_pct": 1.4
           }
         ]
       },
@@ -141,9 +157,9 @@
       "commence_time": "2026-11-23T18:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.84,
-        "lambda_exterieur": 1.82,
-        "divergence_pinnacle_public_pct": -0.7,
+        "lambda_domicile": 1.76,
+        "lambda_exterieur": 1.88,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -152,18 +168,37 @@
       "match": "AD Ceuta FC vs Almería",
       "competition": "La Liga 2 - Spain",
       "commence_time": "2026-11-23T19:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.64,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "Monza vs Fiorentina",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-11-23T19:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": -0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 47.7,
+            "ev_pct": 1.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
