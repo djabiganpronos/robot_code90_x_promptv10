@@ -1,308 +1,8 @@
 {
-  "generated_at": "2026-11-22T22:58:25.393555+00:00",
+  "generated_at": "2026-11-23T04:47:40.870033+00:00",
   "erreur": null,
-  "nb_matchs": 14,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Colo Colo vs Universidad Católica (CHI)",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-11-22T21:04:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.41,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.88,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 7.1,
-            "probabilite_modele": 32.8,
-            "ev_pct": 133.2
-          },
-          {
-            "marche": "NUL",
-            "cote": 33.61,
-            "probabilite_modele": 6.1,
-            "ev_pct": 106.3
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Nashville SC vs FC Cincinnati",
-      "competition": "MLS",
-      "commence_time": "2026-11-22T21:25:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.72,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 2.8,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE FC CINCINNATI",
-            "cote": 3.09,
-            "probabilite_modele": 43.1,
-            "ev_pct": 33.2
-          },
-          {
-            "marche": "VICTOIRE NASHVILLE SC",
-            "cote": 5.01,
-            "probabilite_modele": 24.6,
-            "ev_pct": 23.6
-          },
-          {
-            "marche": "MOINS DE 1.5 BUTS",
-            "cote": 2.27,
-            "probabilite_modele": 47.0,
-            "ev_pct": 6.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Atletico Goianiense vs Vila Nova",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-22T21:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 0.19,
-        "divergence_pinnacle_public_pct": -2.5,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 4.52,
-            "probabilite_modele": 22.9,
-            "ev_pct": 3.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Fluminense vs Mirassol",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-22T21:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.7,
-        "lambda_exterieur": 0.17,
-        "divergence_pinnacle_public_pct": 5.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 0.5 BUTS",
-            "cote": 2.27,
-            "probabilite_modele": 46.0,
-            "ev_pct": 4.5
-          },
-          {
-            "marche": "VICTOIRE FLUMINENSE",
-            "cote": 2.21,
-            "probabilite_modele": 45.7,
-            "ev_pct": 0.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "River Plate vs Lanus",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-22T22:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.92,
-        "lambda_exterieur": 1.46,
-        "divergence_pinnacle_public_pct": -1.7,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE LANUS",
-            "cote": 4.68,
-            "probabilite_modele": 24.0,
-            "ev_pct": 12.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Bragantino-SP vs Vasco da Gama",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-22T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Guadalajara vs Cruz Azul",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-22T23:07:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.48,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 49.7,
-            "ev_pct": 4.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Chicago Fire vs Charlotte FC",
-      "competition": "MLS",
-      "commence_time": "2026-11-22T23:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE CHICAGO FIRE",
-        "cote": 1.56,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.36,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 51.2,
-            "ev_pct": 1.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Deportes Limache vs La Serena",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-11-22T23:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": -0.8,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Instituto de Córdoba vs Atlético Huracán",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-23T01:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.0 BUTS",
-            "cote": 2.21,
-            "probabilite_modele": 52.4,
-            "ev_pct": 16.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Querétaro vs Necaxa",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-23T01:10:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.98,
-        "lambda_exterieur": 1.7,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 49.5,
-            "ev_pct": 2.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Vancouver Whitecaps FC vs Real Salt Lake",
-      "competition": "MLS",
-      "commence_time": "2026-11-23T01:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE VANCOUVER WHITECAPS FC",
-        "cote": 1.46,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 2.48,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": 1.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 50.7,
-            "ev_pct": 5.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Asteras Tripolis vs Aris Thessaloniki",
       "competition": "Super League - Greece",
@@ -311,13 +11,13 @@
       "modele_b": {
         "lambda_domicile": 1.14,
         "lambda_exterieur": 1.46,
-        "divergence_pinnacle_public_pct": -1.8,
+        "divergence_pinnacle_public_pct": -1.5,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 49.3,
-            "ev_pct": 1.7
+            "cote": 2.09,
+            "probabilite_modele": 49.4,
+            "ev_pct": 3.1
           }
         ]
       },
@@ -333,14 +33,14 @@
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.15,
-            "probabilite_modele": 51.3,
-            "ev_pct": 10.2
+            "probabilite_modele": 51.0,
+            "ev_pct": 9.5
           }
         ]
       },
@@ -348,6 +48,122 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Bayern Munich vs TSG Hoffenheim",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-23T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 4.0,
+        "lambda_exterieur": 0.72,
+        "divergence_pinnacle_public_pct": 1.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 2.01,
+            "probabilite_modele": 51.1,
+            "ev_pct": 2.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Brondby IF vs FC Midtjylland",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-11-23T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.86,
+        "lambda_exterieur": 1.86,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 51.4,
+            "ev_pct": 5.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Hammarby IF vs IFK Goteborg",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-11-23T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.88,
+        "lambda_exterieur": 0.84,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Örgryte IS vs Kalmar FF",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-11-23T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.5,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.75 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 51.6,
+            "ev_pct": 1.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Wieczysta Kraków vs Motor Lublin",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-11-23T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.84,
+        "lambda_exterieur": 1.82,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "AD Ceuta FC vs Almería",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-23T19:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
