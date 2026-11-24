@@ -1,125 +1,56 @@
 {
-  "generated_at": "2026-11-23T16:51:41.230307+00:00",
+  "generated_at": "2026-11-24T03:37:22.031094+00:00",
   "erreur": null,
   "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Asteras Tripolis vs Aris Thessaloniki",
-      "competition": "Super League - Greece",
-      "commence_time": "2026-11-23T15:00:00Z",
+      "match": "St. Louis City SC vs Los Angeles FC",
+      "competition": "MLS",
+      "commence_time": "2026-11-24T01:15:00Z",
       "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.43,
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.25,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.19,
-        "lambda_exterieur": 0.23,
-        "divergence_pinnacle_public_pct": 10.6,
+        "lambda_domicile": 3.54,
+        "lambda_exterieur": 0.54,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "VICTOIRE ASTERAS TRIPOLIS",
-            "cote": 20.95,
-            "probabilite_modele": 14.6,
-            "ev_pct": 205.4
+            "marche": "VICTOIRE LOS ANGELES FC",
+            "cote": 91.5,
+            "probabilite_modele": 2.6,
+            "ev_pct": 141.4
           },
           {
-            "marche": "VICTOIRE ARIS THESSALONIKI",
-            "cote": 15.09,
-            "probabilite_modele": 17.2,
-            "ev_pct": 159.7
-          },
-          {
-            "marche": "PLUS DE 0.5 BUTS",
-            "cote": 7.32,
-            "probabilite_modele": 33.6,
-            "ev_pct": 145.8
+            "marche": "PLUS DE 5.5 BUTS",
+            "cote": 5.5,
+            "probabilite_modele": 22.9,
+            "ev_pct": 25.9
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
     },
     {
-      "match": "Basaksehir vs Çorum FK",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-11-23T17:00:00Z",
+      "match": "Galatasaray vs Aston Villa",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-11-24T17:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.14,
-        "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 50.3,
-            "ev_pct": 4.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Bayern Munich vs TSG Hoffenheim",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-23T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.94,
-        "lambda_exterieur": 0.62,
-        "divergence_pinnacle_public_pct": 3.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Brondby IF vs FC Midtjylland",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-11-23T18:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.86,
-        "lambda_exterieur": 1.88,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 51.8,
-            "ev_pct": 5.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Hammarby IF vs IFK Goteborg",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-11-23T18:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 3.02,
-        "lambda_exterieur": 0.72,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 1.92,
+        "divergence_pinnacle_public_pct": -1.2,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.26,
-            "probabilite_modele": 48.7,
-            "ev_pct": 10.1
+            "cote": 2.13,
+            "probabilite_modele": 52.0,
+            "ev_pct": 11.0
           }
         ]
       },
@@ -129,20 +60,24 @@
       }
     },
     {
-      "match": "Örgryte IS vs Kalmar FF",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-11-23T18:00:00Z",
-      "modele_a": null,
+      "match": "Bodø/Glimt vs LASK",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-11-24T17:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE BODØ/GLIMT",
+        "cote": 1.49,
+        "indice_fixe": 84
+      },
       "modele_b": {
-        "lambda_domicile": 1.16,
-        "lambda_exterieur": 1.5,
+        "lambda_domicile": 2.48,
+        "lambda_exterieur": 1.22,
         "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 50.4,
-            "ev_pct": 1.4
+            "marche": "MOINS DE 3.75 BUTS",
+            "cote": 2.4,
+            "probabilite_modele": 49.4,
+            "ev_pct": 18.5
           }
         ]
       },
@@ -152,46 +87,20 @@
       }
     },
     {
-      "match": "Wieczysta Kraków vs Motor Lublin",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-11-23T18:00:00Z",
+      "match": "Juve Stabia vs US Catanzaro 1929",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-24T18:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 1.88,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "AD Ceuta FC vs Almería",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-11-23T19:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.64,
-        "divergence_pinnacle_public_pct": -0.4,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Monza vs Fiorentina",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-11-23T19:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.66,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 1.02,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 47.7,
-            "ev_pct": 1.9
+            "cote": 2.0,
+            "probabilite_modele": 50.7,
+            "ev_pct": 1.5
           }
         ]
       },
@@ -199,6 +108,97 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Cesena FC vs Ascoli",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-24T19:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.34,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Benevento vs Empoli",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-24T19:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE BENEVENTO",
+        "cote": 1.55,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.86,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": 1.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 50.0,
+            "ev_pct": 2.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Vicenza vs Carrarese",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-24T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": -1.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Tranmere Rovers vs Everton U21",
+      "competition": "EFL Trophy",
+      "commence_time": "2026-11-24T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.12,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Fleetwood Town vs Leeds United U21",
+      "competition": "EFL Trophy",
+      "commence_time": "2026-11-24T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 85
+      },
+      "modele_b": {
+        "lambda_domicile": 2.44,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
