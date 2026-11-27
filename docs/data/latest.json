@@ -1,44 +1,128 @@
 {
-  "generated_at": "2026-11-26T16:01:39.833877+00:00",
+  "generated_at": "2026-11-27T01:17:11.993750+00:00",
   "erreur": null,
-  "nb_matchs": 11,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Al-Fateh vs Al-Riyadh",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-11-26T14:26:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 82
-      },
+      "match": "Pachuca vs Guadalajara",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-27T01:03:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.62,
+        "lambda_exterieur": 1.9,
+        "divergence_pinnacle_public_pct": 11.4,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE PACHUCA",
+            "cote": 5.3,
+            "probabilite_modele": 31.0,
+            "ev_pct": 64.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "León vs Cruz Azul",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-27T03:10:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.12,
+        "lambda_exterieur": 1.5,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 51.1,
+            "ev_pct": 6.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Macarthur FC vs Melbourne City",
+      "competition": "A-League",
+      "commence_time": "2026-11-27T08:40:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 1.52,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 49.8,
+            "ev_pct": 2.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Al-Kholood vs Al-Khaleej",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-11-27T12:15:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 0.4,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Abha Club vs Al-Shabab",
+      "match": "Al-Qadsiah vs Al-Fayha",
       "competition": "Saudi Pro League",
-      "commence_time": "2026-11-26T15:05:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82
-      },
+      "commence_time": "2026-11-27T14:20:00Z",
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.52,
-        "lambda_exterieur": 2.04,
-        "divergence_pinnacle_public_pct": -0.6,
+        "lambda_domicile": 2.78,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 50.7,
+            "ev_pct": 1.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Alanyaspor vs Torku Konyaspor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-27T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.28,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": -1.1,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 47.6,
-            "ev_pct": 2.2
+            "cote": 2.14,
+            "probabilite_modele": 48.6,
+            "ev_pct": 4.0
           }
         ]
       },
@@ -48,47 +132,20 @@
       }
     },
     {
-      "match": "FC Kairat vs Mjällby AIF",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-26T15:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.06,
-        "lambda_exterieur": 0.66,
-        "divergence_pinnacle_public_pct": -1.0,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE MJÄLLBY AIF",
-            "cote": 10.52,
-            "probabilite_modele": 9.9,
-            "ev_pct": 4.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Al-Faisaly KSA FC vs Diriyah Club",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-11-26T17:30:00Z",
+      "match": "Çaykur Rizespor vs Kasimpasa SK",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-27T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.08,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 1.62,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 51.3,
-            "ev_pct": 11.1
+            "cote": 2.11,
+            "probabilite_modele": 48.7,
+            "ev_pct": 2.7
           }
         ]
       },
@@ -98,87 +155,24 @@
       }
     },
     {
-      "match": "Olympiakos Piraeus vs AC Milan",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-26T17:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": -0.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "SK Brann vs AGF Aarhus",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-26T17:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.08,
-        "lambda_exterieur": 1.64,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 1.98,
-            "probabilite_modele": 51.5,
-            "ev_pct": 1.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Hearts vs AS Monaco",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-26T17:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE AS MONACO",
-        "cote": 1.56,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.8,
-        "lambda_exterieur": 1.82,
-        "divergence_pinnacle_public_pct": 0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 51.6,
-            "ev_pct": 5.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Ajax vs FC Thun",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-26T17:45:00Z",
+      "match": "Raków Częstochowa vs Piast Gliwice",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-11-27T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.84,
+        "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 2.82,
-        "lambda_exterieur": 0.74,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_domicile": 2.08,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.71,
-            "probabilite_modele": 52.4,
-            "ev_pct": 41.8
+            "cote": 1.97,
+            "probabilite_modele": 53.4,
+            "ev_pct": 5.4
           }
         ]
       },
@@ -188,64 +182,20 @@
       }
     },
     {
-      "match": "Dinamo Zagreb vs Bayer Leverkusen",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-26T17:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE BAYER LEVERKUSEN",
-        "cote": 1.62,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.28,
-        "lambda_exterieur": 2.3,
-        "divergence_pinnacle_public_pct": -1.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 51.7,
-            "ev_pct": 2.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Viktoria Plzeň vs Benfica",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-26T17:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE BENFICA",
-        "cote": 1.42,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 2.58,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Besiktas JK vs Hapoel Be'er Sheva",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-26T17:45:00Z",
+      "match": "1. FC Heidenheim vs 1. FC Nürnberg",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-27T17:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.76,
-        "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 1.94,
+        "lambda_exterieur": 1.68,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 51.6,
-            "ev_pct": 10.8
+            "cote": 2.09,
+            "probabilite_modele": 50.9,
+            "ev_pct": 6.2
           }
         ]
       },
